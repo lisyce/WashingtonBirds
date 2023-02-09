@@ -1,0 +1,2204 @@
+bird_name,item_taxon,diet_percentage
+Laysan Albatross,Anthoathecatae,11.3857167
+Laysan Albatross,Euphausiacea [krill],24.1179478
+Laysan Albatross,Teuthida,3.5793422
+Laysan Albatross,Unid. Cephalopoda,54.95142320000001
+Laysan Albatross,Unid. Unknown,1.1419806
+Black-footed Albatross,"Beloniformes egg [needlefishes, halfbeaks, and allies]",22.1
+Black-footed Albatross,Scorpaeniformes [mail-cheeked fishes],31.75
+Black-footed Albatross,Teuthida,1.9500000000000004
+Black-footed Albatross,Unid. Cephalopoda,14.05
+Black-footed Albatross,Unid. Chordata,15.250000000000002
+Black-footed Albatross,Unid. Phaeophyceae,3.75
+Black-footed Albatross,Unid. Unknown,5.55
+Northern Fulmar,Clupeiformes [herrings],11.11111111111111
+Northern Fulmar,Decapoda [decapods],12.411111111111111
+Northern Fulmar,Euphausiacea [krill],19.188888888888883
+Northern Fulmar,Gadiformes [cods],1.5
+Northern Fulmar,Isopoda [isopods],2.333333333333334
+Northern Fulmar,Lophogastrida,4
+Northern Fulmar,Myctophiformes [lanternfishes],5.7888888888888905
+Northern Fulmar,Perciformes [perch-like fishes],11.11111111111111
+Northern Fulmar,Teuthida,9.855555555555556
+Northern Fulmar,Unid. Animalia,10.955555555555556
+Northern Fulmar,Unid. Arthropoda,7.755555555555556
+Northern Fulmar,Unid. Cephalopoda,7.133333333333334
+Northern Fulmar,Unid. Chordata,6.222222222222221
+Pink-footed Shearwater,Clupeiformes [herrings],8.9
+Pink-footed Shearwater,Teuthida,83.8
+Pink-footed Shearwater,Unid. Cephalopoda,5.800000000000001
+Pink-footed Shearwater,Unid. Chordata,1.6
+Sooty Shearwater,Clupeiformes [herrings],10.02
+Sooty Shearwater,Euphausiacea [krill],32.08
+Sooty Shearwater,Myctophiformes [lanternfishes],10.38
+Sooty Shearwater,Scorpaeniformes [mail-cheeked fishes],10.859999999999998
+Sooty Shearwater,Stomatopoda [mantis shrimps],1.52
+Sooty Shearwater,Stomiiformes,10.28
+Sooty Shearwater,Teuthida,8.32
+Sooty Shearwater,Unid. Arthropoda,1.84
+Sooty Shearwater,Unid. Cephalopoda,10.24
+Sooty Shearwater,Unid. Chordata,2.04
+Short-tailed Shearwater,Amphipoda [amphipods],13
+Short-tailed Shearwater,Teuthida,16.1
+Short-tailed Shearwater,Unid. Animalia,29.4
+Short-tailed Shearwater,Unid. Chordata,5.7
+Short-tailed Shearwater,Unid. Malacostraca,35.8
+Manx Shearwater,Teuthida,100
+Fork-tailed Storm-Petrel,Amphipoda [amphipods],5.909698275
+Fork-tailed Storm-Petrel,Calanoida [calanoid copepods],12.9091823375
+Fork-tailed Storm-Petrel,Euphausiacea [krill],10.938375125
+Fork-tailed Storm-Petrel,Myctophiformes [lanternfishes],64.1311781625
+Fork-tailed Storm-Petrel,Unid. Chordata,2.6875000000000004
+Leach's Storm-Petrel,Amphipoda [amphipods],10
+Leach's Storm-Petrel,Euphausiacea [krill],28.785097033333333
+Leach's Storm-Petrel,Myctophiformes [lanternfishes],18.333333333333336
+Leach's Storm-Petrel,Unid. Animalia,1.6666666666666667
+Leach's Storm-Petrel,Unid. Arthropoda,6.488454466666666
+Leach's Storm-Petrel,Unid. Chordata,4.593285166666666
+Leach's Storm-Petrel,Unid. Hydrozoa,29.2508854
+Brandt's Cormorant,Batrachoidiformes [toadfishes],2.148275862068965
+Brandt's Cormorant,Clupeiformes [herrings],27.231034482758623
+Brandt's Cormorant,Perciformes [perch-like fishes],2.448275862068966
+Brandt's Cormorant,Pleuronectiformes [flatfishes],31.16896551724138
+Brandt's Cormorant,Scorpaeniformes [mail-cheeked fishes],20.06206896551724
+Brandt's Cormorant,Unid. Chordata,14.148275862068967
+California Gull,Clupeiformes [herrings],8.35
+California Gull,Teuthida,38.9
+California Gull,Unid. Animalia,2.8000000000000003
+California Gull,Unid. Non-biological,50
+Herring Gull,Decapoda [decapods],5.25
+Herring Gull,Gadiformes [cods],22.5
+Herring Gull,Unid. Animalia,66.5
+Herring Gull,Unid. Unknown,4.25
+Glaucous-winged Gull,Clupeiformes [herrings],5
+Glaucous-winged Gull,Decapoda [decapods],1.6666666666666667
+Glaucous-winged Gull,Forcipulatida [forcipulatidan sea stars],5.1
+Glaucous-winged Gull,Osmeriformes [smelts and allies],27.83333333333333
+Glaucous-winged Gull,Perciformes [perch-like fishes],32.833333333333336
+Glaucous-winged Gull,Teuthida,20.000000000000004
+Glaucous-winged Gull,Unid. Arthropoda,1.6666666666666667
+Glaucous-winged Gull,Unid. Cephalopoda,1.6666666666666667
+Glaucous-winged Gull,Unid. Chordata,4.1000000000000005
+Black-legged Kittiwake,Decapoda [decapods],1.0459999999999998
+Black-legged Kittiwake,Euphausiacea [krill],4.619999999999999
+Black-legged Kittiwake,Gadiformes [cods],12.86
+Black-legged Kittiwake,Myctophiformes [lanternfishes],2.26
+Black-legged Kittiwake,Osmeriformes [smelts and allies],12.66
+Black-legged Kittiwake,Perciformes [perch-like fishes],43.42
+Black-legged Kittiwake,Unid. Chordata,20.540000000000003
+Arctic Tern,Euphausiacea [krill],5
+Arctic Tern,Isopoda [isopods],1.2
+Arctic Tern,Osmeriformes [smelts and allies],35.6
+Arctic Tern,Perciformes [perch-like fishes],31.1
+Arctic Tern,Scorpaeniformes [mail-cheeked fishes],11.05
+Arctic Tern,Unid. Chordata,14.750000000000002
+Arctic Tern,Unid. Solenogastres,1.2
+South Polar Skua,Charadriiformes [shorebirds and allies],8.799999999999999
+South Polar Skua,Euphausiacea [krill],8.85
+South Polar Skua,Sphenisciformes,4.7
+South Polar Skua,Unid. Animalia,4.7
+South Polar Skua,Unid. Chordata,72.95
+Common Murre,Batrachoidiformes [toadfishes],1.6944444444444446
+Common Murre,Clupeiformes [herrings],12.12190794444444
+Common Murre,Decapoda [decapods],4.777777777777779
+Common Murre,Euphausiacea [krill],1.9909973833333336
+Common Murre,Gadiformes [cods],17.67814986666667
+Common Murre,Mysida [opossum shrimps],3.166666666666666
+Common Murre,Osmeriformes [smelts and allies],6.113321033333333
+Common Murre,Perciformes [perch-like fishes],14.366666666666664
+Common Murre,Pleuronectiformes [flatfishes],3.888888888888889
+Common Murre,Scorpaeniformes [mail-cheeked fishes],17.59770212777778
+Common Murre,Teuthida,10.855555555555556
+Common Murre,Unid. Chordata,2.55398995
+Pigeon Guillemot,Decapoda [decapods],16.333333333333332
+Pigeon Guillemot,Unid. Chordata,71.33333333333333
+Ancient Murrelet,Euphausiacea [krill],28.250000000000004
+Ancient Murrelet,Perciformes [perch-like fishes],3.75
+Ancient Murrelet,Pleuronectiformes [flatfishes],1.05
+Ancient Murrelet,Scorpaeniformes [mail-cheeked fishes],22.2
+Ancient Murrelet,Unid. Chordata,44.25
+Cassin's Auklet,Amphipoda [amphipods],1.5706249999999995
+Cassin's Auklet,Calanoida [calanoid copepods],39.605
+Cassin's Auklet,Decapoda [decapods],7.146250000000001
+Cassin's Auklet,Euphausiacea [krill],17.1725
+Cassin's Auklet,Euphausiacea juvenile [krill],6.565
+Cassin's Auklet,Unid. Animalia,11.2
+Cassin's Auklet,Unid. Chordata,14.950625
+Cassin's Auklet,Unid. Chordata egg,1.0625
+Rhinoceros Auklet,Clupeiformes [herrings],9.25
+Rhinoceros Auklet,Osmeriformes [smelts and allies],3.85
+Rhinoceros Auklet,Perciformes [perch-like fishes],43.55
+Rhinoceros Auklet,"Salmoniformes [salmons, trouts, and whitefishes]",16.849999999999998
+Rhinoceros Auklet,Scorpaeniformes [mail-cheeked fishes],1.975
+Rhinoceros Auklet,Teuthida,17.599999999999998
+Rhinoceros Auklet,Unid. Chordata,4.275
+Tufted Puffin,Gadiformes [cods],8.912500000000001
+Tufted Puffin,Osmeriformes [smelts and allies],37.57499999999999
+Tufted Puffin,Perciformes [perch-like fishes],40.31249999999999
+Tufted Puffin,Phyllodocida,3.5875
+Tufted Puffin,Unid. Cephalopoda,5.5625
+Tufted Puffin,Unid. Chordata,2.125
+Greater White-fronted Goose,Alismatales [water plantains and allies],3.032857142857143
+Greater White-fronted Goose,"Ericales [heathers, balsams, primroses, and allies]",1.3942857142857144
+Greater White-fronted Goose,"Poales [grasses, sedges, and allies]",85.8442857142857
+Greater White-fronted Goose,"Solanales [nightshades, bindweeds, gooseweeds, and allies]",4.328571428571429
+Greater White-fronted Goose,Unid. Magnoliopsida,2.002857142857143
+Greater White-fronted Goose,Unid. Tracheophyta,2.198571428571429
+Snow Goose,Alismatales [water plantains and allies],2.519090909090909
+Snow Goose,"Caryophyllales [pinks, cactuses, and allies]",1.5454545454545454
+Snow Goose,Equisetales [horsetails],3.692727272727273
+Snow Goose,"Fabales [legumes, milkworts, and allies]",3.4663636363636368
+Snow Goose,"Poales [grasses, sedges, and allies]",69.93636363636364
+Snow Goose,Unid. Magnoliopsida,1.253636363636364
+Snow Goose,Unid. Tracheophyta,16.189090909090908
+Brant,Alismatales [water plantains and allies],21.118333333333336
+Brant,"Asterales [asters, bellflowers, fanflowers, and allies]",1.215
+Brant,"Poales [grasses, sedges, and allies]",2.428333333333333
+Brant,Ulvales [sea lettuces and allies],16.666666666666668
+Brant,Unid. Chlorophyta,41.905
+Brant,Unid. Tracheophyta,16.666666666666668
+Canada Goose,"Fabales [legumes, milkworts, and allies]",7.924545454545453
+Canada Goose,"Poales [grasses, sedges, and allies]",58.64727272727273
+Canada Goose,Unid. Tracheophyta,29.935454545454544
+Trumpeter Swan,Dicranales,15
+Trumpeter Swan,Hypnales,17
+Trumpeter Swan,"Ranunculales [buttercups, poppies, and allies]",65.5
+Tundra Swan,Alismatales [water plantains and allies],22
+Tundra Swan,Nostocales,23.200000000000003
+Tundra Swan,"Poales [grasses, sedges, and allies]",37.9
+Tundra Swan,Unid. Arthropoda,1.3
+Tundra Swan,Unid. Tracheophyta,15.6
+Wood Duck,Alismatales [water plantains and allies],4.225
+Wood Duck,"Caryophyllales [pinks, cactuses, and allies]",3.031
+Wood Duck,Coleoptera [beetles],2.373
+Wood Duck,Commelinales [spiderworts and allies],3.644
+Wood Duck,"Fagales [beeches, oaks, walnuts, and allies]",2.137
+Wood Duck,Lepidoptera larva [caterpillars],2.2030000000000003
+Wood Duck,"Nymphaeales [water-lilies, fanworts, and allies]",4.084999999999999
+Wood Duck,"Poales [grasses, sedges, and allies]",14.741
+Wood Duck,"Rosales [roses, elms, figs, and allies]",4.175
+Wood Duck,"Sapindales [soapberries, cashews, mahoganies, and allies]",2.228
+Wood Duck,Unid. Animalia,9.333000000000002
+Wood Duck,Unid. Magnoliopsida,5.754
+Wood Duck,Unid. Tracheophyta,34.7
+Gadwall,Alismatales [water plantains and allies],12.30625
+Gadwall,Anostraca [fairy shrimp],2.16
+Gadwall,Commelinales [spiderworts and allies],2.8075
+Gadwall,Diptera [flies],1.4562499999999998
+Gadwall,"Poales [grasses, sedges, and allies]",9.9775
+Gadwall,"Saxifragales [saxifrages, stonecrops, and allies]",1.28625
+Gadwall,Unid. Animalia,4.032500000000001
+Gadwall,Unid. Chlorophyceae,3.15875
+Gadwall,Unid. Magnoliopsida,7.050000000000001
+Gadwall,Unid. Plantae,4
+Gadwall,Unid. Tracheophyta,46.6125
+Eurasian Wigeon,Alismatales [water plantains and allies],24.000000000000004
+Eurasian Wigeon,Charales,1.2133333333333334
+Eurasian Wigeon,"Poales [grasses, sedges, and allies]",4.8533333333333335
+Eurasian Wigeon,"Ranunculales [buttercups, poppies, and allies]",3.8
+Eurasian Wigeon,Ulvales [sea lettuces and allies],1.4400000000000002
+Eurasian Wigeon,Unid. Magnoliopsida,7.326666666666667
+Eurasian Wigeon,Unid. Tracheophyta,56.73333333333333
+American Wigeon,Alismatales [water plantains and allies],20.307
+American Wigeon,"Caryophyllales [pinks, cactuses, and allies]",1.6145
+American Wigeon,Commelinales [spiderworts and allies],1.06
+American Wigeon,Diptera [flies],1.093
+American Wigeon,Odonata [dragonflies and damselflies],1.016
+American Wigeon,"Poales [grasses, sedges, and allies]",24.201
+American Wigeon,"Ranunculales [buttercups, poppies, and allies]",2.1865
+American Wigeon,Trichoptera [caddisflies],1.608
+American Wigeon,Unid. Animalia,4.2515
+American Wigeon,Unid. Plantae,2.992
+American Wigeon,Unid. Tracheophyta,33.032000000000004
+Mallard,Alismatales [water plantains and allies],6.917777777777778
+Mallard,Basommatophora,2.053333333333333
+Mallard,"Fagales [beeches, oaks, walnuts, and allies]",6.155555555555556
+Mallard,"Poales [grasses, sedges, and allies]",24.31222222222222
+Mallard,"Saxifragales [saxifrages, stonecrops, and allies]",1.086666666666667
+Mallard,Trichoptera [caddisflies],1.1111111111111112
+Mallard,Unid. Animalia,4.417777777777777
+Mallard,Unid. Annelida,4.732222222222223
+Mallard,Unid. Arthropoda,3.424444444444445
+Mallard,Unid. Gastropoda,1.933333333333333
+Mallard,Unid. Insecta,4.7188888888888885
+Mallard,Unid. Magnoliopsida,2.6944444444444446
+Mallard,Unid. Mollusca,1.1111111111111112
+Mallard,Unid. Tracheophyta,31.21222222222222
+Blue-winged Teal,Alismatales [water plantains and allies],1.1
+Blue-winged Teal,Basommatophora,4.973636363636364
+Blue-winged Teal,Charales,8.960909090909091
+Blue-winged Teal,Diplostraca [clam shrimps and water fleas],1.5663636363636364
+Blue-winged Teal,Diptera [flies],4.382727272727272
+Blue-winged Teal,Diptera nymph [flies],4.181818181818182
+Blue-winged Teal,"Poales [grasses, sedges, and allies]",13.635454545454548
+Blue-winged Teal,Trichoptera [caddisflies],1.1254545454545457
+Blue-winged Teal,Unid. Animalia,11.553636363636365
+Blue-winged Teal,Unid. Arthropoda,1.3663636363636362
+Blue-winged Teal,Unid. Gastropoda,5.567272727272728
+Blue-winged Teal,Unid. Insecta,2.02
+Blue-winged Teal,Unid. Magnoliopsida,7.177272727272726
+Blue-winged Teal,Unid. Tracheophyta,26.098181818181818
+Cinnamon Teal,Basommatophora,1.645
+Cinnamon Teal,Diplostraca [clam shrimps and water fleas],2.17625
+Cinnamon Teal,Diptera [flies],12.69625
+Cinnamon Teal,Diptera larva [flies],3.23875
+Cinnamon Teal,"Hemiptera [true bugs, hoppers, aphids, and allies]",1.6375000000000002
+Cinnamon Teal,"Poales [grasses, sedges, and allies]",12.791249999999998
+Cinnamon Teal,Unid. Animalia,9.905
+Cinnamon Teal,Unid. Gastropoda,1.4925000000000002
+Cinnamon Teal,Unid. Magnoliopsida,9.01875
+Cinnamon Teal,Unid. Tracheophyta,42.19875
+Northern Shoveler,Alismatales [water plantains and allies],2.493333333333333
+Northern Shoveler,Ceratophyllales [coontails],2.1544444444444446
+Northern Shoveler,Charales,2.8344444444444443
+Northern Shoveler,Diplostraca [clam shrimps and water fleas],12.147777777777778
+Northern Shoveler,Diptera [flies],1.5722222222222224
+Northern Shoveler,Foraminiferida,1.8144444444444443
+Northern Shoveler,"Hemiptera [true bugs, hoppers, aphids, and allies]",6.462222222222221
+Northern Shoveler,"Poales [grasses, sedges, and allies]",1.0200000000000002
+Northern Shoveler,Unid. Animalia,19.224444444444444
+Northern Shoveler,Unid. Gastropoda,16.894444444444442
+Northern Shoveler,Unid. Maxillopoda,1.7000000000000002
+Northern Shoveler,Unid. Ostracoda,2.8344444444444443
+Northern Shoveler,Unid. Tracheophyta,25.90000000000001
+Northern Pintail,Alismatales [water plantains and allies],3.5089999999999995
+Northern Pintail,Diptera [flies],3.684
+Northern Pintail,"Poales [grasses, sedges, and allies]",31.424
+Northern Pintail,Unid. Animalia,11.196999999999996
+Northern Pintail,Unid. Bivalvia,2.152
+Northern Pintail,Unid. Gastropoda,1.075
+Northern Pintail,Unid. Magnoliopsida,9.28
+Northern Pintail,Unid. Tracheophyta,35.482
+Green-winged Teal,Alismatales [water plantains and allies],3.309090909090909
+Green-winged Teal,Amphipoda [amphipods],1.0909090909090908
+Green-winged Teal,"Caryophyllales [pinks, cactuses, and allies]",7.497272727272729
+Green-winged Teal,Diptera [flies],2.8181818181818183
+Green-winged Teal,"Poales [grasses, sedges, and allies]",25.63272727272728
+Green-winged Teal,Unid. Animalia,4.369090909090909
+Green-winged Teal,Unid. Gastropoda,1.6536363636363631
+Green-winged Teal,Unid. Magnoliopsida,5.016363636363636
+Green-winged Teal,Unid. Malacostraca,4
+Green-winged Teal,Unid. Ostracoda,1.2963636363636364
+Green-winged Teal,Unid. Plantae,3.5909090909090904
+Green-winged Teal,Unid. Tracheophyta,35.57272727272727
+Canvasback,Alismatales [water plantains and allies],27.30866666666667
+Canvasback,Diptera [flies],2.2
+Canvasback,Odonata nymph [dragonflies and damselflies],1.0719999999999998
+Canvasback,"Poales [grasses, sedges, and allies]",8.745333333333331
+Canvasback,Trichoptera larva [caddisflies],1.4986666666666666
+Canvasback,Trichoptera nymph [caddisflies],1.8
+Canvasback,Unid. Animalia,5.566666666666666
+Canvasback,Unid. Gastropoda,4.712
+Canvasback,Unid. Magnoliopsida,3.527333333333333
+Canvasback,Unid. Tracheophyta,22.413999999999994
+Canvasback,Veneroida,19.127333333333336
+Redhead,Alismatales [water plantains and allies],19.45
+Redhead,"Caryophyllales [pinks, cactuses, and allies]",4.666666666666667
+Redhead,Charales,8.148
+Redhead,Diptera [flies],6.666666666666667
+Redhead,Diptera larva [flies],1.354666666666667
+Redhead,"Poales [grasses, sedges, and allies]",8.534666666666668
+Redhead,Trichoptera larva [caddisflies],4.733333333333333
+Redhead,Trichoptera nymph [caddisflies],3.5533333333333337
+Redhead,Unid. Animalia,5.566666666666666
+Redhead,Unid. Gastropoda,1.112
+Redhead,Unid. Magnoliopsida,2.4866666666666664
+Redhead,Unid. Tracheophyta,32.086
+Ring-necked Duck,Alismatales [water plantains and allies],2.215
+Ring-necked Duck,Basommatophora,5.366666666666666
+Ring-necked Duck,"Caryophyllales [pinks, cactuses, and allies]",4.831666666666666
+Ring-necked Duck,Ceratophyllales [coontails],1.5516666666666667
+Ring-necked Duck,Charales,3.355
+Ring-necked Duck,Commelinales [spiderworts and allies],1.18
+Ring-necked Duck,Diptera [flies],3.2416666666666667
+Ring-necked Duck,"Nymphaeales [water-lilies, fanworts, and allies]",3.8366666666666673
+Ring-necked Duck,Odonata nymph [dragonflies and damselflies],1.1625
+Ring-necked Duck,"Poales [grasses, sedges, and allies]",27.2325
+Ring-necked Duck,"Saxifragales [saxifrages, stonecrops, and allies]",1.01
+Ring-necked Duck,Trichoptera [caddisflies],9.879166666666666
+Ring-necked Duck,Unid. Animalia,10.6075
+Ring-necked Duck,Unid. Magnoliopsida,1.0675
+Ring-necked Duck,Unid. Polychaeta,2.245
+Ring-necked Duck,Unid. Tracheophyta,26.617500000000003
+Ring-necked Duck,Veneroida,1.6191666666666666
+Greater Scaup,Alismatales [water plantains and allies],10.086428571428572
+Greater Scaup,Basommatophora,1.5964285714285713
+Greater Scaup,Charales,1.7292857142857143
+Greater Scaup,Mytiloida,1.4700000000000002
+Greater Scaup,Neotaenioglossa,15.435
+Greater Scaup,Ulvales [sea lettuces and allies],3.085714285714286
+Greater Scaup,Unid. Animalia,17.57857142857143
+Greater Scaup,Unid. Arthropoda,1.7492857142857143
+Greater Scaup,Unid. Bivalvia,1.8942857142857144
+Greater Scaup,Unid. Gastropoda,7.221428571428571
+Greater Scaup,Unid. Mollusca,1.87
+Greater Scaup,Unid. Plantae,4.508571428571428
+Greater Scaup,Unid. Tracheophyta,19.486428571428576
+Greater Scaup,Veneroida,9.167857142857144
+Lesser Scaup,Alismatales [water plantains and allies],1.7627272727272727
+Lesser Scaup,Amphipoda [amphipods],11.127272727272729
+Lesser Scaup,Basommatophora,4.749090909090909
+Lesser Scaup,Diptera [flies],8.664545454545454
+Lesser Scaup,Diptera larva [flies],1.2999999999999998
+Lesser Scaup,Heterostropha,1.001818181818182
+Lesser Scaup,Odonata larva [dragonflies and damselflies],6.2727272727272725
+Lesser Scaup,"Poales [grasses, sedges, and allies]",4.000909090909091
+Lesser Scaup,Trichoptera [caddisflies],2.037272727272727
+Lesser Scaup,Unid. Animalia,14.909090909090908
+Lesser Scaup,Unid. Clitellata,1.8454545454545452
+Lesser Scaup,Unid. Gastropoda,1.9809090909090907
+Lesser Scaup,Unid. Insecta,2.4545454545454546
+Lesser Scaup,Unid. Ostracoda,1.62
+Lesser Scaup,Unid. Tracheophyta,23.40909090909091
+Lesser Scaup,Unionoida [freshwater mussels],1.272727272727273
+Lesser Scaup,Veneroida,5.581818181818182
+Harlequin Duck,Amphipoda [amphipods],3.9457142857142857
+Harlequin Duck,Archaeogastropoda,4.7
+Harlequin Duck,Chitonida,11.421428571428567
+Harlequin Duck,Decapoda [decapods],14.19285714285714
+Harlequin Duck,Diptera larva [flies],1.96
+Harlequin Duck,Isopoda [isopods],1.0071428571428571
+Harlequin Duck,Mytiloida,3.7471428571428578
+Harlequin Duck,Neotaenioglossa,11.654285714285717
+Harlequin Duck,Patellogastropoda [true limpets],4.245714285714286
+Harlequin Duck,Ulvales [sea lettuces and allies],5.128571428571428
+Harlequin Duck,Unid. Animalia,5.171428571428571
+Harlequin Duck,Unid. Bivalvia,1.3842857142857146
+Harlequin Duck,Unid. Chordata,3.128571428571429
+Harlequin Duck,Unid. Gastropoda,9.82
+Harlequin Duck,Unid. Non-biological,3.128571428571429
+Harlequin Duck,Unid. Teleostei egg,9.242857142857144
+Surf Scoter,Clupeiformes egg [herrings],1.5222222222222224
+Surf Scoter,Mytiloida,25.041111111111107
+Surf Scoter,Sessilia [sessile barnacles],1.482222222222222
+Surf Scoter,Unid. Animalia,41.336666666666666
+Surf Scoter,Unid. Arthropoda,1.182222222222222
+Surf Scoter,Unid. Mollusca,4.311111111111112
+Surf Scoter,Unid. Tracheophyta,8.028888888888888
+Surf Scoter,Veneroida,11.815555555555555
+White-winged Scoter,Amphipoda [amphipods],23.7025
+White-winged Scoter,Sessilia [sessile barnacles],2.14125
+White-winged Scoter,Unid. Animalia,46.55125
+White-winged Scoter,Unid. Bivalvia,16.90875
+White-winged Scoter,Unid. Gastropoda,2.73625
+White-winged Scoter,Unid. Tracheophyta,5.47
+Black Scoter,Unid. Animalia,94
+Black Scoter,Unid. Tracheophyta,6
+Long-tailed Duck,Amphipoda [amphipods],22.29125
+Long-tailed Duck,Decapoda [decapods],6.1825
+Long-tailed Duck,Isopoda [isopods],5.50875
+Long-tailed Duck,Mysida [opossum shrimps],18.703750000000003
+Long-tailed Duck,Unid. Animalia,12.5
+Long-tailed Duck,Unid. Bivalvia,17.9925
+Long-tailed Duck,Unid. Chordata,3.875000000000001
+Long-tailed Duck,Unid. Gastropoda,12.945
+Bufflehead,Amphipoda [amphipods],1.906923076923077
+Bufflehead,Coleoptera [beetles],1.6807692307692308
+Bufflehead,Decapoda [decapods],9.503076923076923
+Bufflehead,Diptera [flies],3.954615384615384
+Bufflehead,Ephemeroptera [mayflies],1.496923076923077
+Bufflehead,"Hemiptera [true bugs, hoppers, aphids, and allies]",5.5200000000000005
+Bufflehead,Isopoda [isopods],1.6346153846153846
+Bufflehead,Odonata [dragonflies and damselflies],2.7323076923076925
+Bufflehead,Trichoptera [caddisflies],1.9423076923076923
+Bufflehead,Unid. Animalia,26.502307692307696
+Bufflehead,Unid. Arthropoda,2.602307692307692
+Bufflehead,Unid. Bivalvia,9.06076923076923
+Bufflehead,Unid. Chordata,2.620769230769231
+Bufflehead,Unid. Gastropoda,5.993076923076923
+Bufflehead,Unid. Insecta,4.348461538461539
+Bufflehead,Unid. Magnoliopsida,9.77
+Bufflehead,Unid. Tracheophyta,8.344615384615384
+Common Goldeneye,Decapoda [decapods],8.228
+Common Goldeneye,Diptera larva [flies],2.759333333333333
+Common Goldeneye,Mytiloida,2.2220000000000004
+Common Goldeneye,"Salmoniformes [salmons, trouts, and whitefishes]",1.7573333333333332
+Common Goldeneye,"Salmoniformes egg [salmons, trouts, and whitefishes]",5.701333333333333
+Common Goldeneye,Scorpaeniformes [mail-cheeked fishes],3.770666666666668
+Common Goldeneye,Trichoptera larva [caddisflies],11.947333333333331
+Common Goldeneye,Unid. Animalia,22.532666666666668
+Common Goldeneye,Unid. Arthropoda,6.160666666666667
+Common Goldeneye,Unid. Gastropoda,1.422
+Common Goldeneye,Unid. Insecta,2.4320000000000004
+Common Goldeneye,Unid. Insecta larva,4.629333333333333
+Common Goldeneye,Unid. Malacostraca,4
+Common Goldeneye,Unid. Mollusca,4.418666666666667
+Common Goldeneye,Unid. Tracheophyta,14.288000000000002
+Barrow's Goldeneye,Amphipoda [amphipods],8.249565217391305
+Barrow's Goldeneye,Decapoda [decapods],1.576521739130435
+Barrow's Goldeneye,Diptera [flies],1.899565217391304
+Barrow's Goldeneye,"Hemiptera [true bugs, hoppers, aphids, and allies]",7.290869565217391
+Barrow's Goldeneye,Mytiloida,3.2117391304347827
+Barrow's Goldeneye,Odonata nymph [dragonflies and damselflies],5.952608695652174
+Barrow's Goldeneye,"Salmoniformes [salmons, trouts, and whitefishes]",1.8008695652173914
+Barrow's Goldeneye,"Salmoniformes egg [salmons, trouts, and whitefishes]",3.758695652173913
+Barrow's Goldeneye,Trichoptera larva [caddisflies],19.907391304347826
+Barrow's Goldeneye,Unid. Animalia,15.252173913043482
+Barrow's Goldeneye,Unid. Bivalvia,2.5739130434782607
+Barrow's Goldeneye,Unid. Gastropoda,3.5595652173913046
+Barrow's Goldeneye,Unid. Insecta,7.290000000000001
+Barrow's Goldeneye,Unid. Plantae,1.1917391304347826
+Barrow's Goldeneye,Unid. Tracheophyta,14.368260869565216
+Hooded Merganser,Decapoda [decapods],6.85
+Hooded Merganser,Perciformes [perch-like fishes],3.96
+Hooded Merganser,"Salmoniformes [salmons, trouts, and whitefishes]",51.54
+Hooded Merganser,Unid. Amphibia,1.2
+Hooded Merganser,Unid. Arthropoda,2
+Hooded Merganser,Unid. Chordata,13.322
+Hooded Merganser,Unid. Insecta,2.6
+Hooded Merganser,Unid. Teleostei,17.532
+Common Merganser,Clupeiformes [herrings],31.06
+Common Merganser,"Cypriniformes [minnows, suckers, carps, and loaches]",17.835
+Common Merganser,Decapoda [decapods],1.465
+Common Merganser,Gasterosteiformes [sticklebacks and seamoths],2.846666666666667
+Common Merganser,Perciformes [perch-like fishes],17.981666666666666
+Common Merganser,"Salmoniformes [salmons, trouts, and whitefishes]",26.425
+Common Merganser,Unid. Chordata,1.9966666666666664
+Red-breasted Merganser,Anguilliformes [true eels],3.15
+Red-breasted Merganser,Clupeiformes [herrings],42.55
+Red-breasted Merganser,"Cypriniformes [minnows, suckers, carps, and loaches]",4.675
+Red-breasted Merganser,Gasterosteiformes [sticklebacks and seamoths],1.55
+Red-breasted Merganser,Perciformes [perch-like fishes],5.875
+Red-breasted Merganser,"Salmoniformes [salmons, trouts, and whitefishes]",8.799999999999999
+Red-breasted Merganser,"Salmoniformes juvenile [salmons, trouts, and whitefishes]",33.25
+Ruddy Duck,Amphipoda [amphipods],1.181818181818182
+Ruddy Duck,Diptera [flies],4.818181818181818
+Ruddy Duck,Diptera larva [flies],32.10909090909091
+Ruddy Duck,"Hemiptera [true bugs, hoppers, aphids, and allies]",10.009090909090908
+Ruddy Duck,Unid. Animalia,14.8
+Ruddy Duck,Unid. Annelida,2.1818181818181817
+Ruddy Duck,Unid. Magnoliopsida,4.536363636363636
+Ruddy Duck,Unid. Tracheophyta,27.090909090909086
+Ring-necked Pheasant,"Caryophyllales [pinks, cactuses, and allies]",1.032424242424243
+Ring-necked Pheasant,"Fabales [legumes, milkworts, and allies]",3.3930303030303035
+Ring-necked Pheasant,"Poales [grasses, sedges, and allies]",61.59484212121213
+Ring-necked Pheasant,Unid. Animalia,1.377212121212121
+Ring-necked Pheasant,Unid. Gastropoda,1.072151515151515
+Ring-necked Pheasant,Unid. Insecta,2.9508052121212125
+Ring-necked Pheasant,Unid. Magnoliopsida,7.997716272727271
+Ring-necked Pheasant,Unid. Tracheophyta,20.409333333333336
+Ruffed Grouse,"Asterales [asters, bellflowers, fanflowers, and allies]",1.9309523809523812
+Ruffed Grouse,"Dipsacales [honeysuckles, moschatels, and allies]",2.828095238095238
+Ruffed Grouse,"Ericales [heathers, balsams, primroses, and allies]",4.7509523809523815
+Ruffed Grouse,"Fabales [legumes, milkworts, and allies]",3.740714285714285
+Ruffed Grouse,"Fagales [beeches, oaks, walnuts, and allies]",10.304285714285715
+Ruffed Grouse,"Liliales [lilies, supplejacks, and allies]",3.0690476190476192
+Ruffed Grouse,"Malpighiales [nances, willows, and allies]",17.241666666666667
+Ruffed Grouse,"Poales [grasses, sedges, and allies]",1.7402380952380954
+Ruffed Grouse,Polypodiales,1.7523809523809522
+Ruffed Grouse,"Rosales [roses, elms, figs, and allies]",11.611904761904762
+Ruffed Grouse,"Sapindales [soapberries, cashews, mahoganies, and allies]",2.401904761904762
+Ruffed Grouse,Unid. Magnoliopsida,7.54047619047619
+Ruffed Grouse,Unid. Tracheophyta,12.984523809523813
+Ruffed Grouse,Unid. Unknown,1.3619047619047615
+Ruffed Grouse,Vitales,4.070714285714285
+Wild Turkey,"Asparagales [agaves, orchids, irises, and allies]",1.0515625000000002
+Wild Turkey,"Asterales [asters, bellflowers, fanflowers, and allies]",4.1703125
+Wild Turkey,"Brassicales [mustards, capers, and allies]",1.43125
+Wild Turkey,"Ericales [heathers, balsams, primroses, and allies]",3.559375
+Wild Turkey,"Fabales [legumes, milkworts, and allies]",1.8056250000000005
+Wild Turkey,"Fagales [beeches, oaks, walnuts, and allies]",5.6609375
+Wild Turkey,Pinales [conifers],8.0175
+Wild Turkey,"Poales [grasses, sedges, and allies]",29.231875
+Wild Turkey,"Rosales [roses, elms, figs, and allies]",4.1328125
+Wild Turkey,Unid. Animalia,6.87284375
+Wild Turkey,Unid. Magnoliopsida,10.551875
+Wild Turkey,Unid. Tracheophyta,16.601874999999996
+Mountain Quail,"Caryophyllales [pinks, cactuses, and allies]",2.402
+Mountain Quail,"Fabales [legumes, milkworts, and allies]",5.246
+Mountain Quail,"Poales [grasses, sedges, and allies]",1.698
+Mountain Quail,"Rosales [roses, elms, figs, and allies]",1.414
+Mountain Quail,"Sapindales [soapberries, cashews, mahoganies, and allies]",5.836
+Mountain Quail,Unid. Animalia,3.6000000000000005
+Mountain Quail,Unid. Tracheophyta,76.4
+California Quail,"Asterales [asters, bellflowers, fanflowers, and allies]",2.4906610148148154
+California Quail,Boraginales,3.828199607407407
+California Quail,"Caryophyllales [pinks, cactuses, and allies]",14.552423570370369
+California Quail,"Fabales [legumes, milkworts, and allies]",10.955977385185186
+California Quail,"Geraniales [geraniums, bridal wreaths, and allies]",3.4003138370370376
+California Quail,"Hymenoptera [ants, bees, wasps, and sawflies]",1.867088496296296
+California Quail,"Poales [grasses, sedges, and allies]",24.22748140740741
+California Quail,"Solanales [nightshades, bindweeds, gooseweeds, and allies]",1.208148148148148
+California Quail,Unid. Magnoliopsida,5.8921359703703695
+California Quail,Unid. Non-biological,9.22777777777778
+California Quail,Unid. Tracheophyta,16.403703703703705
+Red-throated Loon,Clupeiformes [herrings],10
+Red-throated Loon,Gadiformes [cods],54
+Red-throated Loon,Gasterosteiformes [sticklebacks and seamoths],12
+Red-throated Loon,Perciformes [perch-like fishes],14.000000000000002
+Red-throated Loon,Unid. Teleostei,10
+Pied-billed Grebe,Decapoda [decapods],46.2962963
+Pied-billed Grebe,Odonata [dragonflies and damselflies],3.7037037
+Pied-billed Grebe,Perciformes [perch-like fishes],14.000000000000002
+Pied-billed Grebe,Siluriformes [catfishes],36
+Horned Grebe,Coleoptera [beetles],10.15
+Horned Grebe,Coleoptera larva [beetles],6.190000000000001
+Horned Grebe,Diplostraca [clam shrimps and water fleas],4.7
+Horned Grebe,Diptera [flies],2.6900000000000004
+Horned Grebe,Diptera larva [flies],11.079999999999998
+Horned Grebe,Diptera pupa [flies],10.195
+Horned Grebe,Gasterosteiformes [sticklebacks and seamoths],8.27
+Horned Grebe,Osmeriformes [smelts and allies],9.56
+Horned Grebe,Perciformes [perch-like fishes],7.74
+Horned Grebe,Trichoptera [caddisflies],4.3
+Horned Grebe,Trichoptera larva [caddisflies],3.59
+Horned Grebe,Unid. Cephalocarida,1.77
+Horned Grebe,Unid. Insecta,9.05
+Horned Grebe,Unid. Insecta larva,1.52
+Horned Grebe,Unid. Polychaeta,2.3
+Horned Grebe,Unid. Teleostei,1.7
+Horned Grebe,Unid. Unknown,1.0699999999999998
+Red-necked Grebe,Clupeiformes [herrings],1.7857142857142858
+Red-necked Grebe,Coleoptera [beetles],22.11142857142857
+Red-necked Grebe,Coleoptera larva [beetles],2.4385714285714286
+Red-necked Grebe,Gasterosteiformes [sticklebacks and seamoths],1.7857142857142858
+Red-necked Grebe,"Hemiptera [true bugs, hoppers, aphids, and allies]",3.0371428571428574
+Red-necked Grebe,Osmeriformes [smelts and allies],12.685714285714283
+Red-necked Grebe,Perciformes [perch-like fishes],45.75714285714286
+Red-necked Grebe,Scorpaeniformes [mail-cheeked fishes],1.7857142857142858
+Red-necked Grebe,Siluriformes [catfishes],2.0000000000000004
+Red-necked Grebe,Unid. Teleostei,5.5
+Eared Grebe,Anostraca [fairy shrimp],93.9
+Eared Grebe,Diptera larva [flies],3.82
+Eared Grebe,Diptera pupa [flies],1.4400000000000002
+Western Grebe,Ascaridida,3
+Western Grebe,Coleoptera [beetles],5.500000000000001
+Western Grebe,Diptera larva [flies],1
+Western Grebe,"Hemiptera [true bugs, hoppers, aphids, and allies]",2
+Western Grebe,"Orthoptera [grasshoppers, crickets, and katydids]",2
+Western Grebe,Patellogastropoda [true limpets],1
+Western Grebe,Perciformes [perch-like fishes],77
+Western Grebe,Siluriformes [catfishes],4
+Western Grebe,Unid. Non-biological,6
+Western Grebe,Unid. Tracheophyta,4
+Brown Pelican,Clupeiformes [herrings],47.6
+Brown Pelican,Mugiliformes [mullets],3.9
+Brown Pelican,Perciformes [perch-like fishes],13.525
+Brown Pelican,Unid. Teleostei,34
+Double-crested Cormorant,Batrachoidiformes [toadfishes],3.4023668639053253
+Double-crested Cormorant,Clupeiformes [herrings],17.25106508875739
+Double-crested Cormorant,"Cypriniformes [minnows, suckers, carps, and loaches]",7.788461538461536
+Double-crested Cormorant,Decapoda [decapods],3.161775147928993
+Double-crested Cormorant,Gadiformes [cods],1.6059171597633135
+Double-crested Cormorant,Gasterosteiformes [sticklebacks and seamoths],3.0024852071005914
+Double-crested Cormorant,Osmeriformes [smelts and allies],6.178579881656806
+Double-crested Cormorant,Perciformes [perch-like fishes],45.72917159763317
+Double-crested Cormorant,"Salmoniformes [salmons, trouts, and whitefishes]",1.8328402366863903
+Double-crested Cormorant,Scorpaeniformes [mail-cheeked fishes],2.419526627218935
+Double-crested Cormorant,Siluriformes [catfishes],1.275266272189349
+Double-crested Cormorant,Unid. Animalia,2.2958579881656807
+Pelagic Cormorant,Decapoda [decapods],9.7
+Pelagic Cormorant,Perciformes [perch-like fishes],38.85
+Pelagic Cormorant,Scorpaeniformes [mail-cheeked fishes],30
+Pelagic Cormorant,Unid. Chordata,21.45
+Great Blue Heron,Decapoda [decapods],32.5
+Great Blue Heron,Unid. Gastropoda,1.37
+Great Blue Heron,Unid. Teleostei,65.25
+Great Egret,Characiformes [characins],10.65
+Great Egret,Clupeiformes [herrings],16.666666666666668
+Great Egret,Coleoptera [beetles],6.966666666666668
+Great Egret,"Cyprinodontiformes [rivulines, killifishes, and livebearers]",3.983333333333334
+Great Egret,Decapoda [decapods],5.816666666666666
+Great Egret,"Hemiptera [true bugs, hoppers, aphids, and allies]",2.6166666666666667
+Great Egret,Odonata [dragonflies and damselflies],4.083333333333333
+Great Egret,Perciformes [perch-like fishes],1.9000000000000004
+Great Egret,Unid. Animalia,1.7666666666666668
+Great Egret,Unid. Arthropoda,1.4166666666666667
+Great Egret,Unid. Teleostei,40.833333333333336
+Green Heron,Anura [frogs and toads],14.757142857142856
+Green Heron,Caudata [salamanders],14.285714285714286
+Green Heron,Clupeiformes [herrings],4.285714285714286
+Green Heron,"Cyprinodontiformes [rivulines, killifishes, and livebearers]",5.571428571428571
+Green Heron,Decapoda [decapods],8.000000000000002
+Green Heron,Esociformes juvenile,4.757142857142858
+Green Heron,Lepidoptera larva [caterpillars],1.1857142857142855
+Green Heron,Odonata nymph [dragonflies and damselflies],4.757142857142858
+Green Heron,"Orthoptera [grasshoppers, crickets, and katydids]",9.528571428571428
+Green Heron,Perciformes juvenile [perch-like fishes],21.428571428571427
+Green Heron,Unid. Chordata,11.428571428571429
+Turkey Vulture,Artiodactyla [even-toed ungulates],13.69474002857143
+Turkey Vulture,Artiodactyla juvenile [even-toed ungulates],3.1386661714285715
+Turkey Vulture,Carnivora [carnivorans],11.415707
+Turkey Vulture,Cingulata [armadillos],1.5625
+Turkey Vulture,Coleoptera [beetles],1.0571428571428574
+Turkey Vulture,Galliformes [landfowl],1.8751093285714284
+Turkey Vulture,Lagomorpha [lagomorphs],5.166545185714286
+Turkey Vulture,Passeriformes [perching birds],1.1047619
+Turkey Vulture,Rodentia [rodents],26.1661686
+Turkey Vulture,Squamata [squamates],7.696428571428572
+Turkey Vulture,Unid. Animalia,1.1095238142857142
+Turkey Vulture,Unid. Aves,2.271428571428572
+Turkey Vulture,Unid. Mammalia,14.955357142857142
+Osprey,Batrachoidiformes [toadfishes],1.1133333333333333
+Osprey,Clupeiformes [herrings],24.896666666666665
+Osprey,"Cypriniformes [minnows, suckers, carps, and loaches]",29
+Osprey,Perciformes [perch-like fishes],15.579999999999998
+Osprey,Pleuronectiformes [flatfishes],1.1933333333333334
+Osprey,"Salmoniformes [salmons, trouts, and whitefishes]",9.333333333333332
+Osprey,Siluriformes [catfishes],15.236666666666666
+Osprey,Unid. Teleostei,2.6666666666666665
+White-tailed Kite,Rodentia [rodents],80.98580858333334
+White-tailed Kite,Unid. Mammalia,17.76666666666667
+Bald Eagle,Anseriformes [waterfowl],9.843854956756756
+Bald Eagle,Artiodactyla [even-toed ungulates],3.301482237837837
+Bald Eagle,Charadriiformes [shorebirds and allies],5.962373224324326
+Bald Eagle,Clupeiformes [herrings],6.78777862972973
+Bald Eagle,"Cypriniformes [minnows, suckers, carps, and loaches]",8.028518267567568
+Bald Eagle,Esociformes,1.3264379162162163
+Bald Eagle,Gadiformes [cods],1.6560540540540538
+Bald Eagle,"Gruiformes [cranes, rails, and allies]",1.928030167567568
+Bald Eagle,Lagomorpha [lagomorphs],3.691907594594594
+Bald Eagle,"Pelecaniformes [pelicans, herons, ibises, and allies]",1.423468991891892
+Bald Eagle,Perciformes [perch-like fishes],6.311515356756755
+Bald Eagle,Procellariiformes [tubenoses],1.1513513513513514
+Bald Eagle,Rodentia [rodents],1.7897086513513518
+Bald Eagle,"Salmoniformes [salmons, trouts, and whitefishes]",2.902702702702703
+Bald Eagle,Scorpaeniformes [mail-cheeked fishes],2.315648648648649
+Bald Eagle,Siluriformes [catfishes],12.52378430810811
+Bald Eagle,Unid. Aves,6.007848267567568
+Bald Eagle,Unid. Chordata,3.408634548648649
+Bald Eagle,Unid. Mammalia,1.6527829216216217
+Bald Eagle,Unid. Teleostei,10.289236245945949
+Northern Harrier,Coleoptera [beetles],3.2696970000000003
+Northern Harrier,Lagomorpha [lagomorphs],6.554545454545456
+Northern Harrier,Passeriformes [perching birds],3.6454545454545455
+Northern Harrier,Rodentia [rodents],38.97878727272727
+Northern Harrier,Unid. Amphibia,1
+Northern Harrier,Unid. Animalia,1.9522563727272728
+Northern Harrier,Unid. Aves,24.613865272727267
+Northern Harrier,Unid. Chordata,1.9277305454545453
+Northern Harrier,Unid. Insecta,1.8363636363636369
+Northern Harrier,Unid. Mammalia,13.506147809090908
+Northern Harrier,Unid. Reptilia,1.4181818181818182
+Sharp-shinned Hawk,Passeriformes [perching birds],48.34682023333335
+Sharp-shinned Hawk,Passeriformes juvenile [perching birds],5.206812616666667
+Sharp-shinned Hawk,"Piciformes [woodpeckers, barbets, and allies]",2.128129
+Sharp-shinned Hawk,Rodentia [rodents],3.350245933333333
+Sharp-shinned Hawk,Unid. Animalia,6.25555555
+Sharp-shinned Hawk,Unid. Aves,33.77063493333333
+Cooper's Hawk,Columbiformes [pigeons and doves],7.703036613043479
+Cooper's Hawk,Galliformes [landfowl],3.022220891304348
+Cooper's Hawk,Lagomorpha [lagomorphs],2.044098426086957
+Cooper's Hawk,Passeriformes [perching birds],34.71263687826087
+Cooper's Hawk,"Piciformes [woodpeckers, barbets, and allies]",4.087908630434783
+Cooper's Hawk,Rodentia [rodents],16.329368982608695
+Cooper's Hawk,Squamata [squamates],2.4140813913043475
+Cooper's Hawk,Unid. Animalia,2.019538378260869
+Cooper's Hawk,Unid. Aves,21.116142552173915
+Cooper's Hawk,Unid. Mammalia,4.730302047826087
+Northern Goshawk,Columbiformes [pigeons and doves],12.39901754
+Northern Goshawk,Galliformes [landfowl],17.12647369
+Northern Goshawk,Lagomorpha [lagomorphs],8.45391053
+Northern Goshawk,Passeriformes [perching birds],20.61779475
+Northern Goshawk,"Piciformes [woodpeckers, barbets, and allies]",2.6809122900000006
+Northern Goshawk,Rodentia [rodents],13.93777546
+Northern Goshawk,Unid. Aves,15.49
+Northern Goshawk,Unid. Mammalia,4.53315789
+Red-tailed Hawk,Anseriformes [waterfowl],3.1538
+Red-tailed Hawk,Galliformes [landfowl],1.6933917515151518
+Red-tailed Hawk,Lagomorpha [lagomorphs],9.066428624242423
+Red-tailed Hawk,Passeriformes [perching birds],7.072046978787879
+Red-tailed Hawk,Rodentia [rodents],54.67623714242425
+Red-tailed Hawk,Squamata [squamates],3.6194525696969695
+Red-tailed Hawk,Unid. Animalia,1.9730463393939397
+Red-tailed Hawk,Unid. Aves,3.637303315151516
+Red-tailed Hawk,Unid. Chordata,1.4600902636363635
+Red-tailed Hawk,Unid. Mammalia,8.685376121212121
+Rough-legged Hawk,Galliformes [landfowl],2.366666055555556
+Rough-legged Hawk,Lagomorpha [lagomorphs],14.987226688888889
+Rough-legged Hawk,Passeriformes [perching birds],4.4268143
+Rough-legged Hawk,Rodentia [rodents],51.40847986666667
+Rough-legged Hawk,Squamata [squamates],1.0213338333333335
+Rough-legged Hawk,Unid. Animalia,4.267724866666666
+Rough-legged Hawk,Unid. Aves,2.111646588888889
+Rough-legged Hawk,Unid. Mammalia,18.0989418
+Golden Eagle,"Accipitriformes [hawks, eagles, kites, and allies]",2.8625
+Golden Eagle,Artiodactyla [even-toed ungulates],1.558125
+Golden Eagle,Artiodactyla juvenile [even-toed ungulates],1.755
+Golden Eagle,Carnivora [carnivorans],2.4275000000000007
+Golden Eagle,Charadriiformes [shorebirds and allies],1.4200000000000002
+Golden Eagle,Galliformes [landfowl],3.04532305
+Golden Eagle,Lagomorpha [lagomorphs],57.43412414749999
+Golden Eagle,Passeriformes [perching birds],3.833613885
+Golden Eagle,"Pelecaniformes [pelicans, herons, ibises, and allies]",2.070454545
+Golden Eagle,Rodentia [rodents],12.565922502500005
+Golden Eagle,Unid. Aves,1.89425075
+Golden Eagle,Unid. Mammalia,4.115
+American Kestrel,Charadriiformes [shorebirds and allies],2.1505376333333337
+American Kestrel,Coleoptera [beetles],3.975885585714286
+American Kestrel,"Hemiptera [true bugs, hoppers, aphids, and allies]",1.129629628571429
+American Kestrel,"Orthoptera [grasshoppers, crickets, and katydids]",6.441568433333334
+American Kestrel,Passeriformes [perching birds],5.9742764571428575
+American Kestrel,Rodentia [rodents],30.49582232857143
+American Kestrel,Squamata [squamates],2.837462823809524
+American Kestrel,Unid. Animalia,19.14813327142857
+American Kestrel,Unid. Arthropoda,1.8583042857142853
+American Kestrel,Unid. Aves,5.410461142857143
+American Kestrel,Unid. Insecta,14.993087557142855
+American Kestrel,Unid. Mammalia,4.043722557142858
+Merlin,Charadriiformes [shorebirds and allies],19.386169377777776
+Merlin,Passeriformes [perching birds],54.7967697
+Merlin,Unid. Animalia,8.233333333333333
+Merlin,Unid. Aves,15.92121768888889
+Gyrfalcon,Galliformes [landfowl],46.305415
+Gyrfalcon,Rodentia [rodents],3.325123
+Gyrfalcon,Unid. Aves,29.919458
+Gyrfalcon,Unid. Mammalia,20.45
+Peregrine Falcon,Anseriformes [waterfowl],3.276354721428572
+Peregrine Falcon,Charadriiformes [shorebirds and allies],12.522264892857145
+Peregrine Falcon,Galliformes [landfowl],2.277069007142857
+Peregrine Falcon,Galliformes juvenile [landfowl],1.0278202214285714
+Peregrine Falcon,Passeriformes [perching birds],45.554521207142855
+Peregrine Falcon,Passeriformes juvenile [perching birds],10.830942314285716
+Peregrine Falcon,Rodentia [rodents],4.246434942857143
+Peregrine Falcon,Unid. Animalia,1.4142857142857144
+Peregrine Falcon,Unid. Aves,16.035714285714285
+Virginia Rail,Alismatales [water plantains and allies],22.35
+Virginia Rail,Amphipoda [amphipods],29.5
+Virginia Rail,Basommatophora,1.65
+Virginia Rail,"Caryophyllales [pinks, cactuses, and allies]",1.85
+Virginia Rail,Coleoptera [beetles],15.4
+Virginia Rail,Coleoptera larva [beetles],3.4000000000000004
+Virginia Rail,Diptera [flies],1
+Virginia Rail,Diptera larva [flies],7.95
+Virginia Rail,"Hemiptera [true bugs, hoppers, aphids, and allies]",1.6
+Virginia Rail,"Orthoptera [grasshoppers, crickets, and katydids]",1.1
+Virginia Rail,"Poales [grasses, sedges, and allies]",5.175
+Virginia Rail,Trichoptera larva [caddisflies],4.5
+Virginia Rail,Unid. Clitellata,1.85
+Sora,Basommatophora,1.695454545454545
+Sora,"Caryophyllales [pinks, cactuses, and allies]",7.618181818181816
+Sora,Coleoptera [beetles],2.2363636363636363
+Sora,Lepidoptera larva [caterpillars],1.6545454545454543
+Sora,"Orthoptera [grasshoppers, crickets, and katydids]",7.318181818181818
+Sora,"Poales [grasses, sedges, and allies]",34.73636363636364
+Sora,Unid. Animalia,16.636363636363633
+Sora,Unid. Magnoliopsida,1.1727272727272728
+Sora,Unid. Tracheophyta,21.31818181818182
+American Coot,Alismatales [water plantains and allies],22.13636363636364
+American Coot,Basommatophora,2.272727272727273
+American Coot,Charales,8.272727272727273
+American Coot,Cladophorales,1
+American Coot,Coleoptera [beetles],4.545454545454546
+American Coot,"Poales [grasses, sedges, and allies]",6.545454545454547
+American Coot,"Saxifragales [saxifrages, stonecrops, and allies]",2.545454545454546
+American Coot,Trichoptera larva [caddisflies],2.636363636363636
+American Coot,Unid. Animalia,6.00909090909091
+American Coot,Unid. Magnoliopsida,9.30909090909091
+American Coot,Unid. Tracheophyta,30.454545454545453
+Sandhill Crane,Coleoptera [beetles],2.6428571428571423
+Sandhill Crane,"Fabales [legumes, milkworts, and allies]",2.3857142857142857
+Sandhill Crane,"Fagales [beeches, oaks, walnuts, and allies]",1.164285714285714
+Sandhill Crane,Lepidoptera larva [caterpillars],1.3071428571428572
+Sandhill Crane,"Orthoptera [grasshoppers, crickets, and katydids]",2.667857142857144
+Sandhill Crane,"Poales [grasses, sedges, and allies]",57.12499999999999
+Sandhill Crane,Unid. Clitellata,17.607142857142858
+Sandhill Crane,Unid. Gastropoda,4.185714285714286
+Sandhill Crane,Unid. Plantae,6.964285714285714
+Killdeer,Coleoptera [beetles],34.68
+Killdeer,Diptera [flies],5.949999999999999
+Killdeer,Diptera larva [flies],9.765
+Killdeer,"Hymenoptera [ants, bees, wasps, and sawflies]",2.795
+Killdeer,Odonata [dragonflies and damselflies],1.96
+Killdeer,"Orthoptera [grasshoppers, crickets, and katydids]",1.02
+Killdeer,"Orthoptera nymph [grasshoppers, crickets, and katydids]",7.21
+Killdeer,Unid. Animalia,16.33
+Killdeer,Unid. Gastropoda,9.51
+Killdeer,Unid. Insecta,8.799999999999999
+Killdeer,Unid. Magnoliopsida,1.98
+Spotted Sandpiper,Coleoptera larva;adult [beetles],3.89
+Spotted Sandpiper,"Hemiptera [true bugs, hoppers, aphids, and allies]",4.109999999999999
+Spotted Sandpiper,"Orthoptera larva [grasshoppers, crickets, and katydids]",10.78
+Spotted Sandpiper,Unid. Malacostraca,80.12
+Lesser Yellowlegs,"Hemiptera [true bugs, hoppers, aphids, and allies]",57.49999999999999
+Lesser Yellowlegs,Unid. Malacostraca,42.5
+Red Knot,Diptera [flies],3.175
+Red Knot,Unid. Animalia,68.525
+Red Knot,Unid. Magnoliopsida,3.8
+Red Knot,Unid. Malacostraca,1.725
+Red Knot,Unid. Mollusca,14.75
+Red Knot,Unid. Tracheophyta,7.5
+Semipalmated Sandpiper,Basommatophora,2.6
+Semipalmated Sandpiper,Coleoptera [beetles],14.127999999999997
+Semipalmated Sandpiper,Diptera [flies],4.32
+Semipalmated Sandpiper,Diptera pupa [flies],4.332
+Semipalmated Sandpiper,"Hemiptera [true bugs, hoppers, aphids, and allies]",6.651999999999999
+Semipalmated Sandpiper,Unid. Animalia,60.1
+Semipalmated Sandpiper,Unid. Gastropoda,2.6
+Semipalmated Sandpiper,Unid. Insecta,2.5
+Semipalmated Sandpiper,Unid. Tracheophyta,2.4000000000000004
+Least Sandpiper,Coleoptera [beetles],25
+Least Sandpiper,Diptera larva [flies],75
+Pectoral Sandpiper,Amphipoda [amphipods],22.3
+Pectoral Sandpiper,Coleoptera [beetles],8
+Pectoral Sandpiper,Diptera [flies],54.50000000000001
+Pectoral Sandpiper,"Hemiptera [true bugs, hoppers, aphids, and allies]",1.3
+Pectoral Sandpiper,"Hymenoptera [ants, bees, wasps, and sawflies]",2.1
+Pectoral Sandpiper,Unid. Magnoliopsida,10.5
+Sharp-tailed Sandpiper,Coleoptera [beetles],8.799999999999999
+Sharp-tailed Sandpiper,Diptera [flies],39.1
+Sharp-tailed Sandpiper,"Hymenoptera [ants, bees, wasps, and sawflies]",1.7999999999999998
+Sharp-tailed Sandpiper,Trichoptera [caddisflies],11.8
+Sharp-tailed Sandpiper,Unid. Magnoliopsida,3.9
+Sharp-tailed Sandpiper,Unid. Malacostraca,18.1
+Sharp-tailed Sandpiper,Unid. Mollusca,14.2
+Stilt Sandpiper,Coleoptera [beetles],15.5
+Stilt Sandpiper,Diptera larva [flies],47.5
+Stilt Sandpiper,Unid. Gastropoda,7.1
+Stilt Sandpiper,Unid. Magnoliopsida,29.9
+Short-billed Dowitcher,Diptera [flies],3.6
+Short-billed Dowitcher,Unid. Animalia,80.14000000000001
+Short-billed Dowitcher,Unid. Insecta,1.78
+Short-billed Dowitcher,Unid. Magnoliopsida,2.42
+Short-billed Dowitcher,Unid. Malacostraca,1.22
+Short-billed Dowitcher,Unid. Mollusca,4
+Short-billed Dowitcher,Unid. Tracheophyta,6.8
+Long-billed Dowitcher,Coleoptera [beetles],10.6
+Long-billed Dowitcher,Diptera [flies],58.3
+Long-billed Dowitcher,Unid. Animalia,3.2
+Long-billed Dowitcher,Unid. Insecta,2
+Long-billed Dowitcher,Unid. Magnoliopsida,14.000000000000002
+Long-billed Dowitcher,Unid. Malacostraca,7.7
+Long-billed Dowitcher,Unid. Mollusca,3.9
+Wilson's Snipe,Coleoptera [beetles],2.65
+Wilson's Snipe,Diptera [flies],3.366666666666667
+Wilson's Snipe,"Orthoptera [grasshoppers, crickets, and katydids]",1.6666666666666667
+Wilson's Snipe,Unid. Animalia,57.21666666666666
+Wilson's Snipe,Unid. Clitellata,1.8833333333333333
+Wilson's Snipe,Unid. Insecta,5.866666666666666
+Wilson's Snipe,Unid. Magnoliopsida,12.8
+Wilson's Snipe,Unid. Malacostraca,1.95
+Wilson's Snipe,Unid. Mollusca,1.1166666666666667
+Wilson's Snipe,Unid. Tracheophyta,10.5
+Franklin's Gull,"Orthoptera [grasshoppers, crickets, and katydids]",43.4
+Franklin's Gull,Unid. Animalia,51.1
+Franklin's Gull,Unid. Magnoliopsida,5.5
+Bonaparte's Gull,Amphipoda [amphipods],2.4
+Bonaparte's Gull,Clupeiformes [herrings],1.7000000000000002
+Bonaparte's Gull,Decapoda [decapods],18.3
+Bonaparte's Gull,Euphausiacea [krill],10.7
+Bonaparte's Gull,Phyllodocida,9.5
+Bonaparte's Gull,Scorpaeniformes [mail-cheeked fishes],3.8
+Bonaparte's Gull,Unid. Insecta larva,3.1
+Bonaparte's Gull,Unid. Insecta pupa,47.6
+Heermann's Gull,Batrachoidiformes [toadfishes],2.3
+Heermann's Gull,Clupeiformes [herrings],27.9
+Heermann's Gull,Phyllodocida,4.7
+Heermann's Gull,Pleuronectiformes [flatfishes],16.3
+Heermann's Gull,Scorpaeniformes [mail-cheeked fishes],11.6
+Heermann's Gull,Teuthida,27.9
+Heermann's Gull,Unid. Cephalopoda,4.7
+Heermann's Gull,Unid. Chordata,4.7
+Common Tern,Unid. Teleostei,100
+Marbled Murrelet,Clupeiformes [herrings],38.28333333333334
+Marbled Murrelet,Euphausiacea [krill],10.33
+Marbled Murrelet,Perciformes [perch-like fishes],39.62333333333333
+Marbled Murrelet,Scorpaeniformes [mail-cheeked fishes],1.9833333333333332
+Marbled Murrelet,Teuthida,8.353333333333333
+Rock Pigeon,"Poales [grasses, sedges, and allies]",95.8
+Rock Pigeon,"Rosales [roses, elms, figs, and allies]",3.7
+Band-tailed Pigeon,"Asparagales [agaves, orchids, irises, and allies]",1.225
+Band-tailed Pigeon,"Cornales [dogwoods, hydrangeas, and allies]",2.825
+Band-tailed Pigeon,"Dipsacales [honeysuckles, moschatels, and allies]",3.3000000000000003
+Band-tailed Pigeon,"Ericales [heathers, balsams, primroses, and allies]",6.549999999999999
+Band-tailed Pigeon,"Fabales [legumes, milkworts, and allies]",4.8
+Band-tailed Pigeon,"Fagales [beeches, oaks, walnuts, and allies]",43.425
+Band-tailed Pigeon,Pinales [conifers],4.4
+Band-tailed Pigeon,"Poales [grasses, sedges, and allies]",12.35
+Band-tailed Pigeon,"Rosales [roses, elms, figs, and allies]",16.325
+Band-tailed Pigeon,Unid. Tracheophyta,1.125
+Mourning Dove,"Asterales [asters, bellflowers, fanflowers, and allies]",1.65
+Mourning Dove,"Brassicales [mustards, capers, and allies]",1.0566666666666669
+Mourning Dove,"Caryophyllales [pinks, cactuses, and allies]",11.173333333333334
+Mourning Dove,"Malpighiales [nances, willows, and allies]",8.04
+Mourning Dove,"Poales [grasses, sedges, and allies]",74.47666666666667
+Mourning Dove,Unid. Magnoliopsida,1.7966666666666669
+Barn Owl,Rodentia [rodents],87.25321751666664
+Barn Owl,Soricomorpha,8.129803322549023
+Barn Owl,Unid. Mammalia,1.8700723911764707
+Western Screech-Owl,Dermaptera [earwigs],2.0375
+Western Screech-Owl,Passeriformes [perching birds],6.550000000000001
+Western Screech-Owl,Rodentia [rodents],49.75625
+Western Screech-Owl,Scorpiones [scorpions],2.875
+Western Screech-Owl,Soricomorpha,1.7950000000000002
+Western Screech-Owl,Unid. Animalia,1.0137500000000002
+Western Screech-Owl,Unid. Aves,4.26625
+Western Screech-Owl,Unid. Insecta,15.361250000000002
+Western Screech-Owl,Unid. Mammalia,14.29375
+Great Horned Owl,Anseriformes [waterfowl],1.6381335088495574
+Great Horned Owl,Galliformes [landfowl],2.9165681469026543
+Great Horned Owl,Lagomorpha [lagomorphs],21.69167850088495
+Great Horned Owl,Lagomorpha juvenile [lagomorphs],2.122258704424778
+Great Horned Owl,Passeriformes [perching birds],3.105669337168142
+Great Horned Owl,Rodentia [rodents],55.54018759823008
+Great Horned Owl,Soricomorpha,1.860414609734513
+Great Horned Owl,Unid. Aves,2.4702834938053084
+Great Horned Owl,Unid. Mammalia,2.7899895654867253
+Snowy Owl,Anseriformes [waterfowl],5.422222222222222
+Snowy Owl,Charadriiformes [shorebirds and allies],8.044444444444444
+Snowy Owl,Galliformes [landfowl],1
+Snowy Owl,Lagomorpha [lagomorphs],1.1888888888888889
+Snowy Owl,Passeriformes [perching birds],5.259477122222223
+Snowy Owl,Podicipediformes [grebes],4.088888888888889
+Snowy Owl,Procellariiformes [tubenoses],2.333333333333333
+Snowy Owl,Rodentia [rodents],57.51830057777777
+Snowy Owl,Soricomorpha,2.2222222222222223
+Snowy Owl,Unid. Aves,3.7000000000000006
+Snowy Owl,Unid. Mammalia,8.666666666666666
+Northern Pygmy-Owl,Passeriformes [perching birds],28.789472666666672
+Northern Pygmy-Owl,Rodentia [rodents],35.02280666666667
+Northern Pygmy-Owl,Soricomorpha,2.087719333333333
+Northern Pygmy-Owl,Unid. Animalia,20.466666666666665
+Northern Pygmy-Owl,Unid. Aves,4.6000000000000005
+Northern Pygmy-Owl,Unid. Mammalia,8.466666666666667
+Spotted Owl,Lagomorpha [lagomorphs],3.355882352941176
+Spotted Owl,Rodentia [rodents],77.89614850000001
+Spotted Owl,Unid. Animalia,1.968347323529412
+Spotted Owl,Unid. Arthropoda,1.241176470588235
+Spotted Owl,Unid. Aves,3.605882352941175
+Spotted Owl,Unid. Insecta,4.3088235294117645
+Spotted Owl,Unid. Mammalia,6.467647058823529
+Barred Owl,Anura [frogs and toads],6.2880434
+Barred Owl,Chiroptera [bats],1.032409090909091
+Barred Owl,Decapoda [decapods],2.1703671
+Barred Owl,Galliformes [landfowl],1.3302631545454544
+Barred Owl,Lagomorpha [lagomorphs],1.5518072727272725
+Barred Owl,Lagomorpha juvenile [lagomorphs],2.1885728363636363
+Barred Owl,Passeriformes [perching birds],2.908032690909091
+Barred Owl,"Piciformes [woodpeckers, barbets, and allies]",1.1399928909090908
+Barred Owl,Rodentia [rodents],50.90946194545455
+Barred Owl,Soricomorpha,6.532916272727272
+Barred Owl,Squamata [squamates],1.1069577363636365
+Barred Owl,Unid. Animalia,1.4363636363636365
+Barred Owl,Unid. Aves,6.79380980909091
+Barred Owl,Unid. Insecta,1.5509090909090908
+Barred Owl,Unid. Mammalia,6.909090909090909
+Barred Owl,Unid. Teleostei,3.3049242454545453
+Short-eared Owl,Charadriiformes [shorebirds and allies],2.1397095661764705
+Short-eared Owl,Passeriformes [perching birds],2.179263270588235
+Short-eared Owl,Rodentia [rodents],80.78557374558824
+Short-eared Owl,Unid. Aves,2.288282076470588
+Short-eared Owl,Unid. Mammalia,10.266176470588237
+Northern Saw-whet Owl,Rodentia [rodents],60.42021978571429
+Northern Saw-whet Owl,Soricomorpha,5.24
+Northern Saw-whet Owl,Unid. Mammalia,32.114285714285714
+Common Nighthawk,Blattodea [cockroaches and termites],2.6048604499999994
+Common Nighthawk,Coleoptera [beetles],21.07808245
+Common Nighthawk,"Hemiptera [true bugs, hoppers, aphids, and allies]",21.6893784
+Common Nighthawk,"Hymenoptera [ants, bees, wasps, and sawflies]",26.26192475
+Common Nighthawk,Unid. Animalia,27.750000000000004
+Black Swift,Blattodea [cockroaches and termites],10.012116828571427
+Black Swift,Coleoptera [beetles],2.523690657142857
+Black Swift,Diptera [flies],30.854596357142857
+Black Swift,Ephemeroptera [mayflies],3.8961038571428577
+Black Swift,"Hemiptera [true bugs, hoppers, aphids, and allies]",11.078775985714286
+Black Swift,"Hymenoptera [ants, bees, wasps, and sawflies]",22.973470314285716
+Black Swift,"Psocodea [barklice, booklice, and parasitic lice]",1.4303543142857145
+Black Swift,Unid. Insecta,16.728214057142857
+Vaux's Swift,Coleoptera [beetles],2.0949692
+Vaux's Swift,Diptera [flies],29.864553300000008
+Vaux's Swift,"Hemiptera [true bugs, hoppers, aphids, and allies]",60.478335650000005
+Vaux's Swift,"Hymenoptera [ants, bees, wasps, and sawflies]",7.5621152999999985
+Anna's Hummingbird,Araneae [spiders],2
+Anna's Hummingbird,Diptera [flies],45.3
+Anna's Hummingbird,"Hemiptera [true bugs, hoppers, aphids, and allies]",17.299999999999997
+Anna's Hummingbird,"Hymenoptera [ants, bees, wasps, and sawflies]",35
+Red-breasted Sapsucker,Coleoptera [beetles],6.025
+Red-breasted Sapsucker,Diptera [flies],1.0750000000000002
+Red-breasted Sapsucker,"Hemiptera [true bugs, hoppers, aphids, and allies]",6.9750000000000005
+Red-breasted Sapsucker,"Hymenoptera [ants, bees, wasps, and sawflies]",35.275
+Red-breasted Sapsucker,Lepidoptera larva [caterpillars],1.5
+Red-breasted Sapsucker,Unid. Animalia,22.075
+Red-breasted Sapsucker,Unid. Chilopoda,2
+Red-breasted Sapsucker,Unid. Insecta,2.425
+Red-breasted Sapsucker,Unid. Magnoliopsida,16.3
+Red-breasted Sapsucker,Unid. Tracheophyta,5.2
+Downy Woodpecker,Araneae [spiders],1.5
+Downy Woodpecker,Coleoptera [beetles],11.604594999999998
+Downy Woodpecker,Coleoptera larva [beetles],1.9191270333333328
+Downy Woodpecker,"Hemiptera [true bugs, hoppers, aphids, and allies]",10.868584033333333
+Downy Woodpecker,"Hymenoptera [ants, bees, wasps, and sawflies]",59.20748630000001
+Downy Woodpecker,"Poales [grasses, sedges, and allies]",7.233333333333333
+Downy Woodpecker,"Sapindales [soapberries, cashews, mahoganies, and allies]",2.3666666666666667
+Downy Woodpecker,Unid. Magnoliopsida,2.6666666666666665
+Hairy Woodpecker,Coleoptera [beetles],19.89
+Hairy Woodpecker,Coleoptera larva [beetles],9.04
+Hairy Woodpecker,"Hemiptera [true bugs, hoppers, aphids, and allies]",1.245
+Hairy Woodpecker,"Hymenoptera [ants, bees, wasps, and sawflies]",4.720000000000001
+Hairy Woodpecker,Lepidoptera larva [caterpillars],2.6100000000000003
+Hairy Woodpecker,Unid. Animalia,33.11
+Hairy Woodpecker,Unid. Arthropoda,9.6
+Hairy Woodpecker,Unid. Insecta,1.803
+Hairy Woodpecker,Unid. Magnoliopsida,4.710000000000001
+Hairy Woodpecker,Unid. Pinopsida,1.2
+Hairy Woodpecker,Unid. Plantae,1.13
+Hairy Woodpecker,Unid. Tracheophyta,8.8
+Northern Flicker,"Hymenoptera [ants, bees, wasps, and sawflies]",20.366862172727277
+Northern Flicker,Unid. Animalia,22.81818181818182
+Northern Flicker,Unid. Arthropoda,18.181818181818183
+Northern Flicker,Unid. Insecta,9.474911136363636
+Northern Flicker,Unid. Magnoliopsida,7.892796336363636
+Northern Flicker,Unid. Plantae,2.809573363636364
+Northern Flicker,Unid. Tracheophyta,13.545454545454543
+Pileated Woodpecker,Coleoptera [beetles],9.55
+Pileated Woodpecker,"Hymenoptera [ants, bees, wasps, and sawflies]",17.31666666666667
+Pileated Woodpecker,Unid. Animalia,48.16666666666666
+Pileated Woodpecker,Unid. Insecta,1.95
+Pileated Woodpecker,Unid. Magnoliopsida,4.533333333333334
+Pileated Woodpecker,Unid. Tracheophyta,18.5
+Olive-sided Flycatcher,Coleoptera [beetles],15.49666666666667
+Olive-sided Flycatcher,Diptera [flies],3.9166666666666665
+Olive-sided Flycatcher,"Hymenoptera [ants, bees, wasps, and sawflies]",30.82
+Olive-sided Flycatcher,Lepidoptera [butterflies and moths],1.9766666666666668
+Olive-sided Flycatcher,Unid. Animalia,33.333333333333336
+Olive-sided Flycatcher,Unid. Insecta,13.1
+Western Wood-Pewee,Coleoptera [beetles],13.66
+Western Wood-Pewee,Diptera [flies],27.0125
+Western Wood-Pewee,"Hemiptera [true bugs, hoppers, aphids, and allies]",5.6225
+Western Wood-Pewee,"Hymenoptera [ants, bees, wasps, and sawflies]",26.5025
+Western Wood-Pewee,Lepidoptera [butterflies and moths],13.095
+Western Wood-Pewee,Unid. Insecta,12.025
+Willow Flycatcher,Araneae [spiders],5.250000000000001
+Willow Flycatcher,Coleoptera [beetles],51.74999999999999
+Willow Flycatcher,Diptera [flies],7.75
+Willow Flycatcher,"Hemiptera [true bugs, hoppers, aphids, and allies]",7.000000000000001
+Willow Flycatcher,"Hymenoptera [ants, bees, wasps, and sawflies]",5.5
+Willow Flycatcher,Lepidoptera [butterflies and moths],13.750000000000002
+Willow Flycatcher,"Orthoptera [grasshoppers, crickets, and katydids]",3
+Willow Flycatcher,Trichoptera [caddisflies],1.7500000000000002
+Willow Flycatcher,Unid. Animalia,4.25
+Hammond's Flycatcher,Araneae [spiders],1.4
+Hammond's Flycatcher,Coleoptera [beetles],36.75000000000001
+Hammond's Flycatcher,Diptera [flies],12.05
+Hammond's Flycatcher,"Hemiptera [true bugs, hoppers, aphids, and allies]",18.200000000000003
+Hammond's Flycatcher,"Hymenoptera [ants, bees, wasps, and sawflies]",12.7
+Hammond's Flycatcher,Lepidoptera [butterflies and moths],13.6
+Hammond's Flycatcher,Unid. Tracheophyta,2.9000000000000004
+Pacific-slope Flycatcher,Coleoptera [beetles],8.5
+Pacific-slope Flycatcher,Diptera [flies],31
+Pacific-slope Flycatcher,"Hemiptera [true bugs, hoppers, aphids, and allies]",9
+Pacific-slope Flycatcher,"Hymenoptera [ants, bees, wasps, and sawflies]",38
+Pacific-slope Flycatcher,Lepidoptera [butterflies and moths],1.4
+Pacific-slope Flycatcher,Lepidoptera larva [caterpillars],5.6000000000000005
+Pacific-slope Flycatcher,Unid. Insecta,6
+Northern Shrike,Araneae [spiders],2.1116666666666664
+Northern Shrike,Coleoptera [beetles],4.576111111111112
+Northern Shrike,"Hymenoptera [ants, bees, wasps, and sawflies]",1.1111111111111112
+Northern Shrike,Lepidoptera larva [caterpillars],4.444444444444445
+Northern Shrike,"Orthoptera [grasshoppers, crickets, and katydids]",19.200000000000003
+Northern Shrike,Passeriformes [perching birds],1.31
+Northern Shrike,Rodentia [rodents],11.995555555555557
+Northern Shrike,Unid. Aves,26.444444444444443
+Northern Shrike,Unid. Mammalia,20.444444444444443
+Cassin's Vireo,Araneae [spiders],6.5
+Cassin's Vireo,Coleoptera [beetles],4.4
+Cassin's Vireo,Diptera [flies],2.7
+Cassin's Vireo,"Hemiptera [true bugs, hoppers, aphids, and allies]",56.2
+Cassin's Vireo,"Hymenoptera [ants, bees, wasps, and sawflies]",6.7
+Cassin's Vireo,Lepidoptera [butterflies and moths],1.3
+Cassin's Vireo,Lepidoptera larva [caterpillars],6.6000000000000005
+Cassin's Vireo,Unid. Tracheophyta,15.4
+Hutton's Vireo,Araneae [spiders],2.025
+Hutton's Vireo,Coleoptera [beetles],11.625
+Hutton's Vireo,Diptera [flies],1.495
+Hutton's Vireo,"Hemiptera [true bugs, hoppers, aphids, and allies]",47.44
+Hutton's Vireo,"Hymenoptera [ants, bees, wasps, and sawflies]",6.65
+Hutton's Vireo,Lepidoptera [butterflies and moths],6.165
+Hutton's Vireo,Lepidoptera larva [caterpillars],17.11
+Hutton's Vireo,Unid. Insecta,4.105
+Hutton's Vireo,Unid. Tracheophyta,1
+Warbling Vireo,Coleoptera [beetles],5.492222222222223
+Warbling Vireo,Diptera [flies],1.4733333333333334
+Warbling Vireo,"Hemiptera [true bugs, hoppers, aphids, and allies]",11.256666666666666
+Warbling Vireo,Lepidoptera larva [caterpillars],18.15555555555555
+Warbling Vireo,Unid. Animalia,42.355555555555554
+Warbling Vireo,Unid. Insecta,3.882222222222223
+Warbling Vireo,Unid. Magnoliopsida,9.02888888888889
+Warbling Vireo,Unid. Tracheophyta,3.6
+Red-eyed Vireo,Coleoptera [beetles],1.6919999999999995
+Red-eyed Vireo,"Hemiptera [true bugs, hoppers, aphids, and allies]",3.887000000000001
+Red-eyed Vireo,"Hymenoptera [ants, bees, wasps, and sawflies]",1.14
+Red-eyed Vireo,Lepidoptera larva [caterpillars],14.209
+Red-eyed Vireo,"Orthoptera [grasshoppers, crickets, and katydids]",1.704
+Red-eyed Vireo,Unid. Animalia,26.4
+Red-eyed Vireo,Unid. Arthropoda,13.6
+Red-eyed Vireo,Unid. Insecta,13.749
+Red-eyed Vireo,Unid. Magnoliopsida,18.482
+Red-eyed Vireo,Unid. Tracheophyta,4.1
+Steller's Jay,Coleoptera [beetles],14.4
+Steller's Jay,"Hymenoptera [ants, bees, wasps, and sawflies]",1.5714285714285714
+Steller's Jay,Unid. Animalia,30.142857142857142
+Steller's Jay,Unid. Magnoliopsida,9.571428571428571
+Steller's Jay,Unid. Tracheophyta,41.42857142857143
+California Scrub-Jay,Araneae [spiders],6.4
+California Scrub-Jay,Coleoptera [beetles],9.566666666666668
+California Scrub-Jay,Dermaptera [earwigs],1.1666666666666667
+California Scrub-Jay,"Hemiptera [true bugs, hoppers, aphids, and allies]",1.8666666666666665
+California Scrub-Jay,"Hymenoptera [ants, bees, wasps, and sawflies]",12.666666666666666
+California Scrub-Jay,Isopoda [isopods],1.8333333333333333
+California Scrub-Jay,Lepidoptera larva;pupa,44.53333333333333
+California Scrub-Jay,"Orthoptera [grasshoppers, crickets, and katydids]",16.266666666666666
+California Scrub-Jay,Unid. Arthropoda,3.033333333333333
+Clark's Nutcracker,Pinales [conifers],82.9
+Clark's Nutcracker,Unid. Arthropoda,13.3
+Clark's Nutcracker,Unid. Mammalia,3.1
+American Crow,Coleoptera [beetles],3.344761904761905
+American Crow,"Orthoptera [grasshoppers, crickets, and katydids]",4.279523809523811
+American Crow,"Poales [grasses, sedges, and allies]",33.26619047619048
+American Crow,"Rosales [roses, elms, figs, and allies]",1.7857142857142858
+American Crow,Unid. Animalia,14.039047619047622
+American Crow,Unid. Arthropoda,6.047619047619048
+American Crow,Unid. Insecta,2.423809523809524
+American Crow,Unid. Magnoliopsida,13.451428571428568
+American Crow,Unid. Plantae,3.2857142857142856
+American Crow,Unid. Tracheophyta,16.523809523809526
+Northwestern Crow,Araneae [spiders],7.945458699999998
+Northwestern Crow,Coleoptera [beetles],1.9376667000000003
+Northwestern Crow,Decapoda [decapods],6.913410000000001
+Northwestern Crow,Diptera [flies],9.852367600000004
+Northwestern Crow,Echinoida,7.574997999999999
+Northwestern Crow,"Hemiptera [true bugs, hoppers, aphids, and allies]",4.059872649999999
+Northwestern Crow,"Hymenoptera [ants, bees, wasps, and sawflies]",2.6245643500000004
+Northwestern Crow,Isopoda [isopods],13.663715999999996
+Northwestern Crow,Lepidoptera larva [caterpillars],5.59770345
+Northwestern Crow,Lepidoptera pupa,7.330325
+Northwestern Crow,Opiliones [harvestmen],2.1222060000000003
+Northwestern Crow,Phyllodocida,5.279545
+Northwestern Crow,Unid. Animalia,4.514394
+Northwestern Crow,Unid. Bivalvia,1.2815255
+Northwestern Crow,Unid. Chordata,3.060606
+Northwestern Crow,Unid. Mollusca,10.71212
+Common Raven,Coleoptera [beetles],1.7000000000000002
+Common Raven,Diptera [flies],2.5
+Common Raven,"Hemiptera [true bugs, hoppers, aphids, and allies]",9.35
+Common Raven,"Hymenoptera [ants, bees, wasps, and sawflies]",1.7500000000000002
+Common Raven,Lagomorpha [lagomorphs],17.150000000000002
+Common Raven,Lepidoptera larva [caterpillars],1.05
+Common Raven,"Poales [grasses, sedges, and allies]",1.6
+Common Raven,Unid. Animalia,6
+Common Raven,Unid. Aves,1.65
+Common Raven,Unid. Chordata,10.25
+Common Raven,Unid. Chordata egg,1
+Common Raven,Unid. Mammalia,43.05
+Common Raven,Unid. Reptilia,1.25
+Horned Lark,"Brassicales [mustards, capers, and allies]",1.82
+Horned Lark,"Caryophyllales [pinks, cactuses, and allies]",8.156666666666668
+Horned Lark,Coleoptera [beetles],11.73
+Horned Lark,"Hemiptera [true bugs, hoppers, aphids, and allies]",2.1766666666666667
+Horned Lark,Lepidoptera larva [caterpillars],10.333333333333334
+Horned Lark,"Orthoptera [grasshoppers, crickets, and katydids]",9.246666666666666
+Horned Lark,"Poales [grasses, sedges, and allies]",15.9
+Horned Lark,Unid. Animalia,5.333333333333333
+Horned Lark,Unid. Insecta,1.72
+Horned Lark,Unid. Magnoliopsida,9.216666666666663
+Horned Lark,Unid. Tracheophyta,21.33333333333333
+Purple Martin,Coleoptera [beetles],9.8425
+Purple Martin,Diptera [flies],10.175
+Purple Martin,"Hemiptera [true bugs, hoppers, aphids, and allies]",18.027500000000003
+Purple Martin,"Hymenoptera [ants, bees, wasps, and sawflies]",16.0875
+Purple Martin,Lepidoptera larva [caterpillars],2.35
+Purple Martin,Odonata [dragonflies and damselflies],9.275
+Purple Martin,"Orthoptera [grasshoppers, crickets, and katydids]",1.17
+Purple Martin,Unid. Arthropoda,10.525
+Purple Martin,Unid. Insecta,22.45
+Tree Swallow,Araneae [spiders],2.3
+Tree Swallow,Coleoptera [beetles],11.099999999999998
+Tree Swallow,Diptera [flies],40.25
+Tree Swallow,"Fagales [beeches, oaks, walnuts, and allies]",17.45
+Tree Swallow,"Hymenoptera [ants, bees, wasps, and sawflies]",3.2
+Tree Swallow,Unid. Animalia,20
+Tree Swallow,Unid. Magnoliopsida,4.8
+Violet-green Swallow,Coleoptera [beetles],35.03333333333333
+Violet-green Swallow,Diptera [flies],16.2
+Violet-green Swallow,"Hemiptera [true bugs, hoppers, aphids, and allies]",25.266666666666666
+Violet-green Swallow,"Hymenoptera [ants, bees, wasps, and sawflies]",17.400000000000002
+Violet-green Swallow,Unid. Insecta,4.833333333333333
+Northern Rough-winged Swallow,Coleoptera [beetles],17.99889
+Northern Rough-winged Swallow,Diptera [flies],23.352222333333334
+Northern Rough-winged Swallow,"Hemiptera [true bugs, hoppers, aphids, and allies]",4.966666666666666
+Northern Rough-winged Swallow,"Hymenoptera [ants, bees, wasps, and sawflies]",34.55926
+Northern Rough-winged Swallow,Unid. Insecta,18.826666666666664
+Cliff Swallow,Coleoptera [beetles],22.95
+Cliff Swallow,Diptera [flies],13
+Cliff Swallow,"Hemiptera [true bugs, hoppers, aphids, and allies]",26.65
+Cliff Swallow,"Hymenoptera [ants, bees, wasps, and sawflies]",33.9
+Cliff Swallow,Unid. Animalia,1.5
+Barn Swallow,Coleoptera [beetles],13.876666666666669
+Barn Swallow,Diptera [flies],37.16333333333333
+Barn Swallow,"Hemiptera [true bugs, hoppers, aphids, and allies]",23.03333333333333
+Barn Swallow,"Hymenoptera [ants, bees, wasps, and sawflies]",20.90333333333333
+Barn Swallow,Odonata [dragonflies and damselflies],1.6666666666666667
+Barn Swallow,Unid. Animalia,2.333333333333333
+Black-capped Chickadee,Coleoptera [beetles],1.11625
+Black-capped Chickadee,Lepidoptera larva [caterpillars],19.425
+Black-capped Chickadee,"Orthoptera [grasshoppers, crickets, and katydids]",1.33875
+Black-capped Chickadee,Unid. Animalia,38.87500000000001
+Black-capped Chickadee,Unid. Arthropoda,14.875
+Black-capped Chickadee,Unid. Insecta,6.5125
+Black-capped Chickadee,Unid. Magnoliopsida,5.9875
+Black-capped Chickadee,Unid. Tracheophyta,11.125
+Chestnut-backed Chickadee,Araneae [spiders],1.0000000000000002
+Chestnut-backed Chickadee,"Hemiptera [true bugs, hoppers, aphids, and allies]",3.571428571428572
+Chestnut-backed Chickadee,"Hymenoptera [ants, bees, wasps, and sawflies]",1.8571428571428568
+Chestnut-backed Chickadee,Lepidoptera larva [caterpillars],10.142857142857142
+Chestnut-backed Chickadee,Unid. Animalia,57.97142857142857
+Chestnut-backed Chickadee,Unid. Magnoliopsida,5
+Chestnut-backed Chickadee,Unid. Tracheophyta,13.457142857142856
+Bushtit,Araneae [spiders],2.333333333333333
+Bushtit,Coleoptera [beetles],4.8
+Bushtit,"Hemiptera [true bugs, hoppers, aphids, and allies]",23.666666666666668
+Bushtit,"Hymenoptera [ants, bees, wasps, and sawflies]",1.1666666666666667
+Bushtit,Lepidoptera larva [caterpillars],28.33333333333333
+Bushtit,Lepidoptera larva;pupa,26.666666666666668
+Bushtit,Unid. Arthropoda,2.6666666666666665
+Red-breasted Nuthatch,Coleoptera [beetles],7.6687116
+Red-breasted Nuthatch,"Hemiptera [true bugs, hoppers, aphids, and allies]",17.638036800000002
+Red-breasted Nuthatch,"Hymenoptera [ants, bees, wasps, and sawflies]",3.0163599500000005
+Red-breasted Nuthatch,Lepidoptera larva [caterpillars],19.5
+Red-breasted Nuthatch,Unid. Arthropoda,29
+Red-breasted Nuthatch,Unid. Euchelicerata,2.70961145
+Red-breasted Nuthatch,Unid. Insecta,3.4764826
+Red-breasted Nuthatch,Unid. Magnoliopsida,15.490797549999998
+Red-breasted Nuthatch,Unid. Tracheophyta,1.5
+Brown Creeper,Araneae [spiders],1.9
+Brown Creeper,Coleoptera [beetles],19.933333333333337
+Brown Creeper,"Hemiptera [true bugs, hoppers, aphids, and allies]",2.4666666666666672
+Brown Creeper,Unid. Animalia,33.333333333333336
+Brown Creeper,Unid. Arthropoda,3.233333333333334
+Brown Creeper,Unid. Insecta,30.4
+Brown Creeper,Unid. Magnoliopsida,7.233333333333333
+Bewick's Wren,Araneae [spiders],5
+Bewick's Wren,Coleoptera [beetles],21.000000000000004
+Bewick's Wren,Diptera [flies],6
+Bewick's Wren,"Hemiptera [true bugs, hoppers, aphids, and allies]",31
+Bewick's Wren,"Hymenoptera [ants, bees, wasps, and sawflies]",17
+Bewick's Wren,Lepidoptera larva [caterpillars],12
+Bewick's Wren,"Orthoptera [grasshoppers, crickets, and katydids]",4
+Bewick's Wren,Unid. Magnoliopsida,3
+House Wren,Araneae [spiders],21.514000000000003
+House Wren,Coleoptera [beetles],7.078999999999999
+House Wren,Diptera [flies],21.586
+House Wren,"Hemiptera [true bugs, hoppers, aphids, and allies]",6.232
+House Wren,"Hymenoptera [ants, bees, wasps, and sawflies]",2.7735
+House Wren,Lepidoptera larva [caterpillars],2.05
+House Wren,"Orthoptera [grasshoppers, crickets, and katydids]",3.1805
+House Wren,Unid. Arthropoda,13.2575
+House Wren,Unid. Arthropoda larva,11.677500000000004
+House Wren,Unid. Insecta,5.32
+House Wren,Unid. Magnoliopsida,3.71
+Marsh Wren,Araneae [spiders],5
+Marsh Wren,Coleoptera [beetles],16
+Marsh Wren,"Hemiptera [true bugs, hoppers, aphids, and allies]",31
+Marsh Wren,"Hymenoptera [ants, bees, wasps, and sawflies]",8
+Marsh Wren,Lepidoptera larva;pupa,17
+Marsh Wren,Unid. Arthropoda,10
+Marsh Wren,Unid. Insecta,11
+Marsh Wren,Unid. Magnoliopsida,2
+Golden-crowned Kinglet,Coleoptera [beetles],9.6568629
+Golden-crowned Kinglet,Diptera [flies],12.4938724
+Golden-crowned Kinglet,Diptera larva [flies],9.6875
+Golden-crowned Kinglet,Lepidoptera larva [caterpillars],29.895835
+Golden-crowned Kinglet,Unid. Arthropoda egg,2.1875
+Golden-crowned Kinglet,Unid. Euchelicerata,24.46691175
+Golden-crowned Kinglet,Unid. Insecta,5.88235295
+Golden-crowned Kinglet,Unid. Magnoliopsida,3.4375000000000004
+Ruby-crowned Kinglet,Coleoptera [beetles],3.2
+Ruby-crowned Kinglet,Diptera [flies],2.5625
+Ruby-crowned Kinglet,"Hemiptera [true bugs, hoppers, aphids, and allies]",11.9625
+Ruby-crowned Kinglet,"Hymenoptera [ants, bees, wasps, and sawflies]",4.2625
+Ruby-crowned Kinglet,Lepidoptera larva [caterpillars],2
+Ruby-crowned Kinglet,Unid. Animalia,34.5
+Ruby-crowned Kinglet,Unid. Arthropoda,23
+Ruby-crowned Kinglet,Unid. Insecta,11.7375
+Ruby-crowned Kinglet,Unid. Tracheophyta,4.45
+Western Bluebird,Coleoptera [beetles],7.826666666666666
+Western Bluebird,"Hemiptera [true bugs, hoppers, aphids, and allies]",2.285555555555556
+Western Bluebird,Lepidoptera larva [caterpillars],1.8888888888888888
+Western Bluebird,Lepidoptera pupa,2.2555555555555555
+Western Bluebird,"Orthoptera [grasshoppers, crickets, and katydids]",34.29666666666667
+Western Bluebird,Unid. Animalia,38.78888888888888
+Western Bluebird,Unid. Magnoliopsida,3.788888888888888
+Western Bluebird,Unid. Tracheophyta,5.666666666666667
+Townsend's Solitaire,Araneae [spiders],1.3425
+Townsend's Solitaire,Coleoptera [beetles],2.7425
+Townsend's Solitaire,"Hemiptera [true bugs, hoppers, aphids, and allies]",2.91375
+Townsend's Solitaire,"Hymenoptera [ants, bees, wasps, and sawflies]",2.595
+Townsend's Solitaire,Lepidoptera larva [caterpillars],3.23125
+Townsend's Solitaire,Unid. Animalia,31.299999999999997
+Townsend's Solitaire,Unid. Magnoliopsida,15.35
+Townsend's Solitaire,Unid. Tracheophyta,38.9875
+Swainson's Thrush,Blattodea [cockroaches and termites],8
+Swainson's Thrush,Coleoptera [beetles],24.35
+Swainson's Thrush,Coleoptera larva [beetles],2.15
+Swainson's Thrush,Diptera [flies],4.55
+Swainson's Thrush,"Hymenoptera [ants, bees, wasps, and sawflies]",20.55
+Swainson's Thrush,Lepidoptera larva [caterpillars],4.55
+Swainson's Thrush,Unid. Arthropoda,1.1
+Swainson's Thrush,Unid. Diplopoda,4.15
+Swainson's Thrush,Unid. Insecta larva,5.5
+Swainson's Thrush,Unid. Magnoliopsida,22.4
+Hermit Thrush,Coleoptera [beetles],3.748181818181818
+Hermit Thrush,"Hymenoptera [ants, bees, wasps, and sawflies]",5.433636363636363
+Hermit Thrush,Lepidoptera larva [caterpillars],4.912727272727273
+Hermit Thrush,"Orthoptera [grasshoppers, crickets, and katydids]",1.1472727272727274
+Hermit Thrush,Unid. Animalia,33.72363636363636
+Hermit Thrush,Unid. Arthropoda,18.479090909090907
+Hermit Thrush,Unid. Insecta,1.542727272727273
+Hermit Thrush,Unid. Magnoliopsida,17.96272727272727
+Hermit Thrush,Unid. Tracheophyta,11.845454545454544
+American Robin,Araneae [spiders],1.65
+American Robin,Coleoptera [beetles],53.3388889
+American Robin,Coleoptera larva [beetles],3.4722222
+American Robin,"Hemiptera [true bugs, hoppers, aphids, and allies]",4.0277778
+American Robin,"Hymenoptera [ants, bees, wasps, and sawflies]",6.372222249999999
+American Robin,Lepidoptera larva [caterpillars],5
+American Robin,"Orthoptera [grasshoppers, crickets, and katydids]",2.0500000000000003
+American Robin,"Rosales [roses, elms, figs, and allies]",3.05
+American Robin,Unid. Animalia,14.099999999999998
+American Robin,Unid. Euchelicerata,1.3888889
+American Robin,Unid. Tracheophyta,2.8000000000000003
+Varied Thrush,"Hymenoptera [ants, bees, wasps, and sawflies]",1.26
+Varied Thrush,Unid. Animalia,20.42
+Varied Thrush,Unid. Magnoliopsida,14.840000000000003
+Varied Thrush,Unid. Tracheophyta,61
+European Starling,Coleoptera [beetles],3.6287037666666673
+European Starling,"Fagales [beeches, oaks, walnuts, and allies]",2.2416666666666667
+European Starling,Lepidoptera [butterflies and moths],1.6435185
+European Starling,"Orthoptera [grasshoppers, crickets, and katydids]",6.193826666666666
+European Starling,"Poales [grasses, sedges, and allies]",13.911363583333332
+European Starling,"Sapindales [soapberries, cashews, mahoganies, and allies]",1.05
+European Starling,Unid. Animalia,25.31085833333333
+European Starling,Unid. Insecta,4.058333333333333
+European Starling,Unid. Magnoliopsida,15.049242416666669
+European Starling,Unid. Tracheophyta,13.416666666666666
+European Starling,Unid. Unknown,7.227272500000001
+European Starling,Vitales,1.325
+American Pipit,Coleoptera [beetles],9.071707000000002
+American Pipit,Diptera [flies],29.542172150000003
+American Pipit,"Hemiptera [true bugs, hoppers, aphids, and allies]",41.81530434999999
+American Pipit,"Hymenoptera [ants, bees, wasps, and sawflies]",2.60266225
+American Pipit,Lepidoptera [butterflies and moths],1.7649961499999998
+American Pipit,Lepidoptera larva [caterpillars],3.62868285
+American Pipit,Lepidoptera pupa,1.7361110999999998
+American Pipit,Unid. Diplopoda,1.04166665
+American Pipit,Unid. Magnoliopsida,6.9179665
+Cedar Waxwing,"Caryophyllales [pinks, cactuses, and allies]",2.3393340949999994
+Cedar Waxwing,"Dipsacales [honeysuckles, moschatels, and allies]",2
+Cedar Waxwing,Lepidoptera larva [caterpillars],8.65
+Cedar Waxwing,Pinales [conifers],15.933304494999998
+Cedar Waxwing,"Rosales [roses, elms, figs, and allies]",20.29
+Cedar Waxwing,Unid. Animalia,2.95
+Cedar Waxwing,Unid. Arthropoda,8.075
+Cedar Waxwing,Unid. Magnoliopsida,19.89840254
+Cedar Waxwing,Unid. Tracheophyta,17.6
+Cedar Waxwing,Vitales,1.829061325
+Orange-crowned Warbler,Araneae [spiders],6.133333333333333
+Orange-crowned Warbler,Coleoptera [beetles],19.600000000000005
+Orange-crowned Warbler,"Hemiptera [true bugs, hoppers, aphids, and allies]",51.26666666666667
+Orange-crowned Warbler,"Hymenoptera [ants, bees, wasps, and sawflies]",6
+Orange-crowned Warbler,Lepidoptera larva [caterpillars],8.766666666666667
+Orange-crowned Warbler,Unid. Magnoliopsida,1
+Orange-crowned Warbler,Unid. Tracheophyta,5.699999999999999
+Yellow Warbler,Araneae [spiders],11.90875
+Yellow Warbler,Coleoptera [beetles],11.052500000000002
+Yellow Warbler,Diptera [flies],5.495
+Yellow Warbler,"Hemiptera [true bugs, hoppers, aphids, and allies]",38.15500000000001
+Yellow Warbler,"Hymenoptera [ants, bees, wasps, and sawflies]",10.5
+Yellow Warbler,Lepidoptera Larva [caterpillars],5.797499999999999
+Yellow Warbler,Unid. Animalia,10
+Yellow Warbler,Unid. Non-biological,2.5
+Yellow-rumped Warbler,Araneae [spiders],10.03076923076923
+Yellow-rumped Warbler,Coleoptera [beetles],11.184615384615386
+Yellow-rumped Warbler,Diptera [flies],2.0615384615384618
+Yellow-rumped Warbler,Ephemeroptera [mayflies],6.6923076923076925
+Yellow-rumped Warbler,"Hemiptera [true bugs, hoppers, aphids, and allies]",6.13846153846154
+Yellow-rumped Warbler,"Hymenoptera [ants, bees, wasps, and sawflies]",6.244055946153846
+Yellow-rumped Warbler,Lepidoptera larva [caterpillars],9.815384615384616
+Yellow-rumped Warbler,Unid. Animalia,15.853846153846153
+Yellow-rumped Warbler,Unid. Arthropoda,13
+Yellow-rumped Warbler,Unid. Euchelicerata,1.0815850846153847
+Yellow-rumped Warbler,Unid. Insecta,6.809557107692308
+Yellow-rumped Warbler,Unid. Magnoliopsida,7.53076923076923
+Yellow-rumped Warbler,Unid. Tracheophyta,1.7461538461538462
+Black-throated Gray Warbler,Unid. Animalia,100
+Townsend's Warbler,Coleoptera [beetles],13.65
+Townsend's Warbler,Diptera [flies],3.4000000000000004
+Townsend's Warbler,"Hemiptera [true bugs, hoppers, aphids, and allies]",56.1
+Townsend's Warbler,"Hymenoptera [ants, bees, wasps, and sawflies]",15.3
+Townsend's Warbler,Unid. Insecta,6
+Townsend's Warbler,Unid. Tracheophyta,3.95
+Hermit Warbler,Unid. Animalia,90.6
+Hermit Warbler,Unid. Non-biological,1.5
+Hermit Warbler,Unid. Tracheophyta,7.9
+Palm Warbler,Coleoptera [beetles],24.07407405
+Palm Warbler,Diptera [flies],5.55555555
+Palm Warbler,"Hemiptera [true bugs, hoppers, aphids, and allies]",9.25925925
+Palm Warbler,"Hymenoptera [ants, bees, wasps, and sawflies]",1.85185185
+Palm Warbler,Lepidoptera [butterflies and moths],9.25925925
+Palm Warbler,Unid. Insecta,50
+MacGillivray's Warbler,Araneae [spiders],2.25
+MacGillivray's Warbler,Coleoptera [beetles],3.05
+MacGillivray's Warbler,Diptera [flies],1.55
+MacGillivray's Warbler,"Hemiptera [true bugs, hoppers, aphids, and allies]",25.55
+MacGillivray's Warbler,"Hymenoptera [ants, bees, wasps, and sawflies]",7.400000000000001
+MacGillivray's Warbler,Lepidoptera larva [caterpillars],2.2
+MacGillivray's Warbler,Unid. Animalia,50
+MacGillivray's Warbler,Unid. Tracheophyta,7.049999999999999
+Common Yellowthroat,Araneae [spiders],12.356681266666664
+Common Yellowthroat,Coleoptera [beetles],4.768605399999999
+Common Yellowthroat,Diptera [flies],7.952886933333333
+Common Yellowthroat,"Hemiptera [true bugs, hoppers, aphids, and allies]",9.985407533333332
+Common Yellowthroat,"Hymenoptera [ants, bees, wasps, and sawflies]",2.803835733333333
+Common Yellowthroat,Lepidoptera larva [caterpillars],15.3846154
+Common Yellowthroat,Odonata [dragonflies and damselflies],3.8461538333333336
+Common Yellowthroat,"Orthoptera [grasshoppers, crickets, and katydids]",2.298311433333333
+Common Yellowthroat,Unid. Insecta,35.03252033333334
+Common Yellowthroat,Unid. Insecta larva,5.237648533333333
+Wilson's Warbler,Coleoptera [beetles],4.416666666666667
+Wilson's Warbler,Diptera [flies],3.5500000000000003
+Wilson's Warbler,Ephemeroptera [mayflies],30.83333333333333
+Wilson's Warbler,"Hemiptera [true bugs, hoppers, aphids, and allies]",17.249999999999996
+Wilson's Warbler,"Hymenoptera [ants, bees, wasps, and sawflies]",6.166666666666667
+Wilson's Warbler,Unid. Animalia,15.95
+Wilson's Warbler,Unid. Insecta,13.333333333333334
+Wilson's Warbler,Unid. Magnoliopsida,4.5
+Wilson's Warbler,Unid. Tracheophyta,2.083333333333333
+Western Tanager,Coleoptera [beetles],22.525
+Western Tanager,"Hemiptera [true bugs, hoppers, aphids, and allies]",2.575
+Western Tanager,"Hymenoptera [ants, bees, wasps, and sawflies]",29.550000000000004
+Western Tanager,"Orthoptera [grasshoppers, crickets, and katydids]",1
+Western Tanager,Unid. Animalia,23.75
+Western Tanager,Unid. Insecta,9.675
+Western Tanager,Unid. Tracheophyta,8.925
+Spotted Towhee,Coleoptera [beetles],1.6666666666666667
+Spotted Towhee,Lepidoptera larva [caterpillars],2.583333333333333
+Spotted Towhee,Unid. Animalia,17.666666666666668
+Spotted Towhee,Unid. Magnoliopsida,11.316666666666665
+Spotted Towhee,Unid. Tracheophyta,49.5
+Chipping Sparrow,Araneae [spiders],2.793407333333333
+Chipping Sparrow,"Asterales [asters, bellflowers, fanflowers, and allies]",1.4433333333333334
+Chipping Sparrow,Coleoptera [beetles],6.9870166666666655
+Chipping Sparrow,"Hemiptera [true bugs, hoppers, aphids, and allies]",8.195510666666666
+Chipping Sparrow,"Hymenoptera [ants, bees, wasps, and sawflies]",2.0673486666666667
+Chipping Sparrow,Lepidoptera larva [caterpillars],4.759408166666666
+Chipping Sparrow,"Malpighiales [nances, willows, and allies]",4.558333333333334
+Chipping Sparrow,"Orthoptera [grasshoppers, crickets, and katydids]",5.265464666666667
+Chipping Sparrow,"Poales [grasses, sedges, and allies]",53.892596
+Chipping Sparrow,Unid. Animalia,1.3333333333333333
+Chipping Sparrow,Unid. Magnoliopsida,7.289002666666666
+Savannah Sparrow,Araneae [spiders],4.482758666666666
+Savannah Sparrow,Coleoptera [beetles],7.333333333333333
+Savannah Sparrow,Diptera [flies],3.6666666666666674
+Savannah Sparrow,"Hemiptera [true bugs, hoppers, aphids, and allies]",23.26436866666667
+Savannah Sparrow,"Hymenoptera [ants, bees, wasps, and sawflies]",9.5977
+Savannah Sparrow,Lepidoptera larva [caterpillars],23.05747000000001
+Savannah Sparrow,Odonata [dragonflies and damselflies],4.149425333333333
+Savannah Sparrow,Opiliones [harvestmen],2.2988506666666666
+Savannah Sparrow,"Orthoptera [grasshoppers, crickets, and katydids]",3.333333333333333
+Savannah Sparrow,"Poales [grasses, sedges, and allies]",18
+Savannah Sparrow,Unid. Clitellata,1.1494253333333333
+Fox Sparrow,"Poales [grasses, sedges, and allies]",1
+Fox Sparrow,Unid. Insecta,14.000000000000002
+Fox Sparrow,Unid. Tracheophyta,85
+Song Sparrow,Coleoptera [beetles],4.459403754545455
+Song Sparrow,Dermaptera [earwigs],1.5090173
+Song Sparrow,Diptera [flies],1.3636363636363635
+Song Sparrow,"Hemiptera [true bugs, hoppers, aphids, and allies]",2.9201325
+Song Sparrow,Lepidoptera larva [caterpillars],2.1181818181818177
+Song Sparrow,Unid. Animalia,9.818181818181818
+Song Sparrow,Unid. Insecta,4.9576371
+Song Sparrow,Unid. Insecta larva,4.435038645454546
+Song Sparrow,Unid. Magnoliopsida,17.724365109090908
+Song Sparrow,Unid. Tracheophyta,26.545454545454547
+Lincoln's Sparrow,"Asterales [asters, bellflowers, fanflowers, and allies]",13
+Lincoln's Sparrow,"Poales [grasses, sedges, and allies]",29.000000000000004
+Lincoln's Sparrow,Unid. Animalia,2
+Lincoln's Sparrow,Unid. Insecta,40
+Lincoln's Sparrow,Unid. Magnoliopsida,16
+Swamp Sparrow,Coleoptera [beetles],11
+Swamp Sparrow,Lepidoptera larva [caterpillars],9
+Swamp Sparrow,"Orthoptera [grasshoppers, crickets, and katydids]",2
+Swamp Sparrow,Unid. Insecta,23
+Swamp Sparrow,Unid. Magnoliopsida,53
+White-throated Sparrow,Coleoptera [beetles],5
+White-throated Sparrow,"Hymenoptera [ants, bees, wasps, and sawflies]",6
+White-throated Sparrow,Lepidoptera larva;adult,3
+White-throated Sparrow,"Poales [grasses, sedges, and allies]",3
+White-throated Sparrow,Unid. Animalia,2
+White-throated Sparrow,Unid. Insecta,3
+White-throated Sparrow,Unid. Magnoliopsida,78
+White-crowned Sparrow,"Hemiptera [true bugs, hoppers, aphids, and allies]",1.4590919999999998
+White-crowned Sparrow,"Hymenoptera [ants, bees, wasps, and sawflies]",5.236536457142857
+White-crowned Sparrow,Lepidoptera larva [caterpillars],6.113820485714286
+White-crowned Sparrow,"Poales [grasses, sedges, and allies]",1.2285714285714284
+White-crowned Sparrow,Unid. Animalia,9.428571428571429
+White-crowned Sparrow,Unid. Magnoliopsida,11.92857142857143
+White-crowned Sparrow,Unid. Tracheophyta,54.41196759999999
+Golden-crowned Sparrow,"Poales [grasses, sedges, and allies]",6.5
+Golden-crowned Sparrow,Unid. Animalia,1.25
+Golden-crowned Sparrow,Unid. Magnoliopsida,18.275
+Golden-crowned Sparrow,Unid. Tracheophyta,73.75
+Dark-eyed Junco,Coleoptera [beetles],5.300000000000001
+Dark-eyed Junco,Lepidoptera larva [caterpillars],2.7375
+Dark-eyed Junco,"Poales [grasses, sedges, and allies]",1
+Dark-eyed Junco,Unid. Animalia,16.349999999999998
+Dark-eyed Junco,Unid. Arthropoda,11.14375
+Dark-eyed Junco,Unid. Insecta,4.5687500000000005
+Dark-eyed Junco,Unid. Magnoliopsida,12.9625
+Dark-eyed Junco,Unid. Non-biological,1.11875
+Dark-eyed Junco,Unid. Tracheophyta,44.05625
+Lapland Longspur,Coleoptera [beetles],4.352617075
+Lapland Longspur,Coleoptera larva [beetles],3.3002755
+Lapland Longspur,Diptera [flies],9.548209375
+Lapland Longspur,Diptera larva [flies],3.484848475
+Lapland Longspur,"Hymenoptera larva [ants, bees, wasps, and sawflies]",1.666666675
+Lapland Longspur,Unid. Animalia,3.25
+Lapland Longspur,Unid. Tracheophyta,71.75
+Snow Bunting,"Poales [grasses, sedges, and allies]",34
+Snow Bunting,Unid. Magnoliopsida,66
+Black-headed Grosbeak,Coleoptera [beetles],24.155833333333334
+Black-headed Grosbeak,"Hemiptera [true bugs, hoppers, aphids, and allies]",6.198333333333333
+Black-headed Grosbeak,"Hymenoptera [ants, bees, wasps, and sawflies]",3.475
+Black-headed Grosbeak,Lepidoptera larva [caterpillars],16.095833333333335
+Black-headed Grosbeak,Lepidoptera pupa,3.375
+Black-headed Grosbeak,Unid. Animalia,20.28333333333333
+Black-headed Grosbeak,Unid. Magnoliopsida,6.666666666666667
+Black-headed Grosbeak,Unid. Tracheophyta,17.41354166666667
+Lazuli Bunting,Unid. Animalia,41.5
+Lazuli Bunting,Unid. Tracheophyta,58.5
+Red-winged Blackbird,"Asterales [asters, bellflowers, fanflowers, and allies]",1.9157894736842105
+Red-winged Blackbird,Coleoptera larva;adult [beetles],1.6842105263157894
+Red-winged Blackbird,"Hemiptera [true bugs, hoppers, aphids, and allies]",1.0763157894736843
+Red-winged Blackbird,Lepidoptera larva [caterpillars],7.026315789473684
+Red-winged Blackbird,"Orthoptera [grasshoppers, crickets, and katydids]",2.4842105263157896
+Red-winged Blackbird,"Poales [grasses, sedges, and allies]",26.213000557894738
+Red-winged Blackbird,Unid. Animalia,6.749624052631578
+Red-winged Blackbird,Unid. Insecta,5.457894736842106
+Red-winged Blackbird,Unid. Magnoliopsida,19.94449736842105
+Red-winged Blackbird,Unid. Tracheophyta,15.578947368421051
+Red-winged Blackbird,Unid. Unknown,6.577580526315789
+Western Meadowlark,Coleoptera [beetles],21.608888888888888
+Western Meadowlark,"Hemiptera [true bugs, hoppers, aphids, and allies]",2.3433333333333337
+Western Meadowlark,"Hymenoptera [ants, bees, wasps, and sawflies]",5.0777777777777775
+Western Meadowlark,Lepidoptera larva [caterpillars],13.386666666666663
+Western Meadowlark,"Orthoptera [grasshoppers, crickets, and katydids]",20.00222222222222
+Western Meadowlark,"Poales [grasses, sedges, and allies]",21.68888888888889
+Western Meadowlark,Unid. Animalia,8.206666666666669
+Western Meadowlark,Unid. Magnoliopsida,3.9788888888888887
+Western Meadowlark,Unid. Tracheophyta,2.6000000000000005
+Yellow-headed Blackbird,Coleoptera [beetles],14.4144144
+Yellow-headed Blackbird,Diptera [flies],13.74893195
+Yellow-headed Blackbird,"Hymenoptera [ants, bees, wasps, and sawflies]",1.5015015
+Yellow-headed Blackbird,Lepidoptera larva [caterpillars],7.857857999999999
+Yellow-headed Blackbird,Odonata [dragonflies and damselflies],5.78356115
+Yellow-headed Blackbird,Odonata larva [dragonflies and damselflies],8.093280499999999
+Yellow-headed Blackbird,Odonata teneral [dragonflies and damselflies],16.015091199999997
+Yellow-headed Blackbird,"Orthoptera [grasshoppers, crickets, and katydids]",1.2225188
+Yellow-headed Blackbird,"Poales [grasses, sedges, and allies]",6.9069069
+Yellow-headed Blackbird,Unid. Arthropoda,5.829905
+Yellow-headed Blackbird,Unid. Magnoliopsida,16.36636635
+Yellow-headed Blackbird,Unid. Unknown,1.371742
+Brewer's Blackbird,Coleoptera [beetles],5.850000000000001
+Brewer's Blackbird,"Hymenoptera [ants, bees, wasps, and sawflies]",1.6789473684210527
+Brewer's Blackbird,Lepidoptera larva [caterpillars],1.2421052631578946
+Brewer's Blackbird,Lepidoptera larva;pupa,2.631578947368421
+Brewer's Blackbird,"Orthoptera [grasshoppers, crickets, and katydids]",11.942105263157895
+Brewer's Blackbird,"Poales [grasses, sedges, and allies]",37.752631578947366
+Brewer's Blackbird,Unid. Animalia,10.910526315789474
+Brewer's Blackbird,Unid. Insecta,3.4684210526315797
+Brewer's Blackbird,Unid. Magnoliopsida,9.457894736842103
+Brewer's Blackbird,Unid. Tracheophyta,10.210526315789474
+Brown-headed Cowbird,"Asterales [asters, bellflowers, fanflowers, and allies]",3.06923076923077
+Brown-headed Cowbird,"Poales [grasses, sedges, and allies]",32.67557466153846
+Brown-headed Cowbird,Unid. Animalia,8.799600384615385
+Brown-headed Cowbird,Unid. Insecta,2.4153846153846152
+Brown-headed Cowbird,Unid. Magnoliopsida,21.971728461538454
+Brown-headed Cowbird,Unid. Tracheophyta,24.923076923076923
+Brown-headed Cowbird,Unid. Unknown,3.287712307692308
+Bullock's Oriole,Coleoptera [beetles],4.866666666666666
+Bullock's Oriole,"Hemiptera [true bugs, hoppers, aphids, and allies]",3.566666666666667
+Bullock's Oriole,"Hymenoptera [ants, bees, wasps, and sawflies]",6.916666666666667
+Bullock's Oriole,Lepidoptera larva [caterpillars],11.833333333333334
+Bullock's Oriole,Lepidoptera larva;pupa;adult,5.7
+Bullock's Oriole,Unid. Animalia,45.16666666666666
+Bullock's Oriole,Unid. Magnoliopsida,1.5333333333333332
+Bullock's Oriole,Unid. Tracheophyta,4.833333333333334
+Pine Grosbeak,Lepidoptera larva [caterpillars],22.6
+Pine Grosbeak,Unid. Animalia,3.6
+Pine Grosbeak,Unid. Arthropoda,10.6
+Pine Grosbeak,Unid. Tracheophyta,63.19999999999999
+Purple Finch,Lepidoptera larva [caterpillars],22.25
+Purple Finch,Unid. Animalia,11.95
+Purple Finch,Unid. Arthropoda,21.75
+Purple Finch,Unid. Insecta,1.5
+Purple Finch,Unid. Magnoliopsida,23.5
+Purple Finch,Unid. Non-biological,4.425
+Purple Finch,Unid. Tracheophyta,14.65
+House Finch,Unid. Animalia,3.0800000000000005
+House Finch,Unid. Magnoliopsida,19.2
+House Finch,Unid. Tracheophyta,77.4
+Red Crossbill,Unid. Animalia,5.25
+Red Crossbill,Unid. Tracheophyta,94.75
+Pine Siskin,Lepidoptera larva [caterpillars],13.6
+Pine Siskin,Unid. Animalia,29.600000000000005
+Pine Siskin,Unid. Arthropoda,6.4
+Pine Siskin,Unid. Tracheophyta,50.4
+American Goldfinch,Lepidoptera larva [caterpillars],11.142857142857142
+American Goldfinch,Unid. Animalia,8.142857142857144
+American Goldfinch,Unid. Arthropoda,14.285714285714286
+American Goldfinch,Unid. Magnoliopsida,13.5
+American Goldfinch,Unid. Tracheophyta,49
+Evening Grosbeak,Lepidoptera larva [caterpillars],13.333333333333334
+Evening Grosbeak,Unid. Animalia,29.55
+Evening Grosbeak,Unid. Arthropoda,3.333333333333333
+Evening Grosbeak,Unid. Tracheophyta,53.333333333333336
+House Sparrow,Coleoptera [beetles],2.4800000000000004
+House Sparrow,Lepidoptera larva;adult,2.144761904761905
+House Sparrow,"Malpighiales [nances, willows, and allies]",3.279523809523808
+House Sparrow,"Orthoptera [grasshoppers, crickets, and katydids]",5.044285714285713
+House Sparrow,"Poales [grasses, sedges, and allies]",63.74238095238095
+House Sparrow,Unid. Animalia,4.2595238095238095
+House Sparrow,Unid. Magnoliopsida,1.612380952380952
+House Sparrow,Unid. Tracheophyta,15.652857142857142
+Ross's Goose,"Caryophyllales [pinks, cactuses, and allies]",14.62
+Ross's Goose,"Poales [grasses, sedges, and allies]",7.045
+Ross's Goose,Unid. Tracheophyta,78.335
+Northern Bobwhite,Coleoptera [beetles],1.4699999999999998
+Northern Bobwhite,"Fabales [legumes, milkworts, and allies]",22.55388888888889
+Northern Bobwhite,"Malpighiales [nances, willows, and allies]",3.697777777777778
+Northern Bobwhite,"Orthoptera [grasshoppers, crickets, and katydids]",2.8144444444444447
+Northern Bobwhite,"Poales [grasses, sedges, and allies]",11.847055555555553
+Northern Bobwhite,"Rosales [roses, elms, figs, and allies]",2.908333333333333
+Northern Bobwhite,"Solanales [nightshades, bindweeds, gooseweeds, and allies]",1.4944444444444445
+Northern Bobwhite,Unid. Animalia,3.913333333333333
+Northern Bobwhite,Unid. Arthropoda,1.2499999999999998
+Northern Bobwhite,Unid. Magnoliopsida,14.659444444444444
+Northern Bobwhite,Unid. Tracheophyta,18.611111111111107
+Northern Bobwhite,Unid. Unknown,3.629444444444444
+Yellow-billed Loon,Gadiformes [cods],10
+Yellow-billed Loon,Scorpaeniformes [mail-cheeked fishes],89.34
+Clark's Grebe,Coleoptera [beetles],39.33
+Clark's Grebe,"Hemiptera [true bugs, hoppers, aphids, and allies]",48.67
+Clark's Grebe,Odonata [dragonflies and damselflies],10.5
+Clark's Grebe,Unid. Insecta,1.5
+American White Pelican,Caudata [salamanders],30.37666666666667
+American White Pelican,"Cypriniformes [minnows, suckers, carps, and loaches]",14.973333333333334
+American White Pelican,Decapoda [decapods],22.956666666666667
+American White Pelican,Perciformes [perch-like fishes],25.52333333333333
+American White Pelican,Unid. Animalia,9.836666666666666
+Cattle Egret,Anura [frogs and toads],3.268777777777778
+Cattle Egret,Araneae [spiders],7.815222222222225
+Cattle Egret,Blattodea [cockroaches and termites],1.117713851111111
+Cattle Egret,Coleoptera [beetles],5.272540334444442
+Cattle Egret,Coleoptera larva [beetles],5.296555555555555
+Cattle Egret,"Cypriniformes [minnows, suckers, carps, and loaches]",1.0755555555555556
+Cattle Egret,Diptera [flies],6.403432267777778
+Cattle Egret,Diptera larva [flies],2.3036666666666665
+Cattle Egret,"Hymenoptera [ants, bees, wasps, and sawflies]",2.1891278533333334
+Cattle Egret,Lepidoptera larva [caterpillars],2.7466666666666666
+Cattle Egret,Lepidoptera larva;adult,1.721666666666667
+Cattle Egret,Mantodea [mantises],1.0242222222222224
+Cattle Egret,"Orthoptera [grasshoppers, crickets, and katydids]",37.35246575333335
+Cattle Egret,Unid. Animalia,5.047000000000001
+Cattle Egret,Unid. Insecta,6.692555555555556
+Black-crowned Night-Heron,Clupeiformes [herrings],22.5
+Black-crowned Night-Heron,"Cyprinodontiformes [rivulines, killifishes, and livebearers]",27.500000000000004
+Black-crowned Night-Heron,Decapoda [decapods],7.15
+Black-crowned Night-Heron,Unid. Chordata,1.35
+Black-crowned Night-Heron,Unid. Teleostei,41.65
+Red-shouldered Hawk,Anura [frogs and toads],3.1933333333333334
+Red-shouldered Hawk,Passeriformes [perching birds],3.404666666666666
+Red-shouldered Hawk,Rodentia [rodents],13.518333333333333
+Red-shouldered Hawk,Soricomorpha,4.046
+Red-shouldered Hawk,Unid. Animalia,26.334751766666667
+Red-shouldered Hawk,Unid. Aves,1.6425532
+Red-shouldered Hawk,Unid. Chordata,16.995744666666667
+Red-shouldered Hawk,Unid. Insecta,3.09
+Red-shouldered Hawk,Unid. Mammalia,21.626950366666662
+Prairie Falcon,Charadriiformes [shorebirds and allies],8.695652500000001
+Prairie Falcon,Columbiformes [pigeons and doves],2.25
+Prairie Falcon,Galliformes [landfowl],1.3375
+Prairie Falcon,Lagomorpha [lagomorphs],3.5244565
+Prairie Falcon,"Orthoptera [grasshoppers, crickets, and katydids]",2.4
+Prairie Falcon,Passeriformes [perching birds],11.01793475
+Prairie Falcon,Rodentia [rodents],25.59347825
+Prairie Falcon,Unid. Animalia,5.6375
+Prairie Falcon,Unid. Aves,21.3625
+Prairie Falcon,Unid. Chordata,3.25
+Prairie Falcon,Unid. Mammalia,13.20597825
+Black Tern,Coleoptera [beetles],14.500000000000002
+Black Tern,Diptera [flies],8
+Black Tern,Ephemeroptera [mayflies],13
+Black Tern,Odonata [dragonflies and damselflies],20
+Black Tern,"Orthoptera [grasshoppers, crickets, and katydids]",12
+Black Tern,Unid. Animalia,10.5
+Black Tern,Unid. Chordata,19
+Black Tern,Unid. Malacostraca,3
+Great Gray Owl,Rodentia [rodents],72.0898692
+Great Gray Owl,Soricomorpha,1.5013523000000002
+Great Gray Owl,Unid. Aves,2.511976
+Great Gray Owl,Unid. Mammalia,23.5
+Long-eared Owl,Charadriiformes [shorebirds and allies],1.5305317735849056
+Long-eared Owl,Rodentia [rodents],87.16275530754719
+Long-eared Owl,Soricomorpha,3.1744755377358493
+Long-eared Owl,Unid. Aves,1.473485901886793
+Long-eared Owl,Unid. Mammalia,4.810056603773585
+Dusky Flycatcher,Coleoptera [beetles],10.9
+Dusky Flycatcher,Diptera [flies],13
+Dusky Flycatcher,"Hemiptera [true bugs, hoppers, aphids, and allies]",22.3
+Dusky Flycatcher,"Hymenoptera [ants, bees, wasps, and sawflies]",38
+Dusky Flycatcher,Lepidoptera [butterflies and moths],1.7000000000000002
+Dusky Flycatcher,Lepidoptera larva [caterpillars],3.9
+Dusky Flycatcher,Unid. Tracheophyta,8.200000000000001
+Say's Phoebe,Coleoptera [beetles],13.9675
+Say's Phoebe,Diptera [flies],12.5425
+Say's Phoebe,"Hemiptera [true bugs, hoppers, aphids, and allies]",4.6375
+Say's Phoebe,"Hymenoptera [ants, bees, wasps, and sawflies]",20.73
+Say's Phoebe,Lepidoptera [butterflies and moths],4.94
+Say's Phoebe,Lepidoptera larva [caterpillars],1.11
+Say's Phoebe,Lepidoptera larva;adult,3.03
+Say's Phoebe,"Orthoptera [grasshoppers, crickets, and katydids]",34.04
+Say's Phoebe,Unid. Arthropoda,2
+Say's Phoebe,Unid. Insecta,1.1975
+Western Kingbird,Coleoptera [beetles],52.56666666666666
+Western Kingbird,Diptera [flies],1.5333333333333334
+Western Kingbird,"Hemiptera [true bugs, hoppers, aphids, and allies]",5.3
+Western Kingbird,"Hymenoptera [ants, bees, wasps, and sawflies]",28.933333333333337
+Western Kingbird,Lepidoptera [butterflies and moths],1.4333333333333336
+Western Kingbird,Lepidoptera larva;adult,1
+Western Kingbird,Odonata [dragonflies and damselflies],1.6333333333333335
+Western Kingbird,"Orthoptera [grasshoppers, crickets, and katydids]",5.2
+Western Kingbird,Unid. Insecta,1.2000000000000002
+Eastern Kingbird,Coleoptera [beetles],6.3375
+Eastern Kingbird,"Hemiptera [true bugs, hoppers, aphids, and allies]",1.8125
+Eastern Kingbird,"Hymenoptera [ants, bees, wasps, and sawflies]",8.0975
+Eastern Kingbird,"Orthoptera [grasshoppers, crickets, and katydids]",2.9575
+Eastern Kingbird,Unid. Animalia,61
+Eastern Kingbird,Unid. Insecta,1.435
+Eastern Kingbird,Unid. Magnoliopsida,2.7675
+Eastern Kingbird,Unid. Tracheophyta,14.000000000000002
+Bank Swallow,Coleoptera [beetles],18.95
+Bank Swallow,Diptera [flies],26.315
+Bank Swallow,"Hemiptera [true bugs, hoppers, aphids, and allies]",3.98
+Bank Swallow,"Hymenoptera [ants, bees, wasps, and sawflies]",6.7
+Bank Swallow,Odonata [dragonflies and damselflies],1.055
+Bank Swallow,Unid. Insecta,41.395
+Bank Swallow,Unid. Magnoliopsida,1
+White-breasted Nuthatch,Araneae [spiders],1
+White-breasted Nuthatch,"Asterales [asters, bellflowers, fanflowers, and allies]",5.5
+White-breasted Nuthatch,Coleoptera [beetles],6.5
+White-breasted Nuthatch,"Hemiptera [true bugs, hoppers, aphids, and allies]",3.3000000000000003
+White-breasted Nuthatch,"Hymenoptera [ants, bees, wasps, and sawflies]",7.199999999999999
+White-breasted Nuthatch,"Hymenoptera larva [ants, bees, wasps, and sawflies]",1.1
+White-breasted Nuthatch,Lepidoptera larva [caterpillars],2.7
+White-breasted Nuthatch,"Orthoptera [grasshoppers, crickets, and katydids]",2.9000000000000004
+White-breasted Nuthatch,"Poales [grasses, sedges, and allies]",55.400000000000006
+White-breasted Nuthatch,Unid. Animalia,3.5000000000000004
+White-breasted Nuthatch,Unid. Magnoliopsida,10.500000000000002
+Nashville Warbler,Araneae [spiders],12.391666666666667
+Nashville Warbler,Coleoptera [beetles],5.208333333333333
+Nashville Warbler,Diptera [flies],5.4
+Nashville Warbler,"Hemiptera [true bugs, hoppers, aphids, and allies]",17.775000000000002
+Nashville Warbler,"Hymenoptera [ants, bees, wasps, and sawflies]",3.108333333333333
+Nashville Warbler,Lepidoptera larva [caterpillars],21.844166666666663
+Nashville Warbler,Unid. Animalia,12.341666666666669
+Nashville Warbler,Unid. Arthropoda,12.083333333333334
+Nashville Warbler,Unid. Insecta,4
+Nashville Warbler,Unid. Magnoliopsida,4.333333333333333
+Nashville Warbler,Unid. Tracheophyta,1.4166666666666667
+Yellow-breasted Chat,Araneae [spiders],14.000000000000002
+Yellow-breasted Chat,Coleoptera [beetles],14.000000000000002
+Yellow-breasted Chat,Diptera [flies],3
+Yellow-breasted Chat,"Hemiptera [true bugs, hoppers, aphids, and allies]",5
+Yellow-breasted Chat,"Hymenoptera [ants, bees, wasps, and sawflies]",55.00000000000001
+Yellow-breasted Chat,Lepidoptera larva;adult,9
+American Tree Sparrow,"Ericales [heathers, balsams, primroses, and allies]",3.458888888888889
+American Tree Sparrow,"Poales [grasses, sedges, and allies]",8.849444444444444
+American Tree Sparrow,Unid. Animalia,25.453333333333333
+American Tree Sparrow,Unid. Tracheophyta,57.68555555555557
+Vesper Sparrow,Araneae [spiders],1.00570125
+Vesper Sparrow,"Caryophyllales [pinks, cactuses, and allies]",1.3125
+Vesper Sparrow,Coleoptera [beetles],15.261775
+Vesper Sparrow,"Hemiptera [true bugs, hoppers, aphids, and allies]",2.993019875
+Vesper Sparrow,"Hymenoptera [ants, bees, wasps, and sawflies]",1.4726130000000002
+Vesper Sparrow,Lepidoptera larva [caterpillars],1.7603900125000005
+Vesper Sparrow,"Malpighiales [nances, willows, and allies]",2.25
+Vesper Sparrow,"Orthoptera [grasshoppers, crickets, and katydids]",24.751385875
+Vesper Sparrow,"Poales [grasses, sedges, and allies]",20.4704288875
+Vesper Sparrow,Unid. Magnoliopsida,16.4654725
+Vesper Sparrow,Unid. Non-biological,4.125
+Vesper Sparrow,Unid. Unknown,5.875
+Harris's Sparrow,"Asterales [asters, bellflowers, fanflowers, and allies]",42
+Harris's Sparrow,"Hemiptera [true bugs, hoppers, aphids, and allies]",2
+Harris's Sparrow,"Poales [grasses, sedges, and allies]",19
+Harris's Sparrow,Unid. Animalia,6
+Harris's Sparrow,Unid. Magnoliopsida,6
+Harris's Sparrow,Unid. Tracheophyta,25
+Rusty Blackbird,Coleoptera [beetles],2.3000000000000003
+Rusty Blackbird,"Orthoptera [grasshoppers, crickets, and katydids]",2
+Rusty Blackbird,"Poales [grasses, sedges, and allies]",5.581818166666667
+Rusty Blackbird,Unid. Animalia,48.02020166666667
+Rusty Blackbird,Unid. Insecta,2.2833333333333337
+Rusty Blackbird,Unid. Magnoliopsida,5.281818166666667
+Rusty Blackbird,Unid. Tracheophyta,21.83333333333333
+Rusty Blackbird,Unid. Unknown,11.616161666666668
+Common Redpoll,Unid. Tracheophyta,99.66666666666669
+Spruce Grouse,"Ericales [heathers, balsams, primroses, and allies]",24.17615384615385
+Spruce Grouse,"Fabales [legumes, milkworts, and allies]",1.0115384615384615
+Spruce Grouse,"Orthoptera [grasshoppers, crickets, and katydids]",1.746923076923077
+Spruce Grouse,Pinales [conifers],57.47384615384616
+Spruce Grouse,"Poales [grasses, sedges, and allies]",9.28076923076923
+White-tailed Ptarmigan,"Caryophyllales [pinks, cactuses, and allies]",3.4369565217391305
+White-tailed Ptarmigan,"Ericales [heathers, balsams, primroses, and allies]",4.999999999999999
+White-tailed Ptarmigan,"Fagales [beeches, oaks, walnuts, and allies]",6.804347826086956
+White-tailed Ptarmigan,"Malpighiales [nances, willows, and allies]",58.91304347826087
+White-tailed Ptarmigan,Pinales [conifers],1.3695652173913044
+White-tailed Ptarmigan,"Poales [grasses, sedges, and allies]",6.195652173913042
+White-tailed Ptarmigan,"Ranunculales [buttercups, poppies, and allies]",3.260869565217391
+White-tailed Ptarmigan,"Rosales [roses, elms, figs, and allies]",4.543478260869565
+White-tailed Ptarmigan,"Saxifragales [saxifrages, stonecrops, and allies]",1.2804347826086957
+White-tailed Ptarmigan,Unid. Magnoliopsida,2.695652173913044
+American Three-toed Woodpecker,Coleoptera [beetles],52.295
+American Three-toed Woodpecker,Coleoptera larva [beetles],30.58
+American Three-toed Woodpecker,"Hymenoptera [ants, bees, wasps, and sawflies]",4.15
+American Three-toed Woodpecker,Lepidoptera larva [caterpillars],7.225
+American Three-toed Woodpecker,Unid. Magnoliopsida,4.92
+Black-backed Woodpecker,Coleoptera larva [beetles],22.55333333333333
+Black-backed Woodpecker,"Hymenoptera [ants, bees, wasps, and sawflies]",2.1166666666666667
+Black-backed Woodpecker,Lepidoptera larva [caterpillars],4.293333333333333
+Black-backed Woodpecker,Unid. Arthropoda,67.26666666666667
+Black-backed Woodpecker,Unid. Magnoliopsida,3.77
+Mountain Chickadee,Araneae [spiders],6.22
+Mountain Chickadee,Coleoptera [beetles],11.54
+Mountain Chickadee,Diptera [flies],2.27
+Mountain Chickadee,Diptera larva [flies],5.33
+Mountain Chickadee,"Hemiptera [true bugs, hoppers, aphids, and allies]",3.62
+Mountain Chickadee,"Hymenoptera [ants, bees, wasps, and sawflies]",1.2
+Mountain Chickadee,"Hymenoptera larva [ants, bees, wasps, and sawflies]",34.87
+Mountain Chickadee,Lepidoptera [butterflies and moths],7.56
+Mountain Chickadee,Lepidoptera larva [caterpillars],12.72
+Mountain Chickadee,Lepidoptera pupa,3.22
+Mountain Chickadee,Unid. Insecta,1.87
+Mountain Chickadee,Unid. Insecta larva,2.39
+Mountain Chickadee,Unid. Unknown,4.35
+Mountain Bluebird,Coleoptera [beetles],20.31
+Mountain Bluebird,"Hemiptera [true bugs, hoppers, aphids, and allies]",13.375
+Mountain Bluebird,"Hymenoptera [ants, bees, wasps, and sawflies]",8.254999999999999
+Mountain Bluebird,Lepidoptera larva;adult,9.15
+Mountain Bluebird,"Orthoptera [grasshoppers, crickets, and katydids]",40.635
+Mountain Bluebird,Unid. Euchelicerata,2.225
+Mountain Bluebird,Unid. Insecta,1.4500000000000002
+Mountain Bluebird,Unid. Magnoliopsida,4.15
+Veery,Araneae [spiders],4
+Veery,Blattodea [cockroaches and termites],7.133333333333333
+Veery,Coleoptera [beetles],38.96666666666668
+Veery,Coleoptera larva [beetles],1.7666666666666666
+Veery,Diptera [flies],5.2
+Veery,Diptera larva [flies],1.9666666666666663
+Veery,"Hemiptera [true bugs, hoppers, aphids, and allies]",1.8
+Veery,"Hymenoptera [ants, bees, wasps, and sawflies]",6.166666666666667
+Veery,Lepidoptera larva [caterpillars],8.299999999999999
+Veery,Unid. Arthropoda,1.4333333333333336
+Veery,Unid. Diplopoda,5.233333333333333
+Veery,Unid. Euchelicerata,1.6666666666666667
+Veery,Unid. Magnoliopsida,12.866666666666667
+Veery,Unid. Mollusca,1.3333333333333333
+American Redstart,Araneae [spiders],3.1266666666666665
+American Redstart,Blattodea [cockroaches and termites],3.395555555555556
+American Redstart,Coleoptera [beetles],17.294879226666666
+American Redstart,Diptera [flies],14.013333333333335
+American Redstart,"Hemiptera [true bugs, hoppers, aphids, and allies]",20.614396135555555
+American Redstart,"Hymenoptera [ants, bees, wasps, and sawflies]",21.40425120888889
+American Redstart,Lepidoptera [butterflies and moths],1.8153623177777776
+American Redstart,Lepidoptera Larva [caterpillars],7.655555555555556
+American Redstart,Plecoptera [stoneflies],1.3822222222222222
+American Redstart,"Psocodea [barklice, booklice, and parasitic lice]",4.744444444444445
+American Redstart,Unid. Insecta,2.2222222222222223
+White-winged Crossbill,Lepidoptera larva [caterpillars],6
+White-winged Crossbill,Unid. Animalia,7.000000000000001
+White-winged Crossbill,Unid. Arthropoda,19
+White-winged Crossbill,Unid. Tracheophyta,68
+Boreal Owl,Rodentia [rodents],54.249983000000014
+Boreal Owl,Soricomorpha,6.083324999999999
+Boreal Owl,Unid. Aves,7.1
+Boreal Owl,Unid. Insecta,4.75
+Boreal Owl,Unid. Mammalia,27.0666675
+Lewis's Woodpecker,Coleoptera [beetles],3.6965031666666666
+Lewis's Woodpecker,"Hymenoptera [ants, bees, wasps, and sawflies]",6.709582166666666
+Lewis's Woodpecker,Unid. Animalia,26.33333333333333
+Lewis's Woodpecker,Unid. Insecta,1.4532243333333332
+Lewis's Woodpecker,Unid. Magnoliopsida,20.3121715
+Lewis's Woodpecker,Unid. Tracheophyta,40.333333333333336
+Rock Wren,Coleoptera [beetles],22.501843125
+Rock Wren,Coleoptera larva [beetles],2.88770385
+Rock Wren,Diptera [flies],2.04326315
+Rock Wren,"Hemiptera [true bugs, hoppers, aphids, and allies]",28.76821465
+Rock Wren,"Hemiptera nymph [true bugs, hoppers, aphids, and allies]",1.802841925
+Rock Wren,"Hymenoptera [ants, bees, wasps, and sawflies]",24.057872625
+Rock Wren,Lepidoptera [butterflies and moths],1.23090585
+Rock Wren,Lepidoptera larva [caterpillars],4.049711075
+Rock Wren,"Neuroptera [antlions, lacewings, and allies]",5.044404975000001
+Rock Wren,"Neuroptera larva [antlions, lacewings, and allies]",1.8233876
+Rock Wren,"Orthoptera [grasshoppers, crickets, and katydids]",2.80867425
+Chukar,"Asterales [asters, bellflowers, fanflowers, and allies]",4.783333333333334
+Chukar,Boraginales,10.333333333333334
+Chukar,"Caryophyllales [pinks, cactuses, and allies]",4.1000000000000005
+Chukar,"Geraniales [geraniums, bridal wreaths, and allies]",1.5666666666666669
+Chukar,"Hemiptera [true bugs, hoppers, aphids, and allies]",2.333333333333333
+Chukar,"Orthoptera [grasshoppers, crickets, and katydids]",6.366666666666667
+Chukar,"Poales [grasses, sedges, and allies]",61.61666666666667
+Chukar,Rodentia [rodents],1.3333333333333333
+Chukar,"Saxifragales [saxifrages, stonecrops, and allies]",4.266666666666667
+Gray Partridge,"Asterales [asters, bellflowers, fanflowers, and allies]",1.6970714285714283
+Gray Partridge,"Caryophyllales [pinks, cactuses, and allies]",1.8449285714285717
+Gray Partridge,"Fabales [legumes, milkworts, and allies]",2.1711428571428573
+Gray Partridge,"Poales [grasses, sedges, and allies]",38.99507142857143
+Gray Partridge,"Rosales [roses, elms, figs, and allies]",1.686642857142857
+Gray Partridge,Unid. Animalia,1.2142857142857142
+Gray Partridge,Unid. Insecta,1.11
+Gray Partridge,Unid. Magnoliopsida,4.563571428571429
+Gray Partridge,Unid. Non-biological,17.405714285714286
+Gray Partridge,Unid. Tracheophyta,27.357142857142858
+Dusky Grouse,"Asterales [asters, bellflowers, fanflowers, and allies]",6.762000000000002
+Dusky Grouse,"Caryophyllales [pinks, cactuses, and allies]",1.953
+Dusky Grouse,"Ericales [heathers, balsams, primroses, and allies]",13.064000000000002
+Dusky Grouse,"Hymenoptera [ants, bees, wasps, and sawflies]",2.0370000000000004
+Dusky Grouse,"Malpighiales [nances, willows, and allies]",5.244
+Dusky Grouse,"Orthoptera [grasshoppers, crickets, and katydids]",3.51
+Dusky Grouse,Pinales [conifers],13.999
+Dusky Grouse,"Rosales [roses, elms, figs, and allies]",6.513
+Dusky Grouse,"Santalales [sandalwoods, mistletoes, and allies]",1.1980000000000002
+Dusky Grouse,"Saxifragales [saxifrages, stonecrops, and allies]",3.2590000000000003
+Dusky Grouse,Unid. Animalia,1.4
+Dusky Grouse,Unid. Tracheophyta,38.636
+Flammulated Owl,Araneae [spiders],1
+Flammulated Owl,"Hemiptera [true bugs, hoppers, aphids, and allies]",1
+Flammulated Owl,Lepidoptera [butterflies and moths],1
+Flammulated Owl,Lepidoptera larva [caterpillars],1
+Flammulated Owl,"Orthoptera [grasshoppers, crickets, and katydids]",85
+Flammulated Owl,Unid. Arthropoda,8
+Flammulated Owl,Unid. Chilopoda,2
+Flammulated Owl,Unid. Diplopoda,1
+Common Poorwill,Coleoptera [beetles],47
+Common Poorwill,Lepidoptera [butterflies and moths],49
+Common Poorwill,Unid. Insecta,4
+Acorn Woodpecker,Coleoptera [beetles],7.618998266666668
+Acorn Woodpecker,"Ericales [heathers, balsams, primroses, and allies]",1.0577213333333333
+Acorn Woodpecker,"Fagales [beeches, oaks, walnuts, and allies]",44.35
+Acorn Woodpecker,"Hymenoptera [ants, bees, wasps, and sawflies]",13.43346045
+Acorn Woodpecker,Unid. Insecta,6.531540533333334
+Acorn Woodpecker,Unid. Magnoliopsida,23.848377166666666
+Acorn Woodpecker,Unid. Plantae,1.628891
+Williamson's Sapsucker,Coleoptera [beetles],8.75
+Williamson's Sapsucker,"Hymenoptera [ants, bees, wasps, and sawflies]",78
+Williamson's Sapsucker,Unid. Insecta,1.7000000000000002
+Williamson's Sapsucker,Unid. Magnoliopsida,10.375
+White-headed Woodpecker,Blattodea [cockroaches and termites],2.12522525
+White-headed Woodpecker,Coleoptera [beetles],16.1680793
+White-headed Woodpecker,Coleoptera larva [beetles],1.18190005
+White-headed Woodpecker,"Hemiptera [true bugs, hoppers, aphids, and allies]",34.632596250000006
+White-headed Woodpecker,"Hymenoptera [ants, bees, wasps, and sawflies]",28.4891482
+White-headed Woodpecker,Lepidoptera [butterflies and moths],1.69095005
+White-headed Woodpecker,Unid. Euchelicerata,3.829975450000001
+White-headed Woodpecker,Unid. Insecta,2.8000000000000003
+White-headed Woodpecker,Unid. Magnoliopsida,7.399999999999999
+Least Flycatcher,Araneae [spiders],3.345
+Least Flycatcher,Coleoptera [beetles],39.855
+Least Flycatcher,Diptera [flies],17.630000000000003
+Least Flycatcher,"Hemiptera [true bugs, hoppers, aphids, and allies]",7.965000000000001
+Least Flycatcher,"Hymenoptera [ants, bees, wasps, and sawflies]",12.109999999999998
+Least Flycatcher,Lepidoptera Larva [caterpillars],16.410000000000004
+Least Flycatcher,"Neuroptera [antlions, lacewings, and allies]",1.3449999999999998
+Ash-throated Flycatcher,Coleoptera [beetles],6.011995925
+Ash-throated Flycatcher,Diptera [flies],9.0075
+Ash-throated Flycatcher,"Hemiptera [true bugs, hoppers, aphids, and allies]",32.44252035
+Ash-throated Flycatcher,"Hymenoptera [ants, bees, wasps, and sawflies]",19.81
+Ash-throated Flycatcher,Lepidoptera [butterflies and moths],4.21374725
+Ash-throated Flycatcher,Lepidoptera larva;adult,9.0275
+Ash-throated Flycatcher,Odonata [dragonflies and damselflies],1.5274925
+Ash-throated Flycatcher,"Orthoptera [grasshoppers, crickets, and katydids]",3.1459975
+Ash-throated Flycatcher,Unid. Insecta,8.89166475
+Ash-throated Flycatcher,Unid. Insecta larva,1.323828925
+Ash-throated Flycatcher,Unid. Magnoliopsida,3.92
+Loggerhead Shrike,Araneae [spiders],3.5384615384615383
+Loggerhead Shrike,Coleoptera [beetles],15.30769230769231
+Loggerhead Shrike,Coleoptera larva;adult [beetles],3.3076923076923075
+Loggerhead Shrike,"Hymenoptera [ants, bees, wasps, and sawflies]",3.3846153846153846
+Loggerhead Shrike,Lepidoptera larva [caterpillars],3.5384615384615383
+Loggerhead Shrike,"Orthoptera [grasshoppers, crickets, and katydids]",40.92307692307692
+Loggerhead Shrike,Rodentia [rodents],1.2307692307692308
+Loggerhead Shrike,Unid. Aves,5.6923076923076925
+Loggerhead Shrike,Unid. Chordata,4.153846153846154
+Loggerhead Shrike,Unid. Mammalia,11.538461538461538
+Black-billed Magpie,Coleoptera [beetles],4.617142857142857
+Black-billed Magpie,Diptera [flies],1.6042857142857143
+Black-billed Magpie,Lepidoptera larva [caterpillars],3.0628571428571427
+Black-billed Magpie,"Orthoptera [grasshoppers, crickets, and katydids]",3.61
+Black-billed Magpie,"Poales [grasses, sedges, and allies]",1.9171428571428573
+Black-billed Magpie,Unid. Animalia,40.59142857142857
+Black-billed Magpie,Unid. Arthropoda,1.5357142857142858
+Black-billed Magpie,Unid. Magnoliopsida,17.994285714285716
+Black-billed Magpie,Unid. Mammalia,2.7657142857142856
+Black-billed Magpie,Unid. Tracheophyta,19.857142857142858
+Pygmy Nuthatch,Araneae [spiders],1
+Pygmy Nuthatch,Coleoptera [beetles],12
+Pygmy Nuthatch,"Hemiptera [true bugs, hoppers, aphids, and allies]",23
+Pygmy Nuthatch,"Hymenoptera [ants, bees, wasps, and sawflies]",38
+Pygmy Nuthatch,Lepidoptera larva [caterpillars],8
+Pygmy Nuthatch,Unid. Magnoliopsida,18
+Canyon Wren,Araneae [spiders],8.253968233333334
+Canyon Wren,Blattodea [cockroaches and termites],14.2857143
+Canyon Wren,Coleoptera [beetles],24.76190473333333
+Canyon Wren,"Hemiptera [true bugs, hoppers, aphids, and allies]",7.460317499999999
+Canyon Wren,"Hemiptera nymph [true bugs, hoppers, aphids, and allies]",1.4285714333333337
+Canyon Wren,"Hymenoptera [ants, bees, wasps, and sawflies]",15.873015866666664
+Canyon Wren,Lepidoptera [butterflies and moths],1.2698412666666663
+Canyon Wren,Lepidoptera larva [caterpillars],7.619047633333334
+Canyon Wren,Mantodea [mantises],6.666666666666667
+Canyon Wren,"Neuroptera [antlions, lacewings, and allies]",1.7460317666666665
+Canyon Wren,"Neuroptera larva [antlions, lacewings, and allies]",4.126984133333333
+Canyon Wren,Unid. Insecta,4.7619047666666665
+Gray Catbird,Araneae [spiders],6.1
+Gray Catbird,Coleoptera [beetles],56.10000000000001
+Gray Catbird,Coleoptera larva [beetles],1.5
+Gray Catbird,Diptera [flies],3
+Gray Catbird,Diptera larva [flies],3
+Gray Catbird,"Hemiptera [true bugs, hoppers, aphids, and allies]",3
+Gray Catbird,"Hymenoptera [ants, bees, wasps, and sawflies]",1.5
+Gray Catbird,Lepidoptera [butterflies and moths],7.6
+Gray Catbird,Lepidoptera larva [caterpillars],15.2
+Gray Catbird,"Orthoptera [grasshoppers, crickets, and katydids]",1.5
+Gray Catbird,Trichoptera larva [caddisflies],1.5
+Brewer's Sparrow,"Caryophyllales [pinks, cactuses, and allies]",1
+Brewer's Sparrow,Coleoptera [beetles],22.000000000000004
+Brewer's Sparrow,Lepidoptera larva [caterpillars],2
+Brewer's Sparrow,"Malpighiales [nances, willows, and allies]",1.6
+Brewer's Sparrow,"Orthoptera [grasshoppers, crickets, and katydids]",30.600000000000005
+Brewer's Sparrow,"Poales [grasses, sedges, and allies]",16.9
+Brewer's Sparrow,Unid. Non-biological,16
+Brewer's Sparrow,Unid. Unknown,9.4
+Lark Sparrow,"Orthoptera [grasshoppers, crickets, and katydids]",14.000000000000002
+Lark Sparrow,"Poales [grasses, sedges, and allies]",34
+Lark Sparrow,Unid. Insecta,13
+Lark Sparrow,Unid. Magnoliopsida,39
+Lesser Goldfinch,Unid. Animalia,2
+Lesser Goldfinch,Unid. Magnoliopsida,19.56
+Lesser Goldfinch,Unid. Tracheophyta,78
+Sharp-tailed Grouse,"Asterales [asters, bellflowers, fanflowers, and allies]",1.0285714285714287
+Sharp-tailed Grouse,"Fabales [legumes, milkworts, and allies]",8.464285714285714
+Sharp-tailed Grouse,"Malpighiales [nances, willows, and allies]",7.3357142857142845
+Sharp-tailed Grouse,"Orthoptera [grasshoppers, crickets, and katydids]",7.835714285714286
+Sharp-tailed Grouse,"Poales [grasses, sedges, and allies]",4.4071428571428575
+Sharp-tailed Grouse,"Rosales [roses, elms, figs, and allies]",32.528571428571425
+Sharp-tailed Grouse,"Solanales [nightshades, bindweeds, gooseweeds, and allies]",1.6857142857142855
+Sharp-tailed Grouse,Unid. Animalia,1.9285714285714288
+Sharp-tailed Grouse,Unid. Magnoliopsida,3.260714285714286
+Sharp-tailed Grouse,Unid. Tracheophyta,26.642857142857142
+Swainson's Hawk,Anseriformes [waterfowl],2.2716094642857145
+Swainson's Hawk,Coleoptera [beetles],1.0966816071428571
+Swainson's Hawk,Galliformes [landfowl],1.9013391785714284
+Swainson's Hawk,Lagomorpha [lagomorphs],8.16748195
+Swainson's Hawk,"Orthoptera [grasshoppers, crickets, and katydids]",7.663156157142857
+Swainson's Hawk,Passeriformes [perching birds],7.696066757142858
+Swainson's Hawk,Rodentia [rodents],38.74996057857143
+Swainson's Hawk,Squamata [squamates],12.743916228571427
+Swainson's Hawk,Unid. Amphibia,1.7285714285714284
+Swainson's Hawk,Unid. Animalia,10.531868128571428
+Swainson's Hawk,Unid. Aves,1.178880985714286
+Swainson's Hawk,Unid. Mammalia,4.585117250000001
+American Avocet,Unid. Animalia,64.00000000000001
+American Avocet,Unid. Tracheophyta,36
+Boreal Chickadee,Lepidoptera larva [caterpillars],22.5
+Boreal Chickadee,Unid. Arthropoda,71
+Boreal Chickadee,Unid. Chordata,3.5000000000000004
+Boreal Chickadee,Unid. Tracheophyta,3
+Northern Waterthrush,Araneae [spiders],4.08
+Northern Waterthrush,Coleoptera [beetles],27.4
+Northern Waterthrush,Diptera [flies],12.340000000000002
+Northern Waterthrush,Ephemeroptera [mayflies],2.72
+Northern Waterthrush,"Hemiptera [true bugs, hoppers, aphids, and allies]",1.6
+Northern Waterthrush,"Hymenoptera [ants, bees, wasps, and sawflies]",14.96
+Northern Waterthrush,Lepidoptera larva [caterpillars],1.28
+Northern Waterthrush,Trichoptera [caddisflies],2.2
+Northern Waterthrush,Unid. Clitellata,1.02
+Northern Waterthrush,Unid. Gastropoda,1.34
+Northern Waterthrush,Unid. Insecta,20
+Northern Waterthrush,Unid. Insecta egg;pupa,1.56
+Northern Waterthrush,Unid. Insecta larva,4.84
+Grasshopper Sparrow,Araneae [spiders],1.431818181818182
+Grasshopper Sparrow,Coleoptera [beetles],3.930909090909091
+Grasshopper Sparrow,"Hemiptera [true bugs, hoppers, aphids, and allies]",3.51
+Grasshopper Sparrow,Lepidoptera larva [caterpillars],24.95727272727273
+Grasshopper Sparrow,"Orthoptera [grasshoppers, crickets, and katydids]",23
+Grasshopper Sparrow,"Orthoptera nymph;adult [grasshoppers, crickets, and katydids]",2.2563636363636363
+Grasshopper Sparrow,"Poales [grasses, sedges, and allies]",7.636363636363638
+Grasshopper Sparrow,Unid. Animalia,13.636363636363637
+Grasshopper Sparrow,Unid. Magnoliopsida,3.9090909090909096
+Grasshopper Sparrow,Unid. Tracheophyta,13.636363636363637
+Bobolink,Coleoptera [beetles],4.35
+Bobolink,"Hymenoptera [ants, bees, wasps, and sawflies]",1.52
+Bobolink,Lepidoptera larva [caterpillars],2.6
+Bobolink,"Orthoptera [grasshoppers, crickets, and katydids]",2.31
+Bobolink,"Poales [grasses, sedges, and allies]",21.85
+Bobolink,Unid. Animalia,34.6
+Bobolink,Unid. Magnoliopsida,6.1
+Bobolink,Unid. Tracheophyta,25.4
+Ferruginous Hawk,Coleoptera [beetles],1.821923075
+Ferruginous Hawk,Lagomorpha [lagomorphs],14.756717965000002
+Ferruginous Hawk,Passeriformes [perching birds],6.807261080000001
+Ferruginous Hawk,Rodentia [rodents],58.082222475
+Ferruginous Hawk,Squamata [squamates],2.939619885
+Ferruginous Hawk,Unid. Aves,2.020335
+Ferruginous Hawk,Unid. Insecta,2.045
+Ferruginous Hawk,Unid. Mammalia,8.895
+Blue Jay,"Poales [grasses, sedges, and allies]",2.25
+Blue Jay,Unid. Animalia,17.7375
+Blue Jay,Unid. Arthropoda,24
+Blue Jay,Unid. Insecta,2.75
+Blue Jay,Unid. Magnoliopsida,7.5
+Blue Jay,Unid. Plantae,8.512500000000001
+Blue Jay,Unid. Tracheophyta,37.00000000000001
+Greater Sage-Grouse,"Asterales [asters, bellflowers, fanflowers, and allies]",70.2948717948718
+Greater Sage-Grouse,"Brassicales [mustards, capers, and allies]",1.0413846153846156
+Greater Sage-Grouse,Coleoptera [beetles],1.751410256410257
+Greater Sage-Grouse,"Fabales [legumes, milkworts, and allies]",3.730846153846154
+Greater Sage-Grouse,"Hymenoptera [ants, bees, wasps, and sawflies]",3.2375641025641024
+Greater Sage-Grouse,"Orthoptera [grasshoppers, crickets, and katydids]",2.4374358974358974
+Greater Sage-Grouse,"Poales [grasses, sedges, and allies]",1.6782051282051282
+Greater Sage-Grouse,Siphonophorae [siphonophores],1.198717948717949
+Greater Sage-Grouse,Unid. Magnoliopsida,3.1997435897435897
+Greater Sage-Grouse,Unid. Tracheophyta,9.717948717948715
+White-faced Ibis,Coleoptera larva;adult [beetles],1.2514285714285711
+White-faced Ibis,Diptera larva [flies],9.795714285714286
+White-faced Ibis,Unid. Animalia,1.8571428571428568
+White-faced Ibis,Unid. Arthropoda,27.571428571428577
+White-faced Ibis,Unid. Clitellata,2.0742857142857143
+White-faced Ibis,Unid. Gastropoda,37.50714285714286
+White-faced Ibis,Unid. Insecta,18.85714285714285
+Burrowing Owl,Coleoptera [beetles],38.60555555555556
+Burrowing Owl,"Orthoptera [grasshoppers, crickets, and katydids]",14.22777777777778
+Burrowing Owl,Rodentia [rodents],12.988888888888887
+Burrowing Owl,Scorpiones [scorpions],1
+Burrowing Owl,Unid. Animalia,5.050000000000001
+Burrowing Owl,Unid. Insecta,23.08888888888889
+Burrowing Owl,Unid. Mammalia,1.4555555555555555
+Northern Mockingbird,Coleoptera [beetles],2.9328571428571424
+Northern Mockingbird,"Hymenoptera [ants, bees, wasps, and sawflies]",2.7585714285714285
+Northern Mockingbird,Lepidoptera larva [caterpillars],3.6714285714285713
+Northern Mockingbird,"Orthoptera [grasshoppers, crickets, and katydids]",4.33
+Northern Mockingbird,Unid. Animalia,32.112857142857145
+Northern Mockingbird,Unid. Magnoliopsida,19.97
+Northern Mockingbird,Unid. Plantae,7.455714285714286
+Northern Mockingbird,Unid. Tracheophyta,25.428571428571423
+Tricolored Blackbird,Coleoptera [beetles],18.416666666666668
+Tricolored Blackbird,Coleoptera larva [beetles],3.4166666666666665
+Tricolored Blackbird,Diptera [flies],2.5000000000000004
+Tricolored Blackbird,"Geraniales [geraniums, bridal wreaths, and allies]",1.6916666666666669
+Tricolored Blackbird,Lepidoptera larva [caterpillars],10.133333333333333
+Tricolored Blackbird,Lepidoptera larva;adult,12.116666666666667
+Tricolored Blackbird,"Orthoptera [grasshoppers, crickets, and katydids]",2.066666666666667
+Tricolored Blackbird,"Poales [grasses, sedges, and allies]",17.2
+Tricolored Blackbird,Unid. Animalia,15.058333333333332
+Tricolored Blackbird,Unid. Magnoliopsida,10.675
+Tricolored Blackbird,Unid. Mollusca,1.7083333333333333
+Tricolored Blackbird,Unid. Non-biological,2.333333333333333

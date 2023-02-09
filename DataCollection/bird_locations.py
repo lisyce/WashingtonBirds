@@ -53,7 +53,8 @@ def bird_data_from_ecoregion(ecoregion: str) -> list[BirdLocation]:
 
         bird = {
             "name": row.th.a.string,
-            "birdweb_society_link": row.th.a['href']
+            "birdweb_society_link": row.th.a['href'],
+            "ecoregion": ecoregion
         }
 
         months = ['jan', 'feb', 'mar', 'apr', 'may', 'jun',
@@ -74,9 +75,9 @@ def main() -> None:
         region_data = bird_data_from_ecoregion(region)
         full_data.extend(region_data)
 
-    with open(OUTPUT_FILE, 'w', newline='') as csv_file:
+    with open(OUTPUT_FILE, 'w', newline='') as output:
         fields = full_data[0].keys()
-        writer = csv.DictWriter(csv_file, fieldnames=fields)
+        writer = csv.DictWriter(output, fieldnames=fields)
         writer.writeheader()
         writer.writerows(full_data)
 

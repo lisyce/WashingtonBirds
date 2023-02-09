@@ -1,0 +1,772 @@
+bird_name,item_taxon,diet_percentage
+Laysan Albatross,Arthropoda [arthropods],26.691665199999992
+Laysan Albatross,Chordata [chordates],2.1135164
+Laysan Albatross,Cnidaria [cnidarians],11.3857167
+Laysan Albatross,Mollusca [molluscs],58.667121300000005
+Laysan Albatross,Unid. Unknown,1.1419806
+Black-footed Albatross,Arthropoda [arthropods],2.900000000000001
+Black-footed Albatross,Chordata [chordates],70.8
+Black-footed Albatross,Heterokontophyta,3.75
+Black-footed Albatross,Mollusca [molluscs],16.1
+Black-footed Albatross,Unid. Unknown,5.55
+Northern Fulmar,Arthropoda [arthropods],46.65555555555555
+Northern Fulmar,Chordata [chordates],36.28888888888889
+Northern Fulmar,Mollusca [molluscs],17.433333333333334
+Northern Fulmar,Unid. Animalia,10.955555555555556
+Pink-footed Shearwater,Chordata [chordates],10.5
+Pink-footed Shearwater,Mollusca [molluscs],89.60000000000001
+Sooty Shearwater,Arthropoda [arthropods],35.60000000000001
+Sooty Shearwater,Chordata [chordates],44.34
+Sooty Shearwater,Mollusca [molluscs],18.6
+Short-tailed Shearwater,Arthropoda [arthropods],48.8
+Short-tailed Shearwater,Chordata [chordates],5.7
+Short-tailed Shearwater,Mollusca [molluscs],16.1
+Short-tailed Shearwater,Unid. Animalia,29.4
+Manx Shearwater,Mollusca [molluscs],100
+Fork-tailed Storm-Petrel,Arthropoda [arthropods],31.481968375
+Fork-tailed Storm-Petrel,Chordata [chordates],67.537068975
+Leach's Storm-Petrel,Arthropoda [arthropods],45.2735515
+Leach's Storm-Petrel,Chordata [chordates],22.9266185
+Leach's Storm-Petrel,Cnidaria [cnidarians],29.2508854
+Leach's Storm-Petrel,Unid. Animalia,1.6666666666666667
+Brandt's Cormorant,Chordata [chordates],97.7758620689655
+California Gull,Chordata [chordates],8.35
+California Gull,Mollusca [molluscs],38.9
+California Gull,Unid. Animalia,2.8000000000000003
+California Gull,Unid. Non-biological,50
+Herring Gull,Arthropoda [arthropods],5.25
+Herring Gull,Chordata [chordates],23.25
+Herring Gull,Unid. Animalia,66.5
+Herring Gull,Unid. Unknown,4.25
+Glaucous-winged Gull,Arthropoda [arthropods],3.333333333333333
+Glaucous-winged Gull,Chordata [chordates],70.36666666666667
+Glaucous-winged Gull,Echinodermata [echinoderms],5.1
+Glaucous-winged Gull,Mollusca [molluscs],21.66666666666667
+Black-legged Kittiwake,Arthropoda [arthropods],21.950000000000003
+Black-legged Kittiwake,Chordata [chordates],18.75
+Black-legged Kittiwake,Mollusca [molluscs],41.45
+Arctic Tern,Arthropoda [arthropods],6.2
+Arctic Tern,Chordata [chordates],92.5
+Arctic Tern,Mollusca [molluscs],1.2
+South Polar Skua,Arthropoda [arthropods],8.85
+South Polar Skua,Chordata [chordates],86.45
+South Polar Skua,Unid. Animalia,4.7
+Common Murre,Arthropoda [arthropods],27.250000000000004
+Common Murre,Chordata [chordates],64.95625
+Common Murre,Mollusca [molluscs],7.643749999999999
+Pigeon Guillemot,Arthropoda [arthropods],16.333333333333332
+Pigeon Guillemot,Chordata [chordates],71.33333333333333
+Ancient Murrelet,Arthropoda [arthropods],28.250000000000004
+Ancient Murrelet,Chordata [chordates],71.25
+Cassin's Auklet,Arthropoda [arthropods],72.26812500000001
+Cassin's Auklet,Chordata [chordates],16.3375
+Cassin's Auklet,Unid. Animalia,11.2
+Rhinoceros Auklet,Chordata [chordates],79.975
+Rhinoceros Auklet,Mollusca [molluscs],18.45
+Tufted Puffin,Annelida [annelids],3.5875
+Tufted Puffin,Chordata [chordates],89.80000000000001
+Tufted Puffin,Mollusca [molluscs],5.5625
+Greater White-fronted Goose,Tracheophyta [vascular plants],99.81285714285715
+Snow Goose,Tracheophyta [vascular plants],99.99363636363636
+Brant,Chlorophyta [green algae],58.571666666666665
+Brant,Tracheophyta [vascular plants],41.42833333333333
+Canada Goose,Tracheophyta [vascular plants],99.93636363636364
+Trumpeter Swan,Bryophyta [mosses],32
+Trumpeter Swan,Tracheophyta [vascular plants],67
+Tundra Swan,Arthropoda [arthropods],1.3
+Tundra Swan,Cyanobacteria,23.200000000000003
+Tundra Swan,Tracheophyta [vascular plants],75.5
+Wood Duck,Arthropoda [arthropods],9.374
+Wood Duck,Tracheophyta [vascular plants],80.819
+Wood Duck,Unid. Animalia,9.333000000000002
+Gadwall,Arthropoda [arthropods],5.990000000000001
+Gadwall,Chlorophyta [green algae],3.15875
+Gadwall,Tracheophyta [vascular plants],81.645
+Gadwall,Unid. Animalia,4.032500000000001
+Gadwall,Unid. Plantae,4
+Eurasian Wigeon,Charophyta [charophyte algae],1.2133333333333334
+Eurasian Wigeon,Chlorophyta [green algae],1.4400000000000002
+Eurasian Wigeon,Tracheophyta [vascular plants],97.34666666666664
+American Wigeon,Arthropoda [arthropods],5.735
+American Wigeon,Tracheophyta [vascular plants],85.1305
+American Wigeon,Unid. Animalia,4.2515
+American Wigeon,Unid. Plantae,2.992
+Mallard,Annelida [annelids],4.732222222222223
+Mallard,Arthropoda [arthropods],12.20222222222222
+Mallard,Mollusca [molluscs],5.108888888888888
+Mallard,Tracheophyta [vascular plants],73.50555555555555
+Mallard,Unid. Animalia,4.417777777777777
+Blue-winged Teal,Arthropoda [arthropods],18.862727272727277
+Blue-winged Teal,Charophyta [charophyte algae],8.960909090909091
+Blue-winged Teal,Mollusca [molluscs],11.205454545454549
+Blue-winged Teal,Tracheophyta [vascular plants],48.73818181818183
+Blue-winged Teal,Unid. Animalia,11.553636363636365
+Cinnamon Teal,Arthropoda [arthropods],22.6725
+Cinnamon Teal,Mollusca [molluscs],3.1375
+Cinnamon Teal,Tracheophyta [vascular plants],64.28750000000001
+Cinnamon Teal,Unid. Animalia,9.905
+Northern Shoveler,Arthropoda [arthropods],25.396666666666665
+Northern Shoveler,Charophyta [charophyte algae],2.8344444444444443
+Northern Shoveler,Mollusca [molluscs],16.894444444444442
+Northern Shoveler,Protozoa [protozoans],1.8144444444444443
+Northern Shoveler,Tracheophyta [vascular plants],32.36
+Northern Shoveler,Unid. Animalia,19.224444444444444
+Northern Pintail,Arthropoda [arthropods],4.285
+Northern Pintail,Mollusca [molluscs],3.2269999999999994
+Northern Pintail,Tracheophyta [vascular plants],81.27700000000002
+Northern Pintail,Unid. Animalia,11.196999999999996
+Green-winged Teal,Arthropoda [arthropods],10.356363636363636
+Green-winged Teal,Mollusca [molluscs],2.499090909090909
+Green-winged Teal,Tracheophyta [vascular plants],78.43
+Green-winged Teal,Unid. Animalia,4.369090909090909
+Green-winged Teal,Unid. Plantae,3.5909090909090904
+Canvasback,Arthropoda [arthropods],8.131333333333334
+Canvasback,Mollusca [molluscs],24.12133333333333
+Canvasback,Tracheophyta [vascular plants],61.99533333333332
+Canvasback,Unid. Animalia,5.566666666666666
+Redhead,Arthropoda [arthropods],16.775333333333336
+Redhead,Charophyta [charophyte algae],8.148
+Redhead,Mollusca [molluscs],1.1186666666666667
+Redhead,Tracheophyta [vascular plants],67.22399999999999
+Redhead,Unid. Animalia,5.566666666666666
+Ring-necked Duck,Annelida [annelids],2.245
+Ring-necked Duck,Arthropoda [arthropods],14.978333333333332
+Ring-necked Duck,Charophyta [charophyte algae],3.355
+Ring-necked Duck,Mollusca [molluscs],6.985833333333333
+Ring-necked Duck,Tracheophyta [vascular plants],70.15916666666668
+Ring-necked Duck,Unid. Animalia,10.6075
+Greater Scaup,Arthropoda [arthropods],2.9200000000000004
+Greater Scaup,Charophyta [charophyte algae],1.7292857142857143
+Greater Scaup,Chlorophyta [green algae],3.085714285714286
+Greater Scaup,Mollusca [molluscs],40.09071428571429
+Greater Scaup,Tracheophyta [vascular plants],29.78928571428571
+Greater Scaup,Unid. Animalia,17.57857142857143
+Greater Scaup,Unid. Plantae,4.508571428571428
+Lesser Scaup,Annelida [annelids],1.9909090909090912
+Lesser Scaup,Arthropoda [arthropods],35.795454545454554
+Lesser Scaup,Chordata [chordates],1.2363636363636366
+Lesser Scaup,Mollusca [molluscs],15.041818181818185
+Lesser Scaup,Tracheophyta [vascular plants],30.629090909090905
+Lesser Scaup,Unid. Animalia,14.909090909090908
+Harlequin Duck,Arthropoda [arthropods],21.382857142857144
+Harlequin Duck,Chlorophyta [green algae],5.6571428571428575
+Harlequin Duck,Chordata [chordates],13.497142857142858
+Harlequin Duck,Echinodermata [echinoderms],1.6414285714285717
+Harlequin Duck,Mollusca [molluscs],48.40714285714285
+Harlequin Duck,Unid. Animalia,5.171428571428571
+Harlequin Duck,Unid. Non-biological,3.128571428571429
+Surf Scoter,Arthropoda [arthropods],4.201111111111111
+Surf Scoter,Chordata [chordates],1.8966666666666667
+Surf Scoter,Mollusca [molluscs],43.97222222222221
+Surf Scoter,Tracheophyta [vascular plants],8.388888888888888
+Surf Scoter,Unid. Animalia,41.336666666666666
+White-winged Scoter,Arthropoda [arthropods],27.828750000000003
+White-winged Scoter,Mollusca [molluscs],19.935
+White-winged Scoter,Tracheophyta [vascular plants],5.47
+White-winged Scoter,Unid. Animalia,46.55125
+Black Scoter,Tracheophyta [vascular plants],6
+Black Scoter,Unid. Animalia,94
+Long-tailed Duck,Arthropoda [arthropods],52.68625
+Long-tailed Duck,Chordata [chordates],3.875000000000001
+Long-tailed Duck,Mollusca [molluscs],30.9375
+Long-tailed Duck,Unid. Animalia,12.5
+Bufflehead,Arthropoda [arthropods],37.322307692307696
+Bufflehead,Chordata [chordates],2.620769230769231
+Bufflehead,Mollusca [molluscs],15.439230769230772
+Bufflehead,Tracheophyta [vascular plants],18.114615384615384
+Bufflehead,Unid. Animalia,26.502307692307696
+Common Goldeneye,Arthropoda [arthropods],42.662666666666674
+Common Goldeneye,Chordata [chordates],12.202666666666666
+Common Goldeneye,Mollusca [molluscs],8.062666666666667
+Common Goldeneye,Tracheophyta [vascular plants],14.538000000000002
+Common Goldeneye,Unid. Animalia,22.532666666666668
+Barrow's Goldeneye,Arthropoda [arthropods],53.46347826086956
+Barrow's Goldeneye,Chordata [chordates],5.913043478260869
+Barrow's Goldeneye,Mollusca [molluscs],9.345217391304343
+Barrow's Goldeneye,Tracheophyta [vascular plants],14.843478260869569
+Barrow's Goldeneye,Unid. Animalia,15.252173913043482
+Barrow's Goldeneye,Unid. Plantae,1.1917391304347826
+Hooded Merganser,Arthropoda [arthropods],11.45
+Hooded Merganser,Chordata [chordates],87.554
+Common Merganser,Arthropoda [arthropods],1.5316666666666665
+Common Merganser,Chordata [chordates],98.46999999999998
+Red-breasted Merganser,Chordata [chordates],99.95
+Ruddy Duck,Annelida [annelids],2.1818181818181817
+Ruddy Duck,Arthropoda [arthropods],50.84545454545455
+Ruddy Duck,Tracheophyta [vascular plants],31.627272727272725
+Ruddy Duck,Unid. Animalia,14.8
+Ring-necked Pheasant,Arthropoda [arthropods],3.156229454545455
+Ring-necked Pheasant,Mollusca [molluscs],1.072151515151515
+Ring-necked Pheasant,Tracheophyta [vascular plants],94.42734627272723
+Ring-necked Pheasant,Unid. Animalia,1.377212121212121
+Ruffed Grouse,Tracheophyta [vascular plants],90.05404761904761
+Ruffed Grouse,Unid. Unknown,1.3619047619047615
+Wild Turkey,Arthropoda [arthropods],1.943125
+Wild Turkey,Tracheophyta [vascular plants],91.004375
+Wild Turkey,Unid. Animalia,6.87284375
+Mountain Quail,Tracheophyta [vascular plants],94.808
+Mountain Quail,Unid. Animalia,3.6000000000000005
+California Quail,Arthropoda [arthropods],3.702675437037037
+California Quail,Tracheophyta [vascular plants],85.94221344814814
+California Quail,Unid. Non-biological,9.22777777777778
+Red-throated Loon,Chordata [chordates],100
+Pied-billed Grebe,Arthropoda [arthropods],50
+Pied-billed Grebe,Chordata [chordates],49.99999999999999
+Horned Grebe,Annelida [annelids],2.51
+Horned Grebe,Arthropoda [arthropods],67.79499999999999
+Horned Grebe,Chordata [chordates],27.279999999999998
+Horned Grebe,Unid. Unknown,1.0699999999999998
+Red-necked Grebe,Arthropoda [arthropods],28.110000000000003
+Red-necked Grebe,Chordata [chordates],71.56142857142858
+Eared Grebe,Arthropoda [arthropods],98.15
+Eared Grebe,Tracheophyta [vascular plants],1.2
+Western Grebe,Arthropoda [arthropods],11.000000000000002
+Western Grebe,Chordata [chordates],81.5
+Western Grebe,Mollusca [molluscs],1
+Western Grebe,Nematoda [nematodes],3
+Western Grebe,Tracheophyta [vascular plants],4
+Western Grebe,Unid. Non-biological,6
+Brown Pelican,Chordata [chordates],99.625
+Double-crested Cormorant,Arthropoda [arthropods],3.185443786982248
+Double-crested Cormorant,Chordata [chordates],94.39999999999996
+Double-crested Cormorant,Unid. Animalia,2.2958579881656807
+Pelagic Cormorant,Arthropoda [arthropods],9.7
+Pelagic Cormorant,Chordata [chordates],90.3
+Great Blue Heron,Arthropoda [arthropods],32.5
+Great Blue Heron,Chordata [chordates],65.25
+Great Blue Heron,Mollusca [molluscs],1.37
+Great Egret,Arthropoda [arthropods],21.98333333333333
+Great Egret,Chordata [chordates],75.11666666666666
+Great Egret,Unid. Animalia,1.7666666666666668
+Green Heron,Arthropoda [arthropods],85.53
+Green Heron,Chordata [chordates],11.28
+Green Heron,Unid. Animalia,2.37
+Turkey Vulture,Arthropoda [arthropods],2.154992714285714
+Turkey Vulture,Chordata [chordates],94.89526234285717
+Turkey Vulture,Tracheophyta [vascular plants],1.261904757142857
+Turkey Vulture,Unid. Animalia,1.1095238142857142
+Osprey,Chordata [chordates],99.82222221111113
+White-tailed Kite,Chordata [chordates],99.5
+Bald Eagle,Chordata [chordates],98.79369682702703
+Northern Harrier,Arthropoda [arthropods],5.251515181818182
+Northern Harrier,Chordata [chordates],92.73259153636364
+Northern Harrier,Unid. Animalia,1.9522563727272728
+Sharp-shinned Hawk,Chordata [chordates],93.72777761666669
+Sharp-shinned Hawk,Unid. Animalia,6.25555555
+Cooper's Hawk,Chordata [chordates],97.81518947826088
+Cooper's Hawk,Unid. Animalia,2.019538378260869
+Northern Goshawk,Chordata [chordates],99.20320005
+Red-tailed Hawk,Chordata [chordates],97.34572894545455
+Red-tailed Hawk,Unid. Animalia,1.9730463393939397
+Rough-legged Hawk,Chordata [chordates],95.48763046666664
+Rough-legged Hawk,Unid. Animalia,4.267724866666666
+Golden Eagle,Chordata [chordates],100.4516756478261
+American Kestrel,Arthropoda [arthropods],6.030889893333335
+American Kestrel,Chordata [chordates],91.78340705333332
+American Kestrel,Unid. Animalia,2.32595652
+Merlin,Chordata [chordates],91.76665893333332
+Merlin,Unid. Animalia,8.233333333333333
+Gyrfalcon,Chordata [chordates],99.999996
+Peregrine Falcon,Chordata [chordates],98.84934287857143
+Peregrine Falcon,Unid. Animalia,1.4142857142857144
+Virginia Rail,Annelida [annelids],1.85
+Virginia Rail,Arthropoda [arthropods],65.95
+Virginia Rail,Chordata [chordates],1.22
+Virginia Rail,Mollusca [molluscs],2.2
+Virginia Rail,Tracheophyta [vascular plants],29.375
+Sora,Arthropoda [arthropods],14.131818181818184
+Sora,Mollusca [molluscs],1.813636363636364
+Sora,Tracheophyta [vascular plants],66.60000000000001
+Sora,Unid. Animalia,16.636363636363633
+American Coot,Arthropoda [arthropods],11.7
+American Coot,Charophyta [charophyte algae],8.272727272727273
+American Coot,Chlorophyta [green algae],1.0454545454545454
+American Coot,Mollusca [molluscs],2.581818181818182
+American Coot,Tracheophyta [vascular plants],71.35909090909091
+American Coot,Unid. Animalia,6.00909090909091
+Sandhill Crane,Annelida [annelids],17.607142857142858
+Sandhill Crane,Arthropoda [arthropods],7.7178571428571425
+Sandhill Crane,Mollusca [molluscs],4.464285714285714
+Sandhill Crane,Tracheophyta [vascular plants],63.32857142857142
+Sandhill Crane,Unid. Plantae,6.964285714285714
+Killdeer,Arthropoda [arthropods],72.18
+Killdeer,Mollusca [molluscs],9.51
+Killdeer,Tracheophyta [vascular plants],1.98
+Killdeer,Unid. Animalia,16.33
+Spotted Sandpiper,Arthropoda [arthropods],99.78
+Lesser Yellowlegs,Arthropoda [arthropods],100
+Red Knot,Arthropoda [arthropods],5.425000000000001
+Red Knot,Mollusca [molluscs],14.75
+Red Knot,Tracheophyta [vascular plants],11.3
+Red Knot,Unid. Animalia,68.525
+Semipalmated Sandpiper,Arthropoda [arthropods],31.932
+Semipalmated Sandpiper,Mollusca [molluscs],5.2
+Semipalmated Sandpiper,Tracheophyta [vascular plants],2.728
+Semipalmated Sandpiper,Unid. Animalia,60.1
+Least Sandpiper,Arthropoda [arthropods],100
+Pectoral Sandpiper,Arthropoda [arthropods],88.2
+Pectoral Sandpiper,Tracheophyta [vascular plants],10.5
+Sharp-tailed Sandpiper,Arthropoda [arthropods],79.60000000000001
+Sharp-tailed Sandpiper,Mollusca [molluscs],14.2
+Sharp-tailed Sandpiper,Tracheophyta [vascular plants],3.9
+Stilt Sandpiper,Arthropoda [arthropods],63
+Stilt Sandpiper,Mollusca [molluscs],7.1
+Stilt Sandpiper,Tracheophyta [vascular plants],29.9
+Short-billed Dowitcher,Arthropoda [arthropods],6.6
+Short-billed Dowitcher,Mollusca [molluscs],4
+Short-billed Dowitcher,Tracheophyta [vascular plants],9.22
+Short-billed Dowitcher,Unid. Animalia,80.14000000000001
+Long-billed Dowitcher,Arthropoda [arthropods],78.6
+Long-billed Dowitcher,Mollusca [molluscs],3.9
+Long-billed Dowitcher,Tracheophyta [vascular plants],14.000000000000002
+Long-billed Dowitcher,Unid. Animalia,3.2
+Wilson's Snipe,Annelida [annelids],1.8833333333333333
+Wilson's Snipe,Arthropoda [arthropods],16.05
+Wilson's Snipe,Mollusca [molluscs],1.1166666666666667
+Wilson's Snipe,Tracheophyta [vascular plants],23.3
+Wilson's Snipe,Unid. Animalia,57.21666666666666
+Franklin's Gull,Arthropoda [arthropods],43.4
+Franklin's Gull,Tracheophyta [vascular plants],5.5
+Franklin's Gull,Unid. Animalia,51.1
+Bonaparte's Gull,Annelida [annelids],9.5
+Bonaparte's Gull,Arthropoda [arthropods],83.1
+Bonaparte's Gull,Chordata [chordates],6.800000000000001
+Heermann's Gull,Annelida [annelids],4.7
+Heermann's Gull,Chordata [chordates],62.80000000000001
+Heermann's Gull,Mollusca [molluscs],32.6
+Common Tern,Chordata [chordates],100
+Marbled Murrelet,Arthropoda [arthropods],10.33
+Marbled Murrelet,Chordata [chordates],80.05999999999999
+Marbled Murrelet,Mollusca [molluscs],8.353333333333333
+Rock Pigeon,Tracheophyta [vascular plants],99.5
+Band-tailed Pigeon,Tracheophyta [vascular plants],97.55
+Mourning Dove,Tracheophyta [vascular plants],100.99666666666666
+Barn Owl,Chordata [chordates],99.3923849264706
+Western Screech-Owl,Arthropoda [arthropods],21.786250000000003
+Western Screech-Owl,Chordata [chordates],76.97375000000002
+Western Screech-Owl,Unid. Animalia,1.0137500000000002
+Great Horned Owl,Arthropoda [arthropods],2.5570256539823006
+Great Horned Owl,Chordata [chordates],97.16747924955752
+Snowy Owl,Chordata [chordates],100.03333325555556
+Northern Pygmy-Owl,Chordata [chordates],80.13333200000001
+Northern Pygmy-Owl,Unid. Animalia,20.466666666666665
+Spotted Owl,Arthropoda [arthropods],5.606022411764705
+Spotted Owl,Chordata [chordates],92.54768911764704
+Spotted Owl,Unid. Animalia,1.968347323529412
+Barred Owl,Arthropoda [arthropods],4.1000943727272725
+Barred Owl,Chordata [chordates],94.42054127272726
+Barred Owl,Unid. Animalia,1.4363636363636365
+Short-eared Owl,Chordata [chordates],99.02381649999998
+Northern Saw-whet Owl,Chordata [chordates],99.17
+Common Nighthawk,Arthropoda [arthropods],72.26159014999998
+Common Nighthawk,Unid. Animalia,27.750000000000004
+Black Swift,Arthropoda [arthropods],68
+Black Swift,Unid. Animalia,32
+Vaux's Swift,Arthropoda [arthropods],99.99997345
+Anna's Hummingbird,Arthropoda [arthropods],99.6
+Red-breasted Sapsucker,Arthropoda [arthropods],55.8875
+Red-breasted Sapsucker,Tracheophyta [vascular plants],21.5
+Red-breasted Sapsucker,Unid. Animalia,22.075
+Downy Woodpecker,Arthropoda [arthropods],86.3333334
+Downy Woodpecker,Tracheophyta [vascular plants],12.966666666666669
+Hairy Woodpecker,Arthropoda [arthropods],50.393
+Hairy Woodpecker,Tracheophyta [vascular plants],15.284
+Hairy Woodpecker,Unid. Animalia,33.11
+Hairy Woodpecker,Unid. Plantae,1.13
+Northern Flicker,Arthropoda [arthropods],51.13926307272728
+Northern Flicker,Tracheophyta [vascular plants],23.14207265454545
+Northern Flicker,Unid. Animalia,22.81818181818182
+Northern Flicker,Unid. Plantae,2.809573363636364
+Pileated Woodpecker,Arthropoda [arthropods],28.816666666666663
+Pileated Woodpecker,Tracheophyta [vascular plants],23.03333333333333
+Pileated Woodpecker,Unid. Animalia,48.16666666666666
+Olive-sided Flycatcher,Arthropoda [arthropods],66.2
+Olive-sided Flycatcher,Unid. Animalia,33.333333333333336
+Western Wood-Pewee,Arthropoda [arthropods],99.9825
+Willow Flycatcher,Arthropoda [arthropods],70
+Willow Flycatcher,Unid. Unknown,30
+Hammond's Flycatcher,Arthropoda [arthropods],95.1
+Hammond's Flycatcher,Tracheophyta [vascular plants],2.9000000000000004
+Pacific-slope Flycatcher,Arthropoda [arthropods],99.5
+Northern Shrike,Arthropoda [arthropods],63.940000000000005
+Northern Shrike,Chordata [chordates],36.09
+Cassin's Vireo,Arthropoda [arthropods],96
+Cassin's Vireo,Tracheophyta [vascular plants],2
+Hutton's Vireo,Arthropoda [arthropods],96.615
+Hutton's Vireo,Tracheophyta [vascular plants],1.885
+Warbling Vireo,Arthropoda [arthropods],42.63777777777778
+Warbling Vireo,Tracheophyta [vascular plants],12.62888888888889
+Warbling Vireo,Unid. Animalia,42.355555555555554
+Red-eyed Vireo,Arthropoda [arthropods],51.4122
+Red-eyed Vireo,Tracheophyta [vascular plants],22.582
+Red-eyed Vireo,Unid. Animalia,26.4
+Steller's Jay,Arthropoda [arthropods],70.00000010000001
+Steller's Jay,Tracheophyta [vascular plants],25.5
+Steller's Jay,Unid. Non-biological,4.5
+California Scrub-Jay,Arthropoda [arthropods],99.63333333333333
+Clark's Nutcracker,Arthropoda [arthropods],13.3
+Clark's Nutcracker,Chordata [chordates],3.1
+Clark's Nutcracker,Tracheophyta [vascular plants],83.60000000000001
+American Crow,Arthropoda [arthropods],16.98952380952381
+American Crow,Tracheophyta [vascular plants],65.38428571428572
+American Crow,Unid. Animalia,14.039047619047622
+American Crow,Unid. Plantae,3.2857142857142856
+Northwestern Crow,Annelida [annelids],5.4845891
+Northwestern Crow,Arthropoda [arthropods],64.55531669999998
+Northwestern Crow,Chordata [chordates],4.5164189
+Northwestern Crow,Echinodermata [echinoderms],7.585250199999999
+Northwestern Crow,Mollusca [molluscs],12.2294462
+Northwestern Crow,Unid. Animalia,4.514394
+Common Raven,Arthropoda [arthropods],53.996138
+Common Raven,Chordata [chordates],28.3
+Common Raven,Tracheophyta [vascular plants],17.596565000000002
+Horned Lark,Arthropoda [arthropods],37.59666666666667
+Horned Lark,Tracheophyta [vascular plants],57.15
+Horned Lark,Unid. Animalia,5.333333333333333
+Purple Martin,Arthropoda [arthropods],99.69696445
+Tree Swallow,Arthropoda [arthropods],57.60000000000001
+Tree Swallow,Tracheophyta [vascular plants],22.25
+Tree Swallow,Unid. Animalia,20
+Violet-green Swallow,Arthropoda [arthropods],100.0000002
+Northern Rough-winged Swallow,Arthropoda [arthropods],100.11370566666665
+Cliff Swallow,Arthropoda [arthropods],97.1
+Cliff Swallow,Unid. Animalia,1.5
+Barn Swallow,Arthropoda [arthropods],97.61
+Barn Swallow,Unid. Animalia,2.333333333333333
+Black-capped Chickadee,Arthropoda [arthropods],43.94
+Black-capped Chickadee,Tracheophyta [vascular plants],17.1125
+Black-capped Chickadee,Unid. Animalia,38.87500000000001
+Chestnut-backed Chickadee,Arthropoda [arthropods],16.857142857142858
+Chestnut-backed Chickadee,Tracheophyta [vascular plants],18.45714285714286
+Chestnut-backed Chickadee,Unid. Animalia,57.97142857142857
+Bushtit,Arthropoda [arthropods],89.63333333333333
+Red-breasted Nuthatch,Arthropoda [arthropods],83.00920239999999
+Red-breasted Nuthatch,Tracheophyta [vascular plants],16.990797549999996
+Brown Creeper,Arthropoda [arthropods],85.6
+Brown Creeper,Tracheophyta [vascular plants],8
+Brown Creeper,Unid. Animalia,6.4
+Bewick's Wren,Arthropoda [arthropods],96
+Bewick's Wren,Tracheophyta [vascular plants],3
+House Wren,Arthropoda [arthropods],96.165
+House Wren,Tracheophyta [vascular plants],3.71
+Marsh Wren,Arthropoda [arthropods],98
+Marsh Wren,Tracheophyta [vascular plants],2
+Golden-crowned Kinglet,Arthropoda [arthropods],79.55714285714285
+Golden-crowned Kinglet,Tracheophyta [vascular plants],10.014285714285716
+Golden-crowned Kinglet,Unid. Animalia,10.357142857142858
+Ruby-crowned Kinglet,Arthropoda [arthropods],60
+Ruby-crowned Kinglet,Tracheophyta [vascular plants],5.3375
+Ruby-crowned Kinglet,Unid. Animalia,34.5
+Western Bluebird,Arthropoda [arthropods],51.42333333333333
+Western Bluebird,Tracheophyta [vascular plants],9.511111111111113
+Western Bluebird,Unid. Animalia,38.78888888888888
+Townsend's Solitaire,Arthropoda [arthropods],13.343750000000002
+Townsend's Solitaire,Tracheophyta [vascular plants],55.0125
+Townsend's Solitaire,Unid. Animalia,31.299999999999997
+Swainson's Thrush,Arthropoda [arthropods],76.55000000000001
+Swainson's Thrush,Mollusca [molluscs],1.1
+Swainson's Thrush,Tracheophyta [vascular plants],22.4
+Hermit Thrush,Arthropoda [arthropods],36.46818181818182
+Hermit Thrush,Tracheophyta [vascular plants],29.80818181818182
+Hermit Thrush,Unid. Animalia,33.72363636363636
+American Robin,Arthropoda [arthropods],32.15833333333333
+American Robin,Tracheophyta [vascular plants],43.125
+American Robin,Unid. Animalia,24.70833333333333
+Varied Thrush,Arthropoda [arthropods],3.78
+Varied Thrush,Tracheophyta [vascular plants],75.84
+Varied Thrush,Unid. Animalia,20.42
+European Starling,Arthropoda [arthropods],17.78148103333334
+European Starling,Tracheophyta [vascular plants],49.45381589166667
+European Starling,Unid. Animalia,25.31085833333333
+European Starling,Unid. Unknown,7.227272500000001
+American Pipit,Arthropoda [arthropods],92.69148379999996
+American Pipit,Tracheophyta [vascular plants],6.961294049999999
+Cedar Waxwing,Arthropoda [arthropods],17.169999999999998
+Cedar Waxwing,Tracheophyta [vascular plants],79.890102455
+Cedar Waxwing,Unid. Animalia,2.95
+Orange-crowned Warbler,Arthropoda [arthropods],92.8
+Orange-crowned Warbler,Tracheophyta [vascular plants],6.7
+Yellow Warbler,Arthropoda [arthropods],86.13125000000001
+Yellow Warbler,Tracheophyta [vascular plants],1.2125
+Yellow Warbler,Unid. Animalia,10
+Yellow Warbler,Unid. Non-biological,2.5
+Yellow-rumped Warbler,Arthropoda [arthropods],74.93846153846154
+Yellow-rumped Warbler,Tracheophyta [vascular plants],9.276923076923076
+Yellow-rumped Warbler,Unid. Animalia,15.853846153846153
+Black-throated Gray Warbler,Unid. Animalia,100
+Townsend's Warbler,Arthropoda [arthropods],95.5
+Townsend's Warbler,Tracheophyta [vascular plants],3.95
+Hermit Warbler,Tracheophyta [vascular plants],7.9
+Hermit Warbler,Unid. Animalia,90.6
+Hermit Warbler,Unid. Non-biological,1.5
+Palm Warbler,Arthropoda [arthropods],99.99999995
+MacGillivray's Warbler,Arthropoda [arthropods],42.00000000000001
+MacGillivray's Warbler,Tracheophyta [vascular plants],7.049999999999999
+MacGillivray's Warbler,Unid. Animalia,50
+Common Yellowthroat,Arthropoda [arthropods],99.6666664
+Wilson's Warbler,Arthropoda [arthropods],77.3
+Wilson's Warbler,Tracheophyta [vascular plants],6.583333333333333
+Wilson's Warbler,Unid. Animalia,15.95
+Western Tanager,Arthropoda [arthropods],66.85000000000001
+Western Tanager,Tracheophyta [vascular plants],8.925
+Western Tanager,Unid. Animalia,23.75
+Spotted Towhee,Arthropoda [arthropods],6
+Spotted Towhee,Tracheophyta [vascular plants],61.600000000000016
+Spotted Towhee,Unid. Animalia,17.666666666666668
+Chipping Sparrow,Arthropoda [arthropods],30.5875
+Chipping Sparrow,Tracheophyta [vascular plants],48.2625
+Chipping Sparrow,Unid. Animalia,20.625
+Savannah Sparrow,Arthropoda [arthropods],12.903333333333334
+Savannah Sparrow,Mollusca [molluscs],1.2983333333333331
+Savannah Sparrow,Tracheophyta [vascular plants],63.298333333333325
+Savannah Sparrow,Unid. Animalia,22.5
+Fox Sparrow,Tracheophyta [vascular plants],67.35
+Fox Sparrow,Unid. Animalia,31.25
+Fox Sparrow,Unid. Non-biological,1.4
+Song Sparrow,Arthropoda [arthropods],24.630180345454548
+Song Sparrow,Tracheophyta [vascular plants],44.54254692727273
+Song Sparrow,Unid. Animalia,9.818181818181818
+Lincoln's Sparrow,Arthropoda [arthropods],40
+Lincoln's Sparrow,Tracheophyta [vascular plants],58.00000000000001
+Lincoln's Sparrow,Unid. Animalia,2
+Swamp Sparrow,Arthropoda [arthropods],9.64
+Swamp Sparrow,Tracheophyta [vascular plants],57.96
+Swamp Sparrow,Unid. Animalia,32.4
+White-throated Sparrow,Arthropoda [arthropods],17
+White-throated Sparrow,Tracheophyta [vascular plants],81
+White-throated Sparrow,Unid. Animalia,2
+White-crowned Sparrow,Arthropoda [arthropods],21.000000000000004
+White-crowned Sparrow,Tracheophyta [vascular plants],75.00000000000001
+White-crowned Sparrow,Unid. Animalia,4
+Golden-crowned Sparrow,Tracheophyta [vascular plants],98.525
+Golden-crowned Sparrow,Unid. Animalia,1.25
+Dark-eyed Junco,Arthropoda [arthropods],24.70625
+Dark-eyed Junco,Tracheophyta [vascular plants],58.01875000000001
+Dark-eyed Junco,Unid. Animalia,16.349999999999998
+Dark-eyed Junco,Unid. Non-biological,1.11875
+Lapland Longspur,Arthropoda [arthropods],24.608815425
+Lapland Longspur,Tracheophyta [vascular plants],71.997933875
+Lapland Longspur,Unid. Animalia,3.25
+Snow Bunting,Tracheophyta [vascular plants],95.5
+Snow Bunting,Unid. Animalia,4.5
+Black-headed Grosbeak,Arthropoda [arthropods],55.40312500000001
+Black-headed Grosbeak,Tracheophyta [vascular plants],24.08020833333333
+Black-headed Grosbeak,Unid. Animalia,20.28333333333333
+Lazuli Bunting,Tracheophyta [vascular plants],58.5
+Lazuli Bunting,Unid. Animalia,41.5
+Red-winged Blackbird,Arthropoda [arthropods],78.21058502
+Red-winged Blackbird,Tracheophyta [vascular plants],8.173
+Red-winged Blackbird,Unid. Non-biological,12.336
+Western Meadowlark,Arthropoda [arthropods],63.16533333333336
+Western Meadowlark,Tracheophyta [vascular plants],28.27777777777778
+Western Meadowlark,Unid. Animalia,8.206666666666669
+Yellow-headed Blackbird,Arthropoda [arthropods],75.35498745
+Yellow-headed Blackbird,Tracheophyta [vascular plants],23.273273250000003
+Yellow-headed Blackbird,Unid. Unknown,1.371742
+Brewer's Blackbird,Arthropoda [arthropods],28.30263157894737
+Brewer's Blackbird,Tracheophyta [vascular plants],57.42105263157894
+Brewer's Blackbird,Unid. Animalia,10.910526315789474
+Brown-headed Cowbird,Arthropoda [arthropods],4.026923076923077
+Brown-headed Cowbird,Tracheophyta [vascular plants],83.72807235384614
+Brown-headed Cowbird,Unid. Animalia,8.799600384615385
+Brown-headed Cowbird,Unid. Unknown,3.287712307692308
+Bullock's Oriole,Arthropoda [arthropods],34
+Bullock's Oriole,Tracheophyta [vascular plants],6.366666666666667
+Bullock's Oriole,Unid. Animalia,45.16666666666666
+Pine Grosbeak,Arthropoda [arthropods],33.2
+Pine Grosbeak,Tracheophyta [vascular plants],63.19999999999999
+Pine Grosbeak,Unid. Animalia,3.6
+Purple Finch,Arthropoda [arthropods],45.5
+Purple Finch,Tracheophyta [vascular plants],38.14999999999999
+Purple Finch,Unid. Animalia,11.95
+Purple Finch,Unid. Non-biological,4.425
+House Finch,Tracheophyta [vascular plants],97.1
+House Finch,Unid. Animalia,3.0800000000000005
+Red Crossbill,Tracheophyta [vascular plants],94.75
+Red Crossbill,Unid. Animalia,5.25
+Pine Siskin,Arthropoda [arthropods],20
+Pine Siskin,Tracheophyta [vascular plants],50.4
+Pine Siskin,Unid. Animalia,29.600000000000005
+American Goldfinch,Arthropoda [arthropods],25.78571428571429
+American Goldfinch,Tracheophyta [vascular plants],62.57142857142857
+American Goldfinch,Unid. Animalia,8.142857142857144
+Evening Grosbeak,Arthropoda [arthropods],16.666666666666668
+Evening Grosbeak,Tracheophyta [vascular plants],53.333333333333336
+Evening Grosbeak,Unid. Animalia,29.55
+House Sparrow,Arthropoda [arthropods],32.5
+House Sparrow,Tracheophyta [vascular plants],66.5
+House Sparrow,Unid. Animalia,1
+Ross's Goose,Tracheophyta [vascular plants],100
+Northern Bobwhite,Arthropoda [arthropods],8.914833333333334
+Northern Bobwhite,Tracheophyta [vascular plants],82.13094444444445
+Northern Bobwhite,Unid. Animalia,3.913333333333333
+Northern Bobwhite,Unid. Unknown,3.629444444444444
+Yellow-billed Loon,Chordata [chordates],99.34
+Clark's Grebe,Arthropoda [arthropods],100
+American White Pelican,Arthropoda [arthropods],22.956666666666667
+American White Pelican,Chordata [chordates],70.87333333333332
+American White Pelican,Unid. Animalia,9.836666666666666
+Cattle Egret,Annelida [annelids],4.761081081081081
+Cattle Egret,Arthropoda [arthropods],63.50013513513511
+Cattle Egret,Chordata [chordates],28.875675675675684
+Cattle Egret,Unid. Animalia,2.284864864864865
+Black-crowned Night-Heron,Arthropoda [arthropods],7.15
+Black-crowned Night-Heron,Chordata [chordates],93
+Red-shouldered Hawk,Arthropoda [arthropods],3.8366666666666673
+Red-shouldered Hawk,Chordata [chordates],68.79858156666668
+Red-shouldered Hawk,Unid. Animalia,26.334751766666667
+Prairie Falcon,Arthropoda [arthropods],2.7
+Prairie Falcon,Chordata [chordates],91.55000025
+Prairie Falcon,Unid. Animalia,5.6375
+Black Tern,Arthropoda [arthropods],70.5
+Black Tern,Chordata [chordates],19
+Black Tern,Unid. Animalia,10.5
+Great Gray Owl,Chordata [chordates],99.9150987
+Long-eared Owl,Chordata [chordates],99.4271558981132
+Dusky Flycatcher,Arthropoda [arthropods],90.3
+Dusky Flycatcher,Tracheophyta [vascular plants],8.200000000000001
+Say's Phoebe,Arthropoda [arthropods],99.42
+Western Kingbird,Arthropoda [arthropods],91.07
+Western Kingbird,Tracheophyta [vascular plants],8.690000000000001
+Eastern Kingbird,Arthropoda [arthropods],22.2325
+Eastern Kingbird,Tracheophyta [vascular plants],16.767500000000002
+Eastern Kingbird,Unid. Animalia,61
+Bank Swallow,Arthropoda [arthropods],99
+Bank Swallow,Tracheophyta [vascular plants],1
+White-breasted Nuthatch,Arthropoda [arthropods],24.7
+White-breasted Nuthatch,Tracheophyta [vascular plants],71.80000000000001
+White-breasted Nuthatch,Unid. Animalia,3.5000000000000004
+Nashville Warbler,Arthropoda [arthropods],81.82166666666667
+Nashville Warbler,Tracheophyta [vascular plants],5.75
+Nashville Warbler,Unid. Animalia,12.341666666666669
+Yellow-breasted Chat,Arthropoda [arthropods],8
+Yellow-breasted Chat,Tracheophyta [vascular plants],92
+American Tree Sparrow,Arthropoda [arthropods],2.6655555555555552
+American Tree Sparrow,Tracheophyta [vascular plants],71.22277777777776
+American Tree Sparrow,Unid. Animalia,26.03333333333333
+Vesper Sparrow,Arthropoda [arthropods],49.47218678749999
+Vesper Sparrow,Tracheophyta [vascular plants],41.27781315
+Vesper Sparrow,Unid. Non-biological,4.125
+Vesper Sparrow,Unid. Unknown,5.875
+Harris's Sparrow,Arthropoda [arthropods],2
+Harris's Sparrow,Tracheophyta [vascular plants],92
+Harris's Sparrow,Unid. Animalia,6
+Rusty Blackbird,Arthropoda [arthropods],7.666666666666667
+Rusty Blackbird,Tracheophyta [vascular plants],32.69696966666667
+Rusty Blackbird,Unid. Animalia,48.02020166666667
+Rusty Blackbird,Unid. Unknown,11.616161666666668
+Common Redpoll,Tracheophyta [vascular plants],99.66666666666669
+Spruce Grouse,Arthropoda [arthropods],2.2546153846153847
+Spruce Grouse,Tracheophyta [vascular plants],96.17538461538462
+White-tailed Ptarmigan,Bryophyta [mosses],3.75
+White-tailed Ptarmigan,Tracheophyta [vascular plants],97.5
+American Three-toed Woodpecker,Arthropoda [arthropods],94.85
+American Three-toed Woodpecker,Tracheophyta [vascular plants],4.92
+Black-backed Woodpecker,Arthropoda [arthropods],95.97469999999998
+Black-backed Woodpecker,Unid. Animalia,4
+Mountain Chickadee,Arthropoda [arthropods],94.62
+Mountain Chickadee,Unid. Unknown,4.35
+Mountain Bluebird,Arthropoda [arthropods],94.93907565
+Mountain Bluebird,Unid. Animalia,5.01092435
+Veery,Arthropoda [arthropods],84.53333333333333
+Veery,Mollusca [molluscs],2.3000000000000003
+Veery,Tracheophyta [vascular plants],12.866666666666667
+American Redstart,Arthropoda [arthropods],96.7
+American Redstart,Unid. Animalia,2.4285714285714284
+White-winged Crossbill,Arthropoda [arthropods],25
+White-winged Crossbill,Tracheophyta [vascular plants],68
+White-winged Crossbill,Unid. Animalia,7.000000000000001
+Boreal Owl,Arthropoda [arthropods],4.75
+Boreal Owl,Chordata [chordates],94.4999755
+Lewis's Woodpecker,Arthropoda [arthropods],12.709309666666668
+Lewis's Woodpecker,Tracheophyta [vascular plants],61.02402433333333
+Lewis's Woodpecker,Unid. Animalia,26.33333333333333
+Rock Wren,Arthropoda [arthropods],99.73357025
+Chukar,Arthropoda [arthropods],10.283333333333331
+Chukar,Chordata [chordates],1.3333333333333333
+Chukar,Tracheophyta [vascular plants],88.39999999999999
+Gray Partridge,Arthropoda [arthropods],1.5507142857142855
+Gray Partridge,Tracheophyta [vascular plants],79.79
+Gray Partridge,Unid. Animalia,1.2142857142857142
+Gray Partridge,Unid. Non-biological,17.405714285714286
+Dusky Grouse,Arthropoda [arthropods],5.891000000000004
+Dusky Grouse,Tracheophyta [vascular plants],92.7
+Dusky Grouse,Unid. Animalia,1.4
+Flammulated Owl,Unid. Animalia,100
+Common Poorwill,Arthropoda [arthropods],100
+Acorn Woodpecker,Arthropoda [arthropods],28.93167685
+Acorn Woodpecker,Tracheophyta [vascular plants],69.42276516666668
+Acorn Woodpecker,Unid. Plantae,1.628891
+Williamson's Sapsucker,Arthropoda [arthropods],89.4
+Williamson's Sapsucker,Tracheophyta [vascular plants],10.375
+White-headed Woodpecker,Arthropoda [arthropods],92.07499985
+White-headed Woodpecker,Tracheophyta [vascular plants],7.399999999999999
+Least Flycatcher,Arthropoda [arthropods],84.186
+Least Flycatcher,Tracheophyta [vascular plants],11.014
+Least Flycatcher,Unid. Animalia,4.8
+Ash-throated Flycatcher,Arthropoda [arthropods],96.1522472
+Ash-throated Flycatcher,Tracheophyta [vascular plants],3.92
+Loggerhead Shrike,Arthropoda [arthropods],70.92307692307693
+Loggerhead Shrike,Chordata [chordates],22.61538461538462
+Black-billed Magpie,Arthropoda [arthropods],14.948571428571425
+Black-billed Magpie,Chordata [chordates],4.105714285714286
+Black-billed Magpie,Tracheophyta [vascular plants],39.76857142857144
+Black-billed Magpie,Unid. Animalia,40.59142857142857
+Pygmy Nuthatch,Arthropoda [arthropods],82
+Pygmy Nuthatch,Tracheophyta [vascular plants],18
+Canyon Wren,Arthropoda [arthropods],100.00000003333334
+Gray Catbird,Arthropoda [arthropods],14.871428571428572
+Gray Catbird,Tracheophyta [vascular plants],61.70000000000001
+Gray Catbird,Unid. Animalia,23.285714285714285
+Brewer's Sparrow,Arthropoda [arthropods],55.40000000000001
+Brewer's Sparrow,Tracheophyta [vascular plants],19.8
+Brewer's Sparrow,Unid. Non-biological,16
+Brewer's Sparrow,Unid. Unknown,9.4
+Lark Sparrow,Arthropoda [arthropods],27
+Lark Sparrow,Tracheophyta [vascular plants],73
+Lesser Goldfinch,Tracheophyta [vascular plants],97.56
+Lesser Goldfinch,Unid. Animalia,2
+Sharp-tailed Grouse,Arthropoda [arthropods],9.328571428571427
+Sharp-tailed Grouse,Tracheophyta [vascular plants],87.90357142857144
+Sharp-tailed Grouse,Unid. Animalia,1.9285714285714288
+Swainson's Hawk,Arthropoda [arthropods],9.318471764285716
+Swainson's Hawk,Chordata [chordates],80.13537440714288
+Swainson's Hawk,Unid. Animalia,10.531868128571428
+American Avocet,Tracheophyta [vascular plants],36
+American Avocet,Unid. Animalia,64.00000000000001
+Boreal Chickadee,Arthropoda [arthropods],93.5
+Boreal Chickadee,Chordata [chordates],3.5000000000000004
+Boreal Chickadee,Tracheophyta [vascular plants],3
+Northern Waterthrush,Annelida [annelids],1.02
+Northern Waterthrush,Arthropoda [arthropods],95.4
+Northern Waterthrush,Mollusca [molluscs],1.34
+Grasshopper Sparrow,Annelida [annelids],1.219512
+Grasshopper Sparrow,Arthropoda [arthropods],80.2804885
+Grasshopper Sparrow,Tracheophyta [vascular plants],18.5
+Bobolink,Arthropoda [arthropods],12.000000000000002
+Bobolink,Tracheophyta [vascular plants],53.470000000000006
+Bobolink,Unid. Animalia,34.6
+Ferruginous Hawk,Arthropoda [arthropods],4.121923075
+Ferruginous Hawk,Chordata [chordates],95.46107107000002
+Blue Jay,Arthropoda [arthropods],27
+Blue Jay,Tracheophyta [vascular plants],46.75
+Blue Jay,Unid. Animalia,17.7375
+Blue Jay,Unid. Plantae,8.512500000000001
+Greater Sage-Grouse,Arthropoda [arthropods],8.075897435897437
+Greater Sage-Grouse,Cnidaria [cnidarians],1.198717948717949
+Greater Sage-Grouse,Tracheophyta [vascular plants],92.41907692307691
+White-faced Ibis,Annelida [annelids],2.162857142857143
+White-faced Ibis,Arthropoda [arthropods],58.471428571428575
+White-faced Ibis,Mollusca [molluscs],37.50714285714286
+White-faced Ibis,Unid. Animalia,1.8571428571428568
+Burrowing Owl,Arthropoda [arthropods],78.31666666666666
+Burrowing Owl,Chordata [chordates],16.51166666666667
+Burrowing Owl,Unid. Animalia,5.050000000000001
+Northern Mockingbird,Arthropoda [arthropods],34.734763
+Northern Mockingbird,Tracheophyta [vascular plants],57.6890519
+Northern Mockingbird,Unid. Unknown,7.392776500000001
+Tricolored Blackbird,Arthropoda [arthropods],51.18333333333333
+Tricolored Blackbird,Mollusca [molluscs],1.7083333333333333
+Tricolored Blackbird,Tracheophyta [vascular plants],29.89166666666667
+Tricolored Blackbird,Unid. Animalia,15.058333333333332
+Tricolored Blackbird,Unid. Non-biological,2.333333333333333
