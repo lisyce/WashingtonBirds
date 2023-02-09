@@ -17,6 +17,7 @@ ECOREGIONS = [
     'columbia_plateau'
 ]
 
+
 class BirdLocation(TypedDict):
     name: str
     birdweb_society_link: str
@@ -34,8 +35,11 @@ class BirdLocation(TypedDict):
     nov_abundance: str
     dec_abundance: str
 
+
 def bird_data_from_ecoregion(ecoregion: str) -> list[BirdLocation]:
-    html = requests.get('http://becomewww.birdweb.org/BIRDWEB/ecoregion/sites/{}/site'.format(ecoregion)).text
+    html = requests.get('http://becomewww.birdweb.org/BIRDWEB/' +
+                        'ecoregion/sites/{}/site'.format(ecoregion)).text
+
     soup = BeautifulSoup(html, 'html.parser')
 
     all_birds = []
@@ -51,15 +55,17 @@ def bird_data_from_ecoregion(ecoregion: str) -> list[BirdLocation]:
             "name": row.th.a.string,
             "birdweb_society_link": row.th.a['href']
         }
-        
-        months = ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec']
+
+        months = ['jan', 'feb', 'mar', 'apr', 'may', 'jun',
+                  'jul', 'aug', 'sep', 'oct', 'nov', 'dec']
         abundances = [td.string.strip() for td in row.find_all('td')]
         for month, abundance in zip(months, abundances):
             bird[month + '_abundance'] = abundance
-             
+
         all_birds.append(bird)
 
     return all_birds
+
 
 def main() -> None:
     full_data = []
@@ -73,7 +79,6 @@ def main() -> None:
         writer = csv.DictWriter(csv_file, fieldnames=fields)
         writer.writeheader()
         writer.writerows(full_data)
-
 
 
 if __name__ == '__main__':
