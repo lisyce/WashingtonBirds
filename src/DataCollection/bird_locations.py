@@ -1,40 +1,10 @@
 import requests
 import csv
 from bs4 import BeautifulSoup
-from typing import TypedDict
+from constants import ECOREGIONS, MONTHS
+from models import BirdLocation
 
 OUTPUT_FILE = './output/bird-locations.csv'
-ECOREGIONS = [
-    'oceanic',
-    'pacific_northwest_coast',
-    'puget_trough',
-    'north_cascades',
-    'west_cascades',
-    'east_cascades',
-    'okanogan',
-    'canadian_rockies',
-    'blue_mountains',
-    'columbia_plateau'
-]
-
-
-class BirdLocation(TypedDict):
-    name: str
-    birdweb_society_link: str
-    ecoregion: str
-    jan_abundance: str
-    feb_abundance: str
-    mar_abundance: str
-    apr_abundance: str
-    may_abundance: str
-    jun_abundance: str
-    jul_abundance: str
-    aug_abundance: str
-    sep_abundance: str
-    oct_abundance: str
-    nov_abundance: str
-    dec_abundance: str
-
 
 def bird_data_from_ecoregion(ecoregion: str) -> list[BirdLocation]:
     html = requests.get('http://becomewww.birdweb.org/BIRDWEB/' +
@@ -57,10 +27,8 @@ def bird_data_from_ecoregion(ecoregion: str) -> list[BirdLocation]:
             "ecoregion": ecoregion
         }
 
-        months = ['jan', 'feb', 'mar', 'apr', 'may', 'jun',
-                  'jul', 'aug', 'sep', 'oct', 'nov', 'dec']
         abundances = [td.string.strip() for td in row.find_all('td')]
-        for month, abundance in zip(months, abundances):
+        for month, abundance in zip(MONTHS.keys(), abundances):
             bird[month + '_abundance'] = abundance
 
         all_birds.append(bird)

@@ -1,32 +1,15 @@
 import requests
 import csv
 import time
-from typing import TypedDict
-from enum import Enum
 import pandas as pd
-
-
-class Classifications(Enum):
-    KINGDOM = 'kingdom'
-    PHYLUM = 'phylum'
-    CLASS = 'class'
-    ORDER = 'order'
-    SUBORDER = 'suborder'
-    FAMILY = 'family'
-    GENUS = 'genus'
-    SPECIES = 'species'
+from constants import Classifications
+from models import BirdDiet
 
 
 # OUTPUT_FILE from bird_locations.py
 INPUT_FILE = './output/bird-locations.csv'
 OUTPUT_FILE = './output/bird-diets-by-order.csv'
 SELECTED_PREY_CLASSIFICATION = Classifications.ORDER
-
-
-class BirdDiet(TypedDict):
-    bird_name: str
-    item_taxon: str
-    diet_percentage: float
 
 
 def diet_for_bird(bird_name: str) -> list[BirdDiet] | None:
