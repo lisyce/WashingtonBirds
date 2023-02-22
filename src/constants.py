@@ -19,12 +19,20 @@ MONTHS = [
     'jul', 'aug', 'sep', 'oct', 'nov', 'dec'
 ]
 
+SEASONS = {
+    'wi': ['dec', 'jan', 'feb'],
+    'sp': ['mar', 'apr', 'may'],
+    'su': ['jun', 'jul', 'aug'],
+    'au': ['sep', 'oct', 'nov']
+}
+
 ABUNDANCES = {
     'C': 4,
     'F': 3,
     'U': 2,
     'R': 1,
-    'I': 0
+    'I': 0,
+    'nan': 0
 }
 
 class Classifications(Enum):
