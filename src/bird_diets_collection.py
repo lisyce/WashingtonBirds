@@ -7,8 +7,8 @@ from models import BirdDiet
 
 
 # OUTPUT_FILE from bird_locations.py
-INPUT_FILE = './output/bird-locations.csv'
-OUTPUT_FILE = './output/bird-diets-by-order.csv'
+INPUT_FILE = 'data/bird-locations1.csv'
+OUTPUT_FILE = 'data/bird-diets-by-order1.csv'
 SELECTED_PREY_CLASSIFICATION = Classifications.ORDER
 
 

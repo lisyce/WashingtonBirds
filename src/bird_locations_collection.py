@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from constants import ECOREGIONS, MONTHS
 from models import BirdLocation
 
-OUTPUT_FILE = './output/bird-locations.csv'
+OUTPUT_FILE = 'data/bird-locations1.csv'
 
 def bird_data_from_ecoregion(ecoregion: str) -> list[BirdLocation]:
     html = requests.get('http://becomewww.birdweb.org/BIRDWEB/' +
@@ -28,7 +28,7 @@ def bird_data_from_ecoregion(ecoregion: str) -> list[BirdLocation]:
         }
 
         abundances = [td.string.strip() for td in row.find_all('td')]
-        for month, abundance in zip(MONTHS.keys(), abundances):
+        for month, abundance in zip(MONTHS, abundances):
             bird[month + '_abundance'] = abundance
 
         all_birds.append(bird)

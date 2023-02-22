@@ -14,18 +14,17 @@ ECOREGIONS = [
     'columbia_plateau'
 ]
 
-MONTHS = {
-    'jan': 1,
-    'feb': 2,
-    'mar': 3,
-    'apr': 4,
-    'may': 5,
-    'jun': 6,
-    'aug': 7,
-    'sep': 8,
-    'oct': 9,
-    'nov': 10,
-    'dec': 11
+MONTHS = [
+    'jan', 'feb', 'mar', 'apr', 'may', 'jun',
+    'jul', 'aug', 'sep', 'oct', 'nov', 'dec'
+]
+
+ABUNDANCES = {
+    'C': 4,
+    'F': 3,
+    'U': 2,
+    'R': 1,
+    'I': 0
 }
 
 class Classifications(Enum):
