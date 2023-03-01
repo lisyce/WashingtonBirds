@@ -26,14 +26,14 @@ def compute_bird_frequencies(birds: pd.DataFrame) -> pd.DataFrame:
 
 # assumes input df has the columns provided by compute_bird_frequencies
 def bird_diversity(locations: pd.DataFrame) -> None:
-    # compute mean bird frequencies in each ecoregion
-    mean_wi_freq = locations.groupby('ecoregion')['wi_freq'].mean()
-    mean_sp_freq = locations.groupby('ecoregion')['sp_freq'].mean()
-    mean_su_freq = locations.groupby('ecoregion')['su_freq'].mean()
-    mean_au_freq = locations.groupby('ecoregion')['au_freq'].mean()
+    # compute sum of bird frequencies in each ecoregion ("bird frequency index")
+    wi_freq = locations.groupby('ecoregion')['wi_freq'].sum()
+    sp_freq = locations.groupby('ecoregion')['sp_freq'].sum()
+    su_freq = locations.groupby('ecoregion')['su_freq'].sum()
+    au_freq = locations.groupby('ecoregion')['au_freq'].sum()
 
     # put all these "frequencies by region" series into one nice df
-    freq_df = pd.concat([mean_wi_freq, mean_sp_freq, mean_su_freq, mean_au_freq], axis=1)
+    freq_df = pd.concat([wi_freq, sp_freq, su_freq, au_freq], axis=1)
     print(freq_df)
 
 def main() -> None:
