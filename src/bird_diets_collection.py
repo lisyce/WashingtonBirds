@@ -7,8 +7,8 @@ from models import BirdDiet
 
 
 # OUTPUT_FILE from bird_locations.py
-INPUT_FILE = 'data/bird-locations1.csv'
-OUTPUT_FILE = 'data/bird-diets-by-order1.csv'
+INPUT_FILE = 'data/bird-locations.csv'
+OUTPUT_FILE = 'data/bird-diets-by-order.csv'
 SELECTED_PREY_CLASSIFICATION = Classifications.ORDER
 
 
@@ -44,13 +44,13 @@ def diet_for_bird(bird_name: str) -> list[BirdDiet] | None:
 
     for food in data:
         # if this food doesn't have data in the metric we picked, skip it
-        if not food[diet_percentage] or float(food[diet_percentage]) < 1:
+        if not food[diet_percentage]:
             continue
 
         bird_diet_record = {
             "bird_name": bird_name,
             "item_taxon": food['taxon'],
-            "diet_percentage": food[diet_percentage]
+            "diet_percentage": round(float(food[diet_percentage]), 2)
         }
         results.append(bird_diet_record)
 
@@ -71,7 +71,6 @@ def main() -> None:
             time.sleep(2)
 
         records = diet_for_bird(bird)
-        print(records)
         output_data.extend(records)
 
     with open(OUTPUT_FILE, 'w', newline='') as output:

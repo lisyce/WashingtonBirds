@@ -1,10 +1,11 @@
 # The Data
 
-> **DataCollection/output/bird-diets-by-\<classification>.csv**
+> **DataCollection/output/bird-diets-by-\order.csv**
 > 
-> Records of each bird name, an item found in their diet, and the percentage of their diet made of that item. Each has 280 unique species.
+> Records of each bird name, an item found in their diet, and the percentage of their diet made of that item.
 >
-> Any items under 1% of the diet are not included. Classification csv's exist for class, order, and phylum.
+> Figures are rounded to two decimal places. Any food item that starts with "Unid." means that the specific
+> species is unidentified.
 >
 > From [The Avian Diet Database](https://aviandiet.unc.edu/)
 
