@@ -1,8 +1,9 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import numpy as np
 import math
-from constants import ABUNDANCES, MONTHS, SEASONS
+from constants import ABUNDANCES, MONTHS, SEASONS, ECOREGIONS
 
 BIRD_LOCS = 'data/bird-locations.csv'
 BIRD_DIETS = 'data/bird-diets-by-order.csv'
@@ -27,17 +28,36 @@ def compute_bird_frequencies(birds: pd.DataFrame) -> pd.DataFrame:
 # assumes input df has the columns provided by compute_bird_frequencies
 def bird_diversity(locations: pd.DataFrame) -> None:
     # compute sum of bird frequencies in each ecoregion ("bird frequency index")
-    wi_freq = locations.groupby('ecoregion')['wi_freq'].sum()
     sp_freq = locations.groupby('ecoregion')['sp_freq'].sum()
     su_freq = locations.groupby('ecoregion')['su_freq'].sum()
     au_freq = locations.groupby('ecoregion')['au_freq'].sum()
+    wi_freq = locations.groupby('ecoregion')['wi_freq'].sum()
 
-    # put all these "frequencies by region" series into one nice df
-    freq_df = pd.concat([wi_freq, sp_freq, su_freq, au_freq], axis=1)
-    print(freq_df)
+    # do some df reshaping so we can graph it
+    reshaped_df = sp_freq.to_frame().reset_index()
+    reshaped_df['su_freq'] = su_freq.values
+    reshaped_df['au_freq'] = au_freq.values
+    reshaped_df['wi_freq'] = wi_freq.values
+
+    # plot the 10 lines with varying line styles
+    x_labels = ['Spring', 'Summer', 'Autumn', 'Winter']
+    linestyles = ['-', '--', '-.']
+
+    for i in range(len(reshaped_df)):
+        label = reshaped_df.loc[i, 'ecoregion'].replace('_', ' ').title()
+        plt.plot(x_labels, reshaped_df.loc[i, 'sp_freq':],
+                 label=label, linestyle=linestyles[i % 3])
+
+    plt.legend(bbox_to_anchor=(1.05, 1))
+    plt.title("Bird Frequency Index of Each Ecoregion by Season")
+    plt.xlabel("Season")
+    plt.ylabel("Bird Frequency Index")
+    
+    plt.savefig('charts/seasonal_bird_diversity.png', bbox_inches='tight')
 
 def main() -> None:
     sns.set()
+    sns.set_style('ticks')
 
     locations = pd.read_csv(BIRD_LOCS)
     locations = compute_bird_frequencies(locations)
