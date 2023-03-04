@@ -1,0 +1,36 @@
+bird_name,item_taxon,diet_percentage
+Albatross,Anthoathecatae,11.3857167
+Albatross,Euphausiacea [krill],24.1179478
+Albatross,Teuthida,3.5793422
+Albatross,Unid. Animalia,3.54535
+Crow,Clupeiformes [herrings],11.11111111111111
+Crow,Decapoda [decapods],12.411111111111111
+Crow,Euphausiacea [krill],19.188888888888883
+Crow,Gadiformes [cods],1.5
+Crow,Isopoda [isopods],2.333333333333334
+Crow,Lophogastrida,4
+Crow,Unid. Animalia,3.54535
+Crow,Myctophiformes [lanternfishes],5.7888888888888905
+Crow,Perciformes [perch-like fishes],11.11111111111111
+Crow,Teuthida,9.855555555555556
+Loon,Clupeiformes [herrings],8.9
+Loon,Teuthida,83.8
+Eagle,Clupeiformes [herrings],10.02
+Eagle,Euphausiacea [krill],32.08
+Eagle,Myctophiformes [lanternfishes],10.38
+Eagle,Scorpaeniformes [mail-cheeked fishes],10.859999999999998
+Eagle,Stomatopoda [mantis shrimps],1.52
+Eagle,Stomiiformes,10.28
+Eagle,Teuthida,8.32
+Eagle,Unid. Animalia,3.54535
+Sparrow,Amphipoda [amphipods],13
+Sparrow,Teuthida,16.1
+Hummingbird,Teuthida,100
+Hawk,Amphipoda [amphipods],5.909698275
+Hawk,Calanoida [calanoid copepods],12.9091823375
+Hawk,Euphausiacea [krill],10.938375125
+Hawk,Myctophiformes [lanternfishes],64.1311781625
+Owl,Amphipoda [amphipods],10
+Owl,Euphausiacea [krill],28.785097033333333
+Owl,Myctophiformes [lanternfishes],18.333333333333336
+Owl,Amphipoda [amphipods],5.909
