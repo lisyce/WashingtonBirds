@@ -19,12 +19,14 @@ def get_total_birds(location_data, diet_data) -> list:
     birds_diet_data = diet_data['bird_name'].unique()
     return [len(birds_location_data),len(birds_diet_data)]
 
+
 def get_total_foods(diet_data) -> int:
     '''
     Gets the total number of different foods/orders in the diet data set
     '''
     foods = diet_data['item_taxon'].unique()
     return len(foods)
+
 
 def get_average_foods(diet_data) -> float:
     '''
@@ -35,6 +37,7 @@ def get_average_foods(diet_data) -> float:
     birds_ave = birds.mean()
     return birds_ave
 
+
 def ecoregion_diversity(location_data) -> pd.DataFrame:
     '''
     Gets the total number of birds in each ecoregion using the
@@ -42,6 +45,7 @@ def ecoregion_diversity(location_data) -> pd.DataFrame:
     '''
     birds = location_data.groupby('ecoregion')['name'].count().reset_index()
     return birds
+
 
 def ecoregion_common() -> int:
     '''
@@ -55,6 +59,7 @@ def ecoregion_common() -> int:
     birds = birds[mask_common]
     birds = birds.groupby('ecoregion')['name'].count()
     return birds
+
 
 def birds_replaced_floats(location_data) -> pd.DataFrame:
     '''
@@ -70,6 +75,7 @@ def birds_replaced_floats(location_data) -> pd.DataFrame:
     birds = birds.fillna(0)
     return birds
 
+
 def birds_replaced(location_data) -> pd.DataFrame:
     '''
     replaces values in our location data, and calculates if a bird appears
@@ -82,6 +88,7 @@ def birds_replaced(location_data) -> pd.DataFrame:
     birds = birds.replace('R', 1)
     birds = birds.fillna(0)
     return birds
+
 
 def bird_scores() -> pd.DataFrame:
     ''''
@@ -99,6 +106,7 @@ def bird_scores() -> pd.DataFrame:
     return birds[['name', 'spring', 'summer', 'fall', 'winter',
                     'ecoregion']]
 
+
 def data_diet_summarized(location_data, diet_data) -> pd.Series:
     '''
     Merges the location and diet dataset, joined by
@@ -112,6 +120,7 @@ def data_diet_summarized(location_data, diet_data) -> pd.Series:
     birds = birds.groupby('ecoregion')[
         'item_taxon'].agg(lambda x: x.value_counts().index[0:3])
     return birds
+
 
 def loc_and_diet(location_data, diet_data) -> None:
     '''
@@ -135,6 +144,7 @@ def loc_and_diet(location_data, diet_data) -> None:
     plt.show()
     plt.savefig('Birds and Diet by Region.png')
 
+
 def plot() -> None:
     '''
     Makes a bar plot colored by season with ecoregion on the x axis and
@@ -152,19 +162,32 @@ def plot() -> None:
     plt.show()
     plt.savefig('Number of Bird Species by Region and Season.png')
 
+
+def calls_for_writeup(info: str) -> None:
+    #Commands Needed For Presentation:
+    # print(info.loc_and_diet())
+    # print(info.plot())
+    # print('Total birds in [location, diet] data set:' + str(info.get_total_birds()))
+    # print('Total foods/different orders in the diet data set:' + str(info.get_total_foods()))
+
+    # print('Total average different orders per bird in the diet data set:' + str(info.get_average_foods()))
+
+    # print('Number of birds per region, counting only birds with an annual score above 15:' + 
+          # str(info.ecoregion_common()))
+    # print('Number of birds per region' + str(info.ecoregion_diversity()))
+    ## most popular foods = info.data_diet_summarized()
+    pass
+
 def main():
     diet_data = pd.read_csv(BIRD_DIET_DATA)
     no_Unid = diet_data['item_taxon'].str.contains('Unid.') == False
     diet_data = diet_data[no_Unid]
     location_data = pd.read_csv(BIRD_LOCATION_DATA)
     '''
-    info = Basic_Info(DIET_TEST_DATA, LOCATION_TEST_DATA)
-    asserts_equals_testing(info)
     info = Basic_Info(BIRD_DIET_DATA, BIRD_LOCATION_DATA)
     calls_for_writeup(info)
     '''
     # print(pd.read_csv(LOCATION_TEST_DATA))
-
 
 
 if __name__ == '__main__':
