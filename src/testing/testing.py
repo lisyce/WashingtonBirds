@@ -4,8 +4,7 @@ Final Project CSE163
 Part 1/2 for Basic Stats
 '''
 import pandas as pd
-
-from basic_stats import Basic_Info
+from .. import basic_stats as Basic_Info
 BIRD_DIET_DATA = "../data/bird-diets-by-order.csv"
 BIRD_LOCATION_DATA = "../data/bird-locations.csv"
 LOCATION_TEST_DATA = 'test_data_location.csv'
@@ -61,6 +60,8 @@ def main():
     info = Basic_Info(BIRD_DIET_DATA, BIRD_LOCATION_DATA)
     calls_for_writeup(info)
     # print(pd.read_csv(LOCATION_TEST_DATA))
+    expected_ecoregion_df = pd.read_csv('ecoregion_diversity_testing.csv')
+    print(expected_ecoregion_df.to_dict())
 
 
 
