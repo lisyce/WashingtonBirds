@@ -3,6 +3,8 @@ import numpy as np
 import pandas as pd
 from typing import Any, TypedDict
 
+TOLERANCE = 0.001
+
 def check_approx_equals(expected: Any, received: Any) -> bool:
     """
     Checks received against expected, and returns whether or
