@@ -3,13 +3,13 @@ Kreslyn Hinds
 Final Project CSE163
 '''
 import pandas as pd
-import data_analysis.basic_stats as basic_stats
+import basic_stats
 from utils.cse163_utils import assert_equals
 
-BIRD_DIET_DATA = "../data_collection/data/bird-diets-by-order.csv"
-BIRD_LOCATION_DATA = "../data_collection/data/bird-locations.csv"
-LOCATION_TEST_DATA = 'test_data_location.csv'
-DIET_TEST_DATA = 'test_data_diet.csv'
+BIRD_DIET_DATA = "data/bird-diets-by-order.csv"
+BIRD_LOCATION_DATA = "data/bird-locations.csv"
+LOCATION_TEST_DATA = 'testing_data/test_data_location.csv'
+DIET_TEST_DATA = 'testing_data/test_data_diet.csv'
 
 def asserts_equals_testing(location_data, diet_data) -> None:
     '''
@@ -49,7 +49,7 @@ def main():
     asserts_equals_testing(location_data, diet_data)
     '''
     
-    expected_ecoregion_df = pd.read_csv('ecoregion_diversity_testing.csv')
+    expected_ecoregion_df = pd.read_csv('testing_data/ecoregion_diversity_testing.csv')
     print(expected_ecoregion_df.to_dict())
 
 

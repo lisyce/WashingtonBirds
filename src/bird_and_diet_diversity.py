@@ -4,8 +4,8 @@ import seaborn as sns
 import math
 from utils.constants import MONTHS, ABUNDANCES, SEASONS
 
-BIRD_LOCS = '../data_collection/data/bird-locations.csv'
-BIRD_DIETS = '../data_collection/data/bird-diets-by-order.csv'
+BIRD_LOCS = 'data/bird-locations.csv'
+BIRD_DIETS = 'data/bird-diets-by-order.csv'
 
 def compute_bird_frequencies(birds: pd.DataFrame) -> pd.DataFrame:
     # replace all 'I' values with NaN and filter for birds that are at least rare in one month
