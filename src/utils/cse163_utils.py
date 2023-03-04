@@ -1,7 +1,7 @@
 import math
 import numpy as np
 import pandas as pd
-from typing import Any, TypedDict
+from typing import Any
 
 TOLERANCE = 0.001
 

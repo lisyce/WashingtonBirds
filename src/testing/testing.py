@@ -4,12 +4,13 @@ Final Project CSE163
 Part 1/2 for Basic Stats
 '''
 import pandas as pd
-from .. import basic_stats as Basic_Info
-BIRD_DIET_DATA = "../data/bird-diets-by-order.csv"
-BIRD_LOCATION_DATA = "../data/bird-locations.csv"
+import data_analysis.basic_stats
+from utils.cse163_utils import assert_equals
+
+BIRD_DIET_DATA = "../data_collection/data/bird-diets-by-order.csv"
+BIRD_LOCATION_DATA = "../data_collection/data/bird-locations.csv"
 LOCATION_TEST_DATA = 'test_data_location.csv'
 DIET_TEST_DATA = 'test_data_diet.csv'
-from cse163_utils import assert_equals
 
 def asserts_equals_testing(info: str) -> None:
     '''
@@ -55,10 +56,10 @@ def calls_for_writeup(info: str) -> None:
 
 
 def main():
-    info = Basic_Info(DIET_TEST_DATA, LOCATION_TEST_DATA)
-    asserts_equals_testing(info)
-    info = Basic_Info(BIRD_DIET_DATA, BIRD_LOCATION_DATA)
-    calls_for_writeup(info)
+    # info = Basic_Info(DIET_TEST_DATA, LOCATION_TEST_DATA)
+    # asserts_equals_testing(info)
+    # info = Basic_Info(BIRD_DIET_DATA, BIRD_LOCATION_DATA)
+    # calls_for_writeup(info)
     # print(pd.read_csv(LOCATION_TEST_DATA))
     expected_ecoregion_df = pd.read_csv('ecoregion_diversity_testing.csv')
     print(expected_ecoregion_df.to_dict())

@@ -6,8 +6,9 @@ diet has no UNIDs.
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-BIRD_DIET_DATA = "data/bird-diets-by-order.csv"
-BIRD_LOCATION_DATA = "data/bird-locations.csv"
+
+BIRD_DIET_DATA = "../data_collection/data/bird-diets-by-order.csv"
+BIRD_LOCATION_DATA = "../data_collection/data/bird-locations.csv"
 
 
 def get_total_birds(location_data, diet_data) -> list:

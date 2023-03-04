@@ -1,8 +1,8 @@
 import requests
 import csv
 from bs4 import BeautifulSoup
-from constants import ECOREGIONS, MONTHS
-from models import BirdLocation
+from utils.constants import ECOREGIONS, MONTHS
+from utils.models import BirdLocation
 
 OUTPUT_FILE = 'data/bird-locations1.csv'
 

@@ -2,8 +2,8 @@ import requests
 import csv
 import time
 import pandas as pd
-from constants import Classifications
-from models import BirdDiet
+from utils.constants import Classifications
+from utils.models import BirdDiet
 
 
 # OUTPUT_FILE from bird_locations.py

@@ -1,12 +1,11 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import numpy as np
 import math
-from constants import ABUNDANCES, MONTHS, SEASONS, ECOREGIONS
+from utils.constants import MONTHS, ABUNDANCES, SEASONS
 
-BIRD_LOCS = 'data/bird-locations.csv'
-BIRD_DIETS = 'data/bird-diets-by-order.csv'
+BIRD_LOCS = '../data_collection/data/bird-locations.csv'
+BIRD_DIETS = '../data_collection/data/bird-diets-by-order.csv'
 
 def compute_bird_frequencies(birds: pd.DataFrame) -> pd.DataFrame:
     # replace all 'I' values with NaN and filter for birds that are at least rare in one month
@@ -26,7 +25,7 @@ def compute_bird_frequencies(birds: pd.DataFrame) -> pd.DataFrame:
     return filtered
 
 # assumes input df has the columns provided by compute_bird_frequencies
-def bird_diversity(locations: pd.DataFrame) -> None:
+def plot_seasonal_bird_diversity(locations: pd.DataFrame) -> None:
     # compute sum of bird frequencies in each ecoregion ("bird frequency index")
     sp_freq = locations.groupby('ecoregion')['sp_freq'].sum()
     su_freq = locations.groupby('ecoregion')['su_freq'].sum()
@@ -49,11 +48,18 @@ def bird_diversity(locations: pd.DataFrame) -> None:
                  label=label, linestyle=linestyles[i % 3])
 
     plt.legend(bbox_to_anchor=(1.05, 1))
-    plt.title("Bird Frequency Index of Each Ecoregion by Season")
-    plt.xlabel("Season")
-    plt.ylabel("Bird Frequency Index")
+    plt.title('Bird Frequency Index of Each Ecoregion by Season')
+    plt.xlabel('Season')
+    plt.ylabel('Bird Frequency Index')
     
     plt.savefig('charts/seasonal_bird_diversity.png', bbox_inches='tight')
+
+# assumes locations df has the columns provided by compute_bird_frequencies
+def plot_seasonal_diet_diversity(locations: pd.DataFrame, diets: pd.DataFrame) -> None:
+    expect = {
+        ""
+    }
+
 
 def main() -> None:
     sns.set()
@@ -62,9 +68,9 @@ def main() -> None:
     locations = pd.read_csv(BIRD_LOCS)
     locations = compute_bird_frequencies(locations)
 
-    # diets = pd.read_csv(BIRD_DIETS)
+    diets = pd.read_csv(BIRD_DIETS)
 
-    bird_diversity(locations)
+    plot_seasonal_bird_diversity(locations)
 
 
 if __name__ == '__main__':
