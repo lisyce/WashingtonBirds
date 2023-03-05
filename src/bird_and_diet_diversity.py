@@ -2,7 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import math
-from utils.constants import MONTHS, ABUNDANCES, SEASONS
+import numpy as np
+from utils.constants import MONTHS, ABUNDANCES, SEASONS, ECOREGIONS
 
 BIRD_LOCS = 'data/bird-locations.csv'
 BIRD_DIETS = 'data/bird-diets-by-order.csv'
@@ -55,11 +56,46 @@ def plot_seasonal_bird_diversity(locations: pd.DataFrame) -> None:
     plt.savefig('charts/seasonal_bird_diversity.png', bbox_inches='tight')
 
 # assumes locations df has the columns provided by compute_bird_frequencies
-def plot_seasonal_diet_diversity(locations: pd.DataFrame, diets: pd.DataFrame) -> None:
-    expect = {
-        ""
-    }
+def plot_seasonal_diet_diversity(locations: pd.DataFrame, diets: pd.DataFrame):
+    unique_bird_locs = locations.drop_duplicates(subset=['name'])
+    merged = diets.merge(unique_bird_locs, left_on='bird_name', right_on='name', how='left')
 
+    # drop unidentified food rows for this analysis
+    identified = ~merged['item_taxon'].str.startswith('Unid.')
+    merged = merged[identified]
+    
+    food_counts = merged.groupby('bird_name')['item_taxon'].count().to_frame().reset_index()
+    food_counts.rename(columns={'item_taxon': 'unique_food_count'}, inplace=True)
+
+    # weighted average = sum(# unique foods for bird * bfi for bird) / sum(bfi for bird)
+    seasonal_bfis = locations.loc[:, ['name', 'ecoregion', 'wi_freq', 'sp_freq', 'su_freq', 'au_freq']]
+    food_and_bfi_data = food_counts.merge(seasonal_bfis, left_on='bird_name', right_on='name', how='left')
+    # print(food_and_bfi_data)
+    avgs = weighted_avg(food_and_bfi_data)
+    
+    # need to graph now
+
+    
+# takes in df and returns weighted avg of number of unique foods per bird for each ecoregion each season as df
+def weighted_avg(df: pd.DataFrame) -> pd.DataFrame | None:
+    result = df['ecoregion'].dropna().drop_duplicates().to_frame().reset_index(drop=True)
+    result['sp_diet_wavg'] = np.nan
+    result['su_diet_wavg'] = np.nan
+    result['au_diet_wavg'] = np.nan
+    result['wi_diet_wavg'] = np.nan
+
+
+    for ecoregion in ECOREGIONS:
+        # filter to just that ecoregion
+        filtered = df[df['ecoregion'] == ecoregion]
+
+        # find a weighted avg for each season
+        for season in SEASONS.keys():
+            diet_wavg = (filtered[season + '_freq'] * filtered['unique_food_count']).sum() / filtered[season + '_freq'].sum()
+            # result.loc[row, season + '_diet_wavg'] = diet_wavg
+            idx = result[result['ecoregion'] == ecoregion].index
+            result.loc[idx, season + '_diet_wavg'] = diet_wavg
+    return result
 
 def main() -> None:
     sns.set()
@@ -70,7 +106,8 @@ def main() -> None:
 
     diets = pd.read_csv(BIRD_DIETS)
 
-    plot_seasonal_bird_diversity(locations)
+    # plot_seasonal_bird_diversity(locations)
+    plot_seasonal_diet_diversity(locations, diets)
 
 
 if __name__ == '__main__':
