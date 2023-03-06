@@ -30,12 +30,18 @@ def asserts_equals_testing(location_data, diet_data) -> None:
 
 
      # No asserts equals tests because we return plots
-    info.loc_and_diet()
-    # We expect 3 dots:
-
-    info.plot())
-    # we expect: 
-    '''
+    basic_stats.plot_loc_and_diet_by_region(location_data, diet_data)
+    plt.savefig('testing_data/expected_birds_and_diet_by_region.png', bbox_inches='tight')
+    # We expect: 1 dot for each region(cascades, eastern and pacific), the cascades dot should
+    # have a species value of 2, and a diet value of 8. The eastern dot should have a species 
+    # value of 3 and a diet value of 17/3 which is ~5.7. The pacific dot should have a species 
+    # value of 7 and a diet value of 4.
+    print(basic_stats.plot_species_by_season_and_region(location_data))
+    plt.savefig('testing_data/expected_number_of_bird_species_by_region_and_season.png', bbox_inches='tight')
+    # we expect: 1 bar for each region(cascades, eastern and pacific). The cascade bar should have 2 birds for
+    # each season. The eastern bar should have 3 birds for eash season, the pacific bar should have 7 birds for
+    #  each season except for spring with and fall where they should have 5. 
+    
 
 
 def test_compute_bird_frequencies(location_data: pd.DataFrame) -> None:
@@ -72,16 +78,14 @@ def main():
     no_Unid = diet_data['item_taxon'].str.contains('Unid.') == False
     diet_data = diet_data[no_Unid]
     location_data = pd.read_csv(LOCATION_TEST_DATA)
-    '''
+
     asserts_equals_testing(location_data, diet_data)
-    '''
-    
-    expected_ecoregion_df = pd.read_csv('testing_data/ecoregion_diversity_testing.csv')
-    print(expected_ecoregion_df.to_dict())
+
 
     # testing Cara's functions
     cara_test_df = pd.read_csv(CARA_LOCATION_DATA)
     test_compute_bird_frequencies(cara_test_df)
+
 
 if __name__ == '__main__':
     main()
