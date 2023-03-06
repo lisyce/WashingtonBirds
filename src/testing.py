@@ -1,6 +1,9 @@
 '''
 Kreslyn Hinds and Cara Lisy
-Final Project CSE163
+CSE 163
+This file provides test cases for all of the data analysis
+in the project. (The analysis is found in basic_stats.py
+and bird_and_diet_diversity.py)
 '''
 import pandas as pd
 import numpy as np
