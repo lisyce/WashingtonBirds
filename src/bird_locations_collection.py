@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from utils.constants import ECOREGIONS, MONTHS
 from utils.models import BirdLocation
 
-OUTPUT_FILE = 'data/bird-locations1.csv'
+OUTPUT_FILE = 'data/bird-locations.csv'
 
 
 def bird_data_from_ecoregion(ecoregion: str) -> list[BirdLocation]:
