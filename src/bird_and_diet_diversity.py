@@ -17,19 +17,19 @@ def compute_bird_frequencies(birds: pd.DataFrame) -> pd.DataFrame:
         .any(axis='columns')
     filtered = filtered[at_least_rare]
 
-    # add additional columns for the numerical values of each abundance
+    # replace existing values with ints corresponding to the abundances
     for month in MONTHS:
-        new_name = month + '_abundance_int'
-        filtered[new_name] = filtered[month + '_abundance']\
+        col = month + '_abundance'
+        filtered[col] = filtered[col]\
             .apply(lambda x: ABUNDANCES.get(str(x)))
 
     # compute seasonal frequencies (rounded to 3 decimals)
     for season, months in SEASONS.items():
-        month_abundance_ints = [filtered[m + '_abundance_int'] for m in months]
+        month_abundance_ints = [filtered[m + '_abundance'] for m in months]
         seasonal_freq = sum(month_abundance_ints) / 3
         filtered[season + '_freq'] = round(seasonal_freq, 3)
 
-    return filtered
+    return filtered.reset_index(drop=True)
 
 
 # assumes input df has the columns provided by compute_bird_frequencies
@@ -137,7 +137,6 @@ def main() -> None:
 
     locations = pd.read_csv(BIRD_LOCS)
     locations = compute_bird_frequencies(locations)
-
     diets = pd.read_csv(BIRD_DIETS)
 
     plot_seasonal_bird_diversity(locations)

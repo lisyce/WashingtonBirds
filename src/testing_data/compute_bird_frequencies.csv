@@ -1,0 +1,6 @@
+name,birdweb_society_link,ecoregion,jan_abundance,feb_abundance,mar_abundance,apr_abundance,may_abundance,jun_abundance,jul_abundance,aug_abundance,sep_abundance,oct_abundance,nov_abundance,dec_abundance
+Albatross,url,pacific,,,,I,,,,,,,,
+Crow,url,pacific,,,,I,,R,,,,,,
+Owl,url,eastern,,C,,C,,U,,F,,U,U,
+Chicken,url,eastern,,,,C,,U,,F,,U,U,F
+Crow,url,western,,,,F,,U,,,,U,C,C

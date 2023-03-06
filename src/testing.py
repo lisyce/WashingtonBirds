@@ -1,15 +1,16 @@
 '''
-Kreslyn Hinds
+Kreslyn Hinds and Cara Lisy
 Final Project CSE163
 '''
 import pandas as pd
+import numpy as np
+import bird_and_diet_diversity
 import basic_stats
 from utils.cse163_utils import assert_equals
 
-BIRD_DIET_DATA = "data/bird-diets-by-order.csv"
-BIRD_LOCATION_DATA = "data/bird-locations.csv"
 LOCATION_TEST_DATA = 'testing_data/test_data_location.csv'
 DIET_TEST_DATA = 'testing_data/test_data_diet.csv'
+CARA_LOCATION_DATA = 'testing_data/compute_bird_frequencies.csv'
 
 def asserts_equals_testing(location_data, diet_data) -> None:
     '''
@@ -40,11 +41,40 @@ def asserts_equals_testing(location_data, diet_data) -> None:
     '''
 
 
+def test_compute_bird_frequencies(location_data: pd.DataFrame) -> None:
+    expected = {
+        'name': ['Crow', 'Owl', 'Chicken', 'Crow'],
+        'birdweb_society_link': np.full(4, 'url'),
+        'ecoregion': ['pacific', 'eastern', 'eastern', 'western'],
+        'jan_abundance': [0, 0, 0, 0],
+        'feb_abundance': [0, 4, 0, 0],
+        'mar_abundance': [0, 0, 0, 0],
+        'apr_abundance': [0, 4, 4, 3],
+        'may_abundance': [0, 0, 0, 0],
+        'jun_abundance': [1, 2, 2, 2],
+        'jul_abundance': [0, 0, 0, 0],
+        'aug_abundance': [0, 3, 3, 0],
+        'sep_abundance': [0, 0, 0, 0],
+        'oct_abundance': [0, 2, 2, 2],
+        'nov_abundance': [0, 2, 2, 4],
+        'dec_abundance': [0, 0, 3, 4],
+        'wi_freq': [0, 4/3, 1, 4/3],
+        'sp_freq': [0, 4/3, 4/3, 1],
+        'su_freq': [1/3, 5/3, 5/3, 2/3],
+        'au_freq': [0, 4/3, 4/3, 2]
+    }
+    expected = pd.DataFrame(expected)
+
+    received = bird_and_diet_diversity.compute_bird_frequencies(location_data)
+    assert_equals(expected, received)
+
+
 def main():
-    diet_data = pd.read_csv(BIRD_DIET_DATA)
+    # testing Kreslyn's functions
+    diet_data = pd.read_csv(DIET_TEST_DATA)
     no_Unid = diet_data['item_taxon'].str.contains('Unid.') == False
     diet_data = diet_data[no_Unid]
-    location_data = pd.read_csv(BIRD_LOCATION_DATA)
+    location_data = pd.read_csv(LOCATION_TEST_DATA)
     '''
     asserts_equals_testing(location_data, diet_data)
     '''
@@ -52,7 +82,9 @@ def main():
     expected_ecoregion_df = pd.read_csv('testing_data/ecoregion_diversity_testing.csv')
     print(expected_ecoregion_df.to_dict())
 
-
+    # testing Cara's functions
+    cara_test_df = pd.read_csv(CARA_LOCATION_DATA)
+    test_compute_bird_frequencies(cara_test_df)
 
 if __name__ == '__main__':
     main()
