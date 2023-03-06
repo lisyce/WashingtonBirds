@@ -7,6 +7,8 @@ import numpy as np
 import bird_and_diet_diversity
 import basic_stats
 from utils.cse163_utils import assert_equals
+import testing_data.expected_dictionaries as expected_dicts
+import matplotlib.pyplot as plt
 
 LOCATION_TEST_DATA = 'testing_data/test_data_location.csv'
 DIET_TEST_DATA = 'testing_data/test_data_diet.csv'
@@ -16,22 +18,17 @@ def asserts_equals_testing(location_data, diet_data) -> None:
     '''
     to use the asserts equals from class on a data frame, they must first be
         converted to dictionaries'''
-    expected_ecoregion_df = pd.read_csv('ecoregion_diversity_testing.csv')
-    expected_replaced_float_df = pd.read_csv('expected_replaced_float.csv')
-    expected_replaced_df = pd.read_csv('expected_replaced.csv')
+
     assert_equals([9, 8], basic_stats.get_total_birds(location_data, diet_data))
     assert_equals(15, basic_stats.get_total_foods(diet_data))
     assert_equals(4, basic_stats.get_average_foods(diet_data))
-    assert_equals(expected_ecoregion_df.to_dict(), basic_stats.ecoregion_diversity(location_data).to_dict())
-    # do we need this????
-    # assert_equals(blank, info.ecoregion_common())
+    assert_equals(expected_dicts.for_ecoregion_diversity(), basic_stats.ecoregion_diversity(location_data).to_dict())
+    assert_equals(expected_dicts.for_replaced_float(), basic_stats.birds_replaced_floats(location_data).to_dict())
+    assert_equals(expected_dicts.for_replaced(), basic_stats.birds_replaced(location_data).to_dict())
+    assert_equals(expected_dicts.for_scores(), basic_stats.bird_scores(location_data).to_dict())
+    assert_equals(expected_dicts.for_diet_summarized(), basic_stats.data_diet_summarized(location_data, diet_data).to_dict())
 
-    assert_equals(expected_replaced_float_df.to_dict(), basic_stats.birds_replaced_floats(location_data).to_dict())
-    # assert_equals(expected_replaced_df.to_dict(), basic_stats.birds_replaced(location_data).to_dict())
-    
-    # assert_equals(blank, basic_stats.bird_scores())
-    # assert_equals(blank, basic_stats.data_diet_summarized(location_data, diet_data))
-    '''
+
      # No asserts equals tests because we return plots
     info.loc_and_diet()
     # We expect 3 dots:
