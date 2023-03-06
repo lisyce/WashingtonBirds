@@ -4,3 +4,4 @@ pandas
 matplotlib
 seaborn
 flake8
+numpy
