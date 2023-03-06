@@ -12,7 +12,8 @@ import matplotlib.pyplot as plt
 
 KRESLYN_LOCATION_TEST_DATA = 'testing_data/test_data_location.csv'
 KRESLYN_DIET_TEST_DATA = 'testing_data/test_data_diet.csv'
-CARA_LOCATION_DATA = 'testing_data/compute_bird_frequencies.csv'
+CARA_LOCATION_DATA = 'testing_data/test_data_small_location.csv'
+CARA_DIET_DATA = 'testing_data/test_data_small_diet.csv'
 
 
 def asserts_equals_testing(location_data: pd.DataFrame,
@@ -87,6 +88,41 @@ def test_compute_bird_frequencies(location_data: pd.DataFrame) -> None:
     assert_equals(expected, received)
 
 
+def test_filter_and_merge_food_and_bfi(locations: pd.DataFrame, diets: pd.DataFrame) ->None:
+    expected = {
+        'bird_name': ['Chicken', 'Crow', 'Crow', 'Owl'],
+        'unique_food_count': [1, 2, 2, 2],
+        'name': ['Chicken', 'Crow', 'Crow', 'Owl'],
+        'ecoregion': ['eastern', 'pacific', 'western', 'eastern'],
+        'wi_freq': [1, 0, 4/3, 4/3],
+        'sp_freq': [4/3, 0, 1, 4/3],
+        'su_freq': [5/3, 1/3, 2/3, 5/3],
+        'au_freq': [4/3, 0, 2, 4/3]
+    }
+    expected = pd.DataFrame(expected)
+
+    bfis = bird_and_diet_diversity.compute_bird_frequencies(locations)
+    received = bird_and_diet_diversity.filter_and_merge_food_and_bfi(bfis, diets)
+    assert_equals(expected, received)
+
+
+def test_weighted_avg(location_data: pd.DataFrame, diet_data: pd.DataFrame) -> None:
+    expected = {
+        'ecoregion': ['eastern', 'pacific', 'western'],
+        'sp_diet_wavg': [1.5, 0, 2],
+        'su_diet_wavg': [1.5, 2, 2],
+        'au_diet_wavg': [1.5, 0, 2],
+        'wi_diet_wavg': [(1 + 2 * 4/3) / (7/3), 0, 2]
+    }
+
+    expected = pd.DataFrame(expected)
+
+    freqs = bird_and_diet_diversity.compute_bird_frequencies(location_data)
+    processed = bird_and_diet_diversity.filter_and_merge_food_and_bfi(freqs, diet_data)
+    received = bird_and_diet_diversity.weighted_avg(processed)
+    assert_equals(expected, received)
+
+
 def main():
     # testing Kreslyn's functions
     diet_data = pd.read_csv(KRESLYN_DIET_TEST_DATA)
@@ -96,8 +132,11 @@ def main():
     asserts_equals_testing(location_data, diet_data)
 
     # testing Cara's functions
-    cara_test_df = pd.read_csv(CARA_LOCATION_DATA)
-    test_compute_bird_frequencies(cara_test_df)
+    cara_location_df = pd.read_csv(CARA_LOCATION_DATA)
+    cara_diet_df = pd.read_csv(CARA_DIET_DATA)
+    test_compute_bird_frequencies(cara_location_df)
+    test_filter_and_merge_food_and_bfi(cara_location_df, cara_diet_df)
+    test_weighted_avg(cara_location_df, cara_diet_df)
 
 
 if __name__ == '__main__':

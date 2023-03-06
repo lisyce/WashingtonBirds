@@ -66,11 +66,10 @@ def plot_seasonal_bird_diversity(locations: pd.DataFrame) -> None:
 
 
 # assumes locations df has the columns provided by compute_bird_frequencies
-def plot_seasonal_diet_diversity(locations: pd.DataFrame, diets: pd.DataFrame):
-    plt.clf()
+def filter_and_merge_food_and_bfi(locations: pd.DataFrame, diets: pd.DataFrame) -> pd.DataFrame:
     unique_bird_locs = locations.drop_duplicates(subset=['name'])
     merged = diets.merge(unique_bird_locs, left_on='bird_name',
-                         right_on='name', how='left')
+                         right_on='name', how='inner')
 
     # drop unidentified food rows for this analysis
     identified = ~merged['item_taxon'].str.startswith('Unid.')
@@ -88,6 +87,13 @@ def plot_seasonal_diet_diversity(locations: pd.DataFrame, diets: pd.DataFrame):
                                       'su_freq', 'au_freq']]
     food_and_bfi_data = food_counts.merge(seasonal_bfis, left_on='bird_name',
                                           right_on='name', how='left')
+    return food_and_bfi_data
+
+
+# assumes locations df has the columns provided by compute_bird_frequencies
+def plot_seasonal_diet_diversity(locations: pd.DataFrame, diets: pd.DataFrame):
+    plt.clf()
+    food_and_bfi_data = filter_and_merge_food_and_bfi(locations, diets)
     avgs = weighted_avg(food_and_bfi_data)
 
     # plot graphs
@@ -117,14 +123,19 @@ def weighted_avg(df: pd.DataFrame) -> pd.DataFrame | None:
     result['au_diet_wavg'] = np.nan
     result['wi_diet_wavg'] = np.nan
 
-    for ecoregion in ECOREGIONS:
+    for ecoregion in result['ecoregion'].values:
         # filter to just that ecoregion
         sub_df = df[df['ecoregion'] == ecoregion]
 
         # find a weighted avg for each season
         for season in SEASONS.keys():
             num = sub_df[season + '_freq'] * sub_df['unique_food_count']
-            diet_wavg = num.sum() / sub_df[season + '_freq'].sum()
+            den = sub_df[season + '_freq'].sum()
+            if (den == 0):
+                diet_wavg = 0
+            else:
+                diet_wavg = num.sum() / den
+
             idx = result[result['ecoregion'] == ecoregion].index
             result.loc[idx, season + '_diet_wavg'] = diet_wavg
 
