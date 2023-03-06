@@ -18,6 +18,7 @@ class BirdLocation(TypedDict):
     nov_abundance: str
     dec_abundance: str
 
+
 class BirdDiet(TypedDict):
     bird_name: str
     item_taxon: str

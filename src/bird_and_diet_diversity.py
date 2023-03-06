@@ -8,27 +8,35 @@ from utils.constants import MONTHS, ABUNDANCES, SEASONS, ECOREGIONS
 BIRD_LOCS = 'data/bird-locations.csv'
 BIRD_DIETS = 'data/bird-diets-by-order.csv'
 
+
 def compute_bird_frequencies(birds: pd.DataFrame) -> pd.DataFrame:
-    # replace all 'I' values with NaN and filter for birds that are at least rare in one month
+    # replace all 'I' values with NaN
+    # and filter for birds that are at least rare in one month
     filtered = birds.replace('I', math.nan)
-    at_least_rare = filtered.loc[:, 'jan_abundance':'dec_abundance'].any(axis='columns')
+    at_least_rare = filtered.loc[:, 'jan_abundance':'dec_abundance']\
+        .any(axis='columns')
     filtered = filtered[at_least_rare]
-    
+
     # add additional columns for the numerical values of each abundance
     for month in MONTHS:
-        new_name = filtered[month + '_abundance'].name[0:3] + '_abundance_int'
-        filtered[new_name] = filtered[month + '_abundance'].apply(lambda x: ABUNDANCES.get(str(x)))
+        new_name = month + '_abundance_int'
+        filtered[new_name] = filtered[month + '_abundance']\
+            .apply(lambda x: ABUNDANCES.get(str(x)))
 
     # compute seasonal frequencies (rounded to 3 decimals)
     for season, months in SEASONS.items():
-        filtered[season + '_freq'] = round(sum([filtered[month + '_abundance_int'] for month in months]) / 3, 3)
-    
+        month_abundance_ints = [filtered[m + '_abundance_int'] for m in months]
+        seasonal_freq = sum(month_abundance_ints) / 3
+        filtered[season + '_freq'] = round(seasonal_freq, 3)
+
     return filtered
+
 
 # assumes input df has the columns provided by compute_bird_frequencies
 def plot_seasonal_bird_diversity(locations: pd.DataFrame) -> None:
     plt.clf()
-    # compute sum of bird frequencies in each ecoregion ("bird frequency index")
+    # compute sum of bird frequencies in each ecoregion
+    # aka "bird frequency index"
     sp_freq = locations.groupby('ecoregion')['sp_freq'].sum()
     su_freq = locations.groupby('ecoregion')['su_freq'].sum()
     au_freq = locations.groupby('ecoregion')['au_freq'].sum()
@@ -53,27 +61,35 @@ def plot_seasonal_bird_diversity(locations: pd.DataFrame) -> None:
     plt.title('Bird Frequency Index of Each Ecoregion by Season')
     plt.xlabel('Season')
     plt.ylabel('Bird Frequency Index')
-    
+
     plt.savefig('charts/seasonal_bird_diversity.png', bbox_inches='tight')
+
 
 # assumes locations df has the columns provided by compute_bird_frequencies
 def plot_seasonal_diet_diversity(locations: pd.DataFrame, diets: pd.DataFrame):
     plt.clf()
     unique_bird_locs = locations.drop_duplicates(subset=['name'])
-    merged = diets.merge(unique_bird_locs, left_on='bird_name', right_on='name', how='left')
+    merged = diets.merge(unique_bird_locs, left_on='bird_name',
+                         right_on='name', how='left')
 
     # drop unidentified food rows for this analysis
     identified = ~merged['item_taxon'].str.startswith('Unid.')
     merged = merged[identified]
-    
-    food_counts = merged.groupby('bird_name')['item_taxon'].count().to_frame().reset_index()
-    food_counts.rename(columns={'item_taxon': 'unique_food_count'}, inplace=True)
 
-    # weighted average = sum(# unique foods for bird * bfi for bird) / sum(bfi for bird)
-    seasonal_bfis = locations.loc[:, ['name', 'ecoregion', 'wi_freq', 'sp_freq', 'su_freq', 'au_freq']]
-    food_and_bfi_data = food_counts.merge(seasonal_bfis, left_on='bird_name', right_on='name', how='left')
+    food_counts = merged.groupby('bird_name')['item_taxon'].count()
+    food_counts = food_counts.to_frame().reset_index()
+    food_counts.rename(columns={'item_taxon': 'unique_food_count'},
+                       inplace=True)
+
+    # weighted average = sum(# unique foods for bird * bfi for bird)
+    # / sum(bfi for bird)
+    seasonal_bfis = locations.loc[:, ['name', 'ecoregion',
+                                      'wi_freq', 'sp_freq',
+                                      'su_freq', 'au_freq']]
+    food_and_bfi_data = food_counts.merge(seasonal_bfis, left_on='bird_name',
+                                          right_on='name', how='left')
     avgs = weighted_avg(food_and_bfi_data)
-    
+
     # plot graphs
     x_labels = ['Spring', 'Summer', 'Autumn', 'Winter']
     linestyles = ['-', '--', '-.']
@@ -87,29 +103,33 @@ def plot_seasonal_diet_diversity(locations: pd.DataFrame, diets: pd.DataFrame):
     plt.title('Bird Diet Index of Each Ecoregion by Season')
     plt.xlabel('Season')
     plt.ylabel('Bird Diet Index')
-    
+
     plt.savefig('charts/seasonal_diet_diversity.png', bbox_inches='tight')
-    
-# takes in df and returns weighted avg of number of unique foods per bird for each ecoregion each season as df
+
+
+# takes in df and returns weighted avg of number of unique
+# foods per bird for each ecoregion each season as df
 def weighted_avg(df: pd.DataFrame) -> pd.DataFrame | None:
-    result = df['ecoregion'].dropna().drop_duplicates().to_frame().reset_index(drop=True)
+    result = df['ecoregion'].dropna().drop_duplicates()
+    result = result.to_frame().reset_index(drop=True)
     result['sp_diet_wavg'] = np.nan
     result['su_diet_wavg'] = np.nan
     result['au_diet_wavg'] = np.nan
     result['wi_diet_wavg'] = np.nan
 
-
     for ecoregion in ECOREGIONS:
         # filter to just that ecoregion
-        filtered = df[df['ecoregion'] == ecoregion]
+        sub_df = df[df['ecoregion'] == ecoregion]
 
         # find a weighted avg for each season
         for season in SEASONS.keys():
-            diet_wavg = (filtered[season + '_freq'] * filtered['unique_food_count']).sum() / filtered[season + '_freq'].sum()
-            # result.loc[row, season + '_diet_wavg'] = diet_wavg
+            num = sub_df[season + '_freq'] * sub_df['unique_food_count']
+            diet_wavg = num.sum() / sub_df[season + '_freq'].sum()
             idx = result[result['ecoregion'] == ecoregion].index
             result.loc[idx, season + '_diet_wavg'] = diet_wavg
+
     return result.sort_values('ecoregion').reset_index(drop=True)
+
 
 def main() -> None:
     sns.set()

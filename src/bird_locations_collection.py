@@ -6,6 +6,7 @@ from utils.models import BirdLocation
 
 OUTPUT_FILE = 'data/bird-locations1.csv'
 
+
 def bird_data_from_ecoregion(ecoregion: str) -> list[BirdLocation]:
     html = requests.get('http://becomewww.birdweb.org/BIRDWEB/' +
                         'ecoregion/sites/{}/site'.format(ecoregion)).text

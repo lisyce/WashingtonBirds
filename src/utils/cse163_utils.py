@@ -5,6 +5,7 @@ from typing import Any
 
 TOLERANCE = 0.001
 
+
 def check_approx_equals(expected: Any, received: Any) -> bool:
     """
     Checks received against expected, and returns whether or
@@ -49,6 +50,7 @@ def check_approx_equals(expected: Any, received: Any) -> bool:
     except Exception as e:
         print(f"EXCEPTION: Raised when checking check_approx_equals {e}")
         return False
+
 
 def assert_equals(expected: Any, received: Any) -> None:
     """

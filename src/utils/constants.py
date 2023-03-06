@@ -35,6 +35,7 @@ ABUNDANCES = {
     'nan': 0
 }
 
+
 class Classifications(Enum):
     KINGDOM = 'kingdom'
     PHYLUM = 'phylum'
