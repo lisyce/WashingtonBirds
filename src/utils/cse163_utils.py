@@ -1,3 +1,9 @@
+"""
+Course Staff
+CSE 163
+File taken directly from one of the CSE 163 assignments.
+No modifications made for this project.
+"""
 import math
 import numpy as np
 import pandas as pd

@@ -3,7 +3,6 @@ Kreslyn Hinds
 CSE 163 Section AI
 This file holds the expected dictionaries used in my testing file.
 '''
-from typing import Any
 
 
 def for_diet_summarized() -> dict[str, list[str]]:

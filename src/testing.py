@@ -62,6 +62,10 @@ def asserts_equals_testing(location_data: pd.DataFrame,
 
 
 def test_compute_bird_frequencies(location_data: pd.DataFrame) -> None:
+    """
+    Tests the compute_bird_frequencies method from
+    bird_and_diet_diversity.py
+    """
     expected = {
         'name': ['Crow', 'Owl', 'Chicken', 'Crow'],
         'birdweb_society_link': np.full(4, 'url'),
@@ -88,7 +92,12 @@ def test_compute_bird_frequencies(location_data: pd.DataFrame) -> None:
     assert_equals(expected, received)
 
 
-def test_filter_and_merge_food_and_bfi(locations: pd.DataFrame, diets: pd.DataFrame) ->None:
+def test_filter_and_merge_food_and_bfi(locations: pd.DataFrame,
+                                       diets: pd.DataFrame) -> None:
+    """
+    Tests the filter_and_merge_food_and_bfi method from
+    bird_and_diet_diversity.py
+    """
     expected = {
         'bird_name': ['Chicken', 'Crow', 'Crow', 'Owl'],
         'unique_food_count': [1, 2, 2, 2],
@@ -102,11 +111,16 @@ def test_filter_and_merge_food_and_bfi(locations: pd.DataFrame, diets: pd.DataFr
     expected = pd.DataFrame(expected)
 
     bfis = bird_and_diet_diversity.compute_bird_frequencies(locations)
-    received = bird_and_diet_diversity.filter_and_merge_food_and_bfi(bfis, diets)
+    received = bird_and_diet_diversity.\
+        filter_and_merge_food_and_bfi(bfis, diets)
     assert_equals(expected, received)
 
 
-def test_weighted_avg(location_data: pd.DataFrame, diet_data: pd.DataFrame) -> None:
+def test_weighted_avg(location_data: pd.DataFrame,
+                      diet_data: pd.DataFrame) -> None:
+    """
+    Tests the weighted_avg method from bird_and_diet_diversity.py
+    """
     expected = {
         'ecoregion': ['eastern', 'pacific', 'western'],
         'sp_diet_wavg': [1.5, 0, 2],
@@ -118,7 +132,8 @@ def test_weighted_avg(location_data: pd.DataFrame, diet_data: pd.DataFrame) -> N
     expected = pd.DataFrame(expected)
 
     freqs = bird_and_diet_diversity.compute_bird_frequencies(location_data)
-    processed = bird_and_diet_diversity.filter_and_merge_food_and_bfi(freqs, diet_data)
+    processed = bird_and_diet_diversity.\
+        filter_and_merge_food_and_bfi(freqs, diet_data)
     received = bird_and_diet_diversity.weighted_avg(processed)
     assert_equals(expected, received)
 
@@ -134,6 +149,7 @@ def main():
     # testing Cara's functions
     cara_location_df = pd.read_csv(CARA_LOCATION_DATA)
     cara_diet_df = pd.read_csv(CARA_DIET_DATA)
+
     test_compute_bird_frequencies(cara_location_df)
     test_filter_and_merge_food_and_bfi(cara_location_df, cara_diet_df)
     test_weighted_avg(cara_location_df, cara_diet_df)

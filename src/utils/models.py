@@ -1,7 +1,18 @@
+"""
+Cara Lisy and Kreslyn Hinds
+CSE 163
+This class provides some useful TypedDicts for type annotations
+throughout the project. Has types for bird location data
+and birdd diet data.
+"""
 from typing import TypedDict
 
 
 class BirdLocation(TypedDict):
+    """
+    Represents location data about a bird in one particular ecoregion
+    as represented at birdweb.org
+    """
     name: str
     birdweb_society_link: str
     ecoregion: str
@@ -20,6 +31,10 @@ class BirdLocation(TypedDict):
 
 
 class BirdDiet(TypedDict):
+    """
+    Represents one item of a particular bird's diet as
+    represented at aviandiet.unc.edu
+    """
     bird_name: str
     item_taxon: str
     diet_percentage: float

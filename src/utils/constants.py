@@ -1,3 +1,12 @@
+"""
+Cara Lisy and Kreslyn Hinds
+CSE 163
+This file contains useful constants applicable throughout
+the project including ecoregion names, months of the year,
+which months are a part of which season, numerical values
+for monthly abundance classifications, and all the taxonomic
+classifications that diet data could be collected for.
+"""
 from enum import Enum
 
 
@@ -37,6 +46,10 @@ ABUNDANCES = {
 
 
 class Classifications(Enum):
+    """
+    Enum for all of the possible taxonomic classifications
+    to collect diet data for
+    """
     KINGDOM = 'kingdom'
     PHYLUM = 'phylum'
     CLASS = 'class'
