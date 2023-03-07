@@ -1,3 +1,9 @@
+"""
+Cara Lisy
+CSE 163
+This program collects data about bird's locations in
+WA state. Data is collected from birdweb.org
+"""
 import requests
 import csv
 from bs4 import BeautifulSoup
@@ -8,6 +14,12 @@ OUTPUT_FILE = 'data/bird-locations.csv'
 
 
 def bird_data_from_ecoregion(ecoregion: str) -> list[BirdLocation]:
+    """
+    Accepts a WA state ecoregion as a string and collects data
+    from birdweb.org about the birds found in that region and
+    how common they are in each month of the year. Returns this
+    data as a list of BirdLocations.
+    """
     html = requests.get('http://becomewww.birdweb.org/BIRDWEB/' +
                         'ecoregion/sites/{}/site'.format(ecoregion)).text
 
