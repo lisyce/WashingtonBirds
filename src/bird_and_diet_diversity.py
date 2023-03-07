@@ -115,7 +115,6 @@ def weighted_avg(df: pd.DataFrame) -> pd.DataFrame | None:
     return result.sort_values('ecoregion').reset_index(drop=True)
 
 
-# assumes locations df has the columns provided by compute_bird_frequencies
 def plot_seasonal_diet_diversity(locations: pd.DataFrame, diets: pd.DataFrame):
     """
     Accepts an input DataFrame of birds and their locational abundances
