@@ -1,0 +1,14 @@
+name,birdweb_society_link,ecoregion,jan_abundance,feb_abundance,mar_abundance,apr_abundance,may_abundance,jun_abundance,jul_abundance,aug_abundance,sep_abundance,oct_abundance,nov_abundance,dec_abundance
+Albatross,URL_Here,pacific,,,,I,,U,,,,U,U,
+Loon,URL_Here,pacific,R,R,R,C,C,C,C,C,C,C,U,R
+Crow,URL_Here,pacific,C,C,C,C,C,F,C,C,C,C,C,C
+Crow,URL_Here,cascades,C,C,C,C,C,C,C,C,C,C,C,C
+Crow,URL_Here,eastern,C,C,C,C,C,C,C,C,F,C,C,C
+Eagle,URL_Here,cascades,,,,U,U,R,U,U,U,U,R,R
+Eagle,URL_Here,pacific,,,,U,U,R,U,R,U,U,R,R
+Sparrow,URL_Here,pacific,,,U,C,R,C,U,U,U,,,
+Hawk,URL_Here,eastern,,,,U,U,R,U,U,U,U,R,R
+Owl,URL_Here,eastern,,,R,C,C,C,C,C,C,C,R,R
+Hummingbird,URL_Here,pacific,,,R,C,C,C,C,C,C,C,R,R
+Blue Jay,URL_Here,pacific,,,R,C,C,C,C,C,C,C,R,R
+
