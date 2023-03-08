@@ -22,10 +22,10 @@ CARA_DIET_DATA = 'testing_data/test_data_small_diet.csv'
 def asserts_equals_testing(location_data: pd.DataFrame,
                            diet_data: pd.DataFrame) -> None:
     '''
-    Use the asserts equals from class I will test my methods from 
-        basic_stats.py. I am more familiar with the asserts equals for
-        dictionaries than the asserts equals for dataframes. Because of that 
-        I have converted the expected and recieved values to dictionaries.
+    Use the asserts equals from class I will test my methods from
+    basic_stats.py. I am more familiar with the asserts equals for
+    dictionaries than the asserts equals for dataframes. Because of that
+    I have converted the expected and recieved values to dictionaries.
     There is nothing returned in these asserts equals tests.
     Note that there is a worded expectation for the plotting methods.
     '''
@@ -49,20 +49,20 @@ def asserts_equals_testing(location_data: pd.DataFrame,
                 bbox_inches='tight')
     '''
     We expect: 1 dot for each region(cascades, eastern and pacific), the
-        cascades dot should have a species value of 2, and a diet value of 8.
-        The eastern dot should have a species value of 3 and a diet value of
-        17/3 which is ~5.7. The pacific dot should have a species value of 7
-        and a diet value of 4.
+    cascades dot should have a species value of 2, and a diet value of 8.
+    The eastern dot should have a species value of 3 and a diet value of
+    17/3 which is ~5.7. The pacific dot should have a species value of 7
+    and a diet value of 4.
     '''
     basic_stats.plot_species_by_season_and_region(location_data)
     plt.savefig('testing_data/expected_number_of_bird_species_by_region_'
                 'and_seasons.png', bbox_inches='tight')
     '''
     We expect: 1 bar for each region(cascades, eastern and pacific). The
-        cascade bar should have 2 birds for each season. The eastern bar
-        should have 3 birds for eash season, the pacific bar should have
-        7 birds for each season except for spring with and fall where they
-        should have 5.
+    cascade bar should have 2 birds for each season. The eastern bar
+    should have 3 birds for eash season, the pacific bar should have
+    7 birds for each season except for spring with and fall where they
+    should have 5.
     '''
 
 
