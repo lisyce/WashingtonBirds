@@ -96,7 +96,7 @@ def weighted_avg(df: pd.DataFrame) -> pd.DataFrame | None:
     result['au_diet_wavg'] = np.nan
     result['wi_diet_wavg'] = np.nan
 
-    for ecoregion in result['ecoregion'].values:
+    for ecoregion in result['ecoregion'].unique():
         # filter to just that ecoregion
         sub_df = df[df['ecoregion'] == ecoregion]
 
@@ -183,6 +183,44 @@ def plot_seasonal_bird_diversity(locations: pd.DataFrame) -> None:
     plt.savefig('charts/seasonal_bird_diversity.png', bbox_inches='tight')
 
 
+def plot_bfi_box_plot(locations: pd.DataFrame) -> None:
+    plt.clf()
+
+    fig, ax = plt.subplots(5, 2, figsize=(12, 15))
+
+    # fill box plots with colors that match their line graph counterparts for continuity
+    matching_colors = {
+        'blue_mountains': 'blue',
+        'canadian_rockies': 'orange',
+        'columbia_plateau': 'green',
+        'east_cascades': 'red',
+        'north_cascades': 'purple',
+        'oceanic': 'brown',
+        'okanogan': 'pink',
+        'pacific_northwest_coast': 'gray',
+        'puget_trough': 'olive',
+        'west_cascades': 'cyan'
+    }
+
+    for idx, ecoregion in enumerate(locations['ecoregion'].sort_values().drop_duplicates()):
+        filtered = locations[locations['ecoregion'] == ecoregion]
+
+        this_ax = ax[idx % 5, idx % 2]
+        this_ax.boxplot(filtered.loc[:, ['wi_freq', 'au_freq', 'su_freq', 'sp_freq']], vert=False, labels=['Winter', 'Autumn', 'Summer', 'Spring'])
+        this_ax.set_title(ecoregion.replace('_', ' ').title())
+    
+        # fill boxes
+        # for bplot in bplots:
+        #     for patch in bplot['boxes']:
+        #         patch.set_facecolor(matching_colors['ecoregion'])
+
+
+
+    fig.suptitle("Distributions of Bird Frequency Indexes")
+    fig.tight_layout()
+    plt.savefig('charts/seasonal_bfi_boxplots.png')
+
+
 def main() -> None:
     sns.set()
     sns.set_style('ticks')
@@ -191,8 +229,10 @@ def main() -> None:
     locations = compute_bird_frequencies(locations)
     diets = pd.read_csv(BIRD_DIETS)
 
-    plot_seasonal_bird_diversity(locations)
-    plot_seasonal_diet_diversity(locations, diets)
+
+    plot_bfi_box_plot(locations)
+    # plot_seasonal_bird_diversity(locations)
+    # plot_seasonal_diet_diversity(locations, diets)
 
 
 if __name__ == '__main__':
