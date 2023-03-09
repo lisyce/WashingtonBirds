@@ -11,16 +11,16 @@ from enum import Enum
 
 
 ECOREGIONS = [
-    'oceanic',
+    'blue_mountains',
+    'canadian_rockies',
+    'columbia_plateau',
+    'east_cascades',
+    'north_cascades',
     'pacific_northwest_coast',
     'puget_trough',
-    'north_cascades',
-    'west_cascades',
-    'east_cascades',
+    'oceanic',
     'okanogan',
-    'canadian_rockies',
-    'blue_mountains',
-    'columbia_plateau'
+    'west_cascades',
 ]
 
 MONTHS = [
