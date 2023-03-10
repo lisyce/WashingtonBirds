@@ -18,7 +18,7 @@ def get_total_birds(location_data: pd.DataFrame,
                     diet_data: pd.DataFrame) -> list[int]:
     '''
     Returns a list with the total number of birds in the location data set.
-    and the diet data set
+    and the diet data set (in that order)
     '''
     birds_location_data = location_data['name'].unique()
     birds_diet_data = diet_data['bird_name'].unique()

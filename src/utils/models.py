@@ -3,7 +3,7 @@ Cara Lisy and Kreslyn Hinds
 CSE 163
 This class provides some useful TypedDicts for type annotations
 throughout the project. Has types for bird location data
-and birdd diet data.
+and bird diet data.
 """
 from typing import TypedDict
 
