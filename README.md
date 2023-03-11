@@ -21,7 +21,7 @@
 
 # Reproducing Results
 
-> :pushpin: All modules should be run from inside the `src` folder. Requires at least Python 3.10
+> :pushpin: All modules should be run from inside the `src` folder in the terminal. Requires at least Python 3.10
 
 1. Install the libraries specified in `requirements.txt`.
 2. All data files are already included with this project and can be found in the `data` folder.
